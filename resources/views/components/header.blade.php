@@ -44,7 +44,7 @@
                                     <h4>About Us</h4>
                                     <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae.</p>
                                     <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada volutpat.</p>
-                                    <a href="about.html" class="theme-btn btn-one">About Us</a>
+                                    <a href="/about" class="theme-btn btn-one">About Us</a>
                                 </div>
                                 <div class="contact-info">
                                     <h4>Contact Info</h4>
@@ -91,18 +91,13 @@
                                 <ul class="navigation clearfix">
                                     <li class="current dropdown"><a href="">Home</a>
                                         <ul>
-                                            <li><a href="">Home Page 01</a></li>
-                                            <li><a href="index-2.html">Home Page 02</a></li>
-                                            <li><a href="index-3.html">Home Page 03</a></li>
-                                            <li class="dropdown"><a href="">Header Style</a>
+                                            <li><a href="/index">Home Page 02</a></li>
                                                 <ul>
-                                                    <li><a href="">Header Style 01</a></li>
-                                                    <li><a href="index-2.html">Header Style 02</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="./about.html">About</a></li>
+                                    <li><a href="/about">About</a></li>
                                     <li class="dropdown"><a href="">Services</a>
                                         <ul>
                                             <li><a href="service.html">Our Services</a></li>
@@ -128,13 +123,11 @@
                                             </li>
                                             <li><a href="testimonial.html">Testimonial</a></li>
                                             <li><a href="coming-soon.html">Coming Soon</a></li>
-                                            <li><a href="error.html">404</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="">Blog</a>
                                         <ul>
                                             <li><a href="blog.html">Our Blog</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="./c">Contact</a></li>
@@ -230,8 +223,8 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="info-list clearfix"> 
-                                         <li><i class="icon-17"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
-                                        <li><i class="icon-18"></i><a href="mailto:info@envato.com">info@envato.com</a></li>
+                                         <li><i class="fa-solid fa-phone"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
+                                        <li><i class="fa-solid fa-envelope"></i><a href="mailto:info@envato.com">info@envato.com</a></li>
                                         <li><i class="fa-solid fa-location-dot"></i>380 St Kilda Road, Melbourne VIC 3004, Australia</li>
                                     </ul>
                                 </div>

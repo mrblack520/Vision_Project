@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -33,7 +34,7 @@
     <link href="assets/css/elpath.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
-
+    
 </head>
 
 
@@ -41,6 +42,8 @@
 
 <body>
 
+    @extends('components.header')
+    @section('content')
     <div class="boxed_wrapper">
 
         <!-- mouse-pointer -->
@@ -623,6 +626,7 @@
         <!-- Scroll to top end -->
 
     </div>
+    @endsection
 
 
     <!-- jequery plugins -->

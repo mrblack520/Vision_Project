@@ -1,5 +1,7 @@
  /* Css For Inventarc */
-
+body{
+    overflow-x: hidden;
+}
  /************ TABLE OF CONTENTS ***************
 1. Fonts
 2. Reset

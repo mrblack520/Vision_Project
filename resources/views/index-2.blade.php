@@ -173,21 +173,16 @@
                                     <ul class="navigation clearfix">
                                         <li class="current dropdown"><a href="index.html">Home</a>
                                             <ul>
-                                                <li><a href="index.html">Home Page 01</a></li>
                                                 <li><a href="index-2.html">Home Page 02</a></li>
-                                                <li><a href="index-3.html">Home Page 03</a></li>
-                                                <li class="dropdown"><a href="index.html">Header Style</a>
                                                     <ul>
-                                                        <li><a href="index.html">Header Style 01</a></li>
-                                                        <li><a href="index-2.html">Header Style 02</a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="/about">About</a></li>
                                         <li class="dropdown"><a href="index.html">Services</a>
                                             <ul>
-                                                <li><a href="service.html">Our Services</a></li>
+                                                <li><a href="/service">Our Services</a></li>
                                                 <li><a href="service-details.html">Agency Minimal</a></li>
                                                 <li><a href="service-details-2.html">Interior Design</a></li>
                                                 <li><a href="service-details-3.html">Urban Design</a></li>
@@ -197,7 +192,6 @@
                                         <li class="dropdown"><a href="index.html">Projects</a>
                                             <ul>
                                                 <li><a href="project.html">Our Project</a></li>
-                                                <li><a href="project-details.html">Project Details</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="index.html">Pages</a>
@@ -205,18 +199,15 @@
                                                 <li class="dropdown"><a href="index.html">Team</a>
                                                     <ul>
                                                         <li><a href="team.html">Our Team</a></li>
-                                                        <li><a href="team-details.html">Team Details</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="testimonial.html">Testimonial</a></li>
                                                 <li><a href="coming-soon.html">Coming Soon</a></li>
-                                                <li><a href="error.html">404</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="index.html">Blog</a>
                                             <ul>
                                                 <li><a href="blog.html">Our Blog</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="contact.html">Contact</a></li>
@@ -1063,7 +1054,7 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="info-list clearfix">
-                                        <li><i class="icon-17"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
+                                        <li><i class="fa-solid fa-phone"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
                                         <li><i class="icon-18"></i><a href="mailto:info@envato.com">info@envato.com</a></li>
                                         <li><i class="fa-solid fa-location-dot"Z></i>380 St Kilda Road, Melbourne <br />VIC 3004, Australia</li>
                                     </ul>
