@@ -1,44 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-    <title>Decore interiors</title>
-
-    <!-- Fav Icon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />    
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <!-- Stylesheets -->
-    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
-    <link href="assets/css/flaticon.css" rel="stylesheet">
-    <link href="assets/css/owl.css" rel="stylesheet">
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/nice-select.css" rel="stylesheet">
-    <link href="assets/css/color.css" rel="stylesheet">
-    <link href="assets/css/elpath.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet">
-
-</head>
-
-
-<!-- page wrapper -->
-
-<body>
+@extends('components.header')
+    @section('content')
 
     <div class="boxed_wrapper">
 
@@ -255,69 +217,6 @@
         <!-- service-details end -->
 
 
-        <!-- main-footer -->
-        <footer class="main-footer">
-            <figure class="image-layer-1"><img src="assets/images/resource/footer-1.jpg" alt=""></figure>
-            <figure class="image-layer-2"><img src="assets/images/resource/footer-2.jpg" alt=""></figure>
-            <figure class="image-layer-3"><img src="assets/images/resource/footer-3.jpg" alt=""></figure>
-            <div class="bg-layer" style="background-image: url(assets/images/background/footer-bg.jpg);"></div>
-            <div class="large-container">
-                <div class="sec-title centred">
-                    <span class="sub-title">Contact Us</span>
-                    <h2>Do you need any help? <br />Send Message.</h2>
-                    <a href="index.html"><i class="icon-7"></i></a>
-                </div>
-                <div class="widget-section">
-                    <div class="row clearfix">
-                        <div class="col-lg-5 col-md-12 col-sm-12 footer-column">
-                            <div class="contact-widget footer-widget">
-                                <div class="widget-title">
-                                    <h3>Office Info</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <ul class="info-list clearfix">
-                                        <li><i class="icon-17"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
-                                        <li><i class="icon-18"></i><a href="mailto:info@envato.com">info@envato.com</a></li>
-                                        <li><i class="far fa-map-marker-alt"></i>380 St Kilda Road, Melbourne VIC 3004, Australia</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-12 offset-xl-3 footer-column">
-                            <div class="subscribe-widget footer-widget">
-                                <div class="widget-title">
-                                    <h3>Newsletter</h3>
-                                </div>
-                                <div class="widget-content">
-                                    <form action="contact.html" method="post">
-                                        <div class="form-group">
-                                            <input type="email" name="email" placeholder="Email Address" required="">
-                                            <button type="submit">Send</button>
-                                        </div>
-                                    </form>
-                                    <ul class="social-links clearfix">
-                                        <li>
-                                            <h4>Social Network :</h4>
-                                        </li>
-                                        <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                        <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                        <li><a href="index.html"><i class="icon-5"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-bottom centred">
-                    <div class="copyright">               ]
-                                 <h4>Copyright By &copy; <a href="index.html">Logic</a> Legands</h4>
-
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- main-footer end -->
-
 
 
         <!--Scroll to top-->
@@ -335,27 +234,4 @@
 
     </div>
 
-
-    <!-- jequery plugins -->
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.js"></script>
-    <script src="assets/js/wow.js"></script>
-    <script src="assets/js/validation.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/appear.js"></script>
-    <script src="assets/js/scrollbar.js"></script>
-    <script src="assets/js/nav-tool.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/parallax-scroll.js"></script>
-    <script src="assets/js/jquery.lettering.min.js"></script>
-    <script src="assets/js/jquery.circleType.js"></script>
-
-    <!-- main-js -->
-    <script src="assets/js/script.js"></script>
-
-</body>
-<!-- End of .page_wrapper -->
-
-</html>
+@endsection

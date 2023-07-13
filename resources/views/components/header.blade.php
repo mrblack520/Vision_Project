@@ -1,3 +1,46 @@
+    
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <title>Decore interiors</title>
+
+    <!-- font -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- Fav Icon -->
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- Stylesheets -->
+    <link href="./assets/css/font-awesome-all.css" rel="stylesheet">
+    <link href="assets/css/flaticon.css" rel="stylesheet">
+    <link href="assets/css/owl.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/nice-select.css" rel="stylesheet">
+    <link href="assets/css/color.css" rel="stylesheet">
+    <link href="assets/css/elpath.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
+    
+</head>
+
+
+<!-- page wrapper -->
+
+<body>
     <!--Search Popup-->
     <div id="search-popup" class="search-popup">
             <div class="popup-inner">
@@ -100,37 +143,32 @@
                                     <li><a href="/about">About</a></li>
                                     <li class="dropdown"><a href="">Services</a>
                                         <ul>
-                                            <li><a href="service.html">Our Services</a></li>
-                                            <li><a href="service-details.html">Agency Minimal</a></li>
-                                            <li><a href="service-details-2.html">Interior Design</a></li>
-                                            <li><a href="service-details-3.html">Urban Design</a></li>
-                                            <li><a href="service-details-4.html">Decor Plan</a></li>
+                                            <li><a href="/service">Our Services</a></li>
+                                            <li><a href="/service-details">Agency Minimal</a></li>
+                                            <li><a href="/service-details-2">Interior Design</a></li>
+                                            <li><a href="/service-details-3">Urban Design</a></li>
+                                            <li><a href="/service-details-4">Decor Plan</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="">Projects</a>
                                         <ul>
-                                            <li><a href="project.html">Our Project</a></li>
-                                            <li><a href="project-details.html">Project Details</a></li>
+                                            <li><a href="/project">Our Project</a></li>
+                                            <li><a href="/project-details">Project Details</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="">Pages</a>
                                         <ul>
-                                            <li class="dropdown"><a href="">Team</a>
-                                                <ul>
-                                                    <li><a href="team.html">Our Team</a></li>
-                                                    <li><a href="team-details.html">Team Details</a></li>
-                                                </ul>
                                             </li>
-                                            <li><a href="testimonial.html">Testimonial</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                                            <li><a href="/testimonial">Testimonial</a></li>
+                                            <li><a href="/coming-soon">Coming Soon</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="">Blog</a>
                                         <ul>
-                                            <li><a href="blog.html">Our Blog</a></li>
+                                            <li><a href="/blog">Our Blog</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="./c">Contact</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -263,3 +301,25 @@
             </div>
         </footer>
         <!-- main-footer end -->
+ <!-- jequery plugins -->
+ <script src="assets/js/jquery.js"></script>
+ <script src="assets/js/popper.min.js"></script>
+ <script src="assets/js/bootstrap.min.js"></script>
+ <script src="assets/js/owl.js"></script>
+ <script src="assets/js/wow.js"></script>
+ <script src="assets/js/validation.js"></script>
+ <script src="assets/js/jquery.fancybox.js"></script>
+ <script src="assets/js/appear.js"></script>
+ <script src="assets/js/scrollbar.js"></script>
+ <script src="assets/js/nav-tool.js"></script>
+ <script src="assets/js/plugins.js"></script>
+ <script src="assets/js/jquery.lettering.min.js"></script>
+ <script src="assets/js/jquery.circleType.js"></script>
+
+ <!-- main-js -->
+ <script src="assets/js/script.js"></script>
+
+</body>
+<!-- End of .page_wrapper -->
+
+</html>
