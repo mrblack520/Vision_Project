@@ -59,8 +59,8 @@
                                         <div class="icon-box"><img src="assets/images/icons/icon-6.png" alt=""></div>
                                         <h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2>
                                         <ul class="info clearfix">
-                                            <li><i class="far fa-map-marker-alt"></i>NEW YORK, <span>USA</span></li>
-                                            <li><i class="icon-20"></i>2.574 M2</li>
+                                            <li><i class="fa-solid fa-location-dot"></i>NEW YORK, <span>USA</span></li>
+                                            <li><i class="fa-solid fa-m"></i>2.574 M2</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -70,8 +70,8 @@
                                         <div class="icon-box"><img src="assets/images/icons/icon-6.png" alt=""></div>
                                         <h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2>
                                         <ul class="info clearfix">
-                                            <li><i class="far fa-map-marker-alt"></i>NEW YORK, <span>USA</span></li>
-                                            <li><i class="icon-20"></i>2.574 M2</li>
+                                            <li><i class="fa-solid fa-location-dot"></i>NEW YORK, <span>USA</span></li>
+                                            <li><i class="fa-solid fa-m"></i>2.574 M2</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -81,8 +81,8 @@
                                         <div class="icon-box"><img src="assets/images/icons/icon-6.png" alt=""></div>
                                         <h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2>
                                         <ul class="info clearfix">
-                                            <li><i class="far fa-map-marker-alt"></i>NEW YORK, <span>USA</span></li>
-                                            <li><i class="icon-20"></i>2.574 M2</li>
+                                            <li><i class="fa-solid fa-location-dot"></i>NEW YORK, <span>USA</span></li>
+                                            <li><i class="fa-solid fa-m"></i>2.574 M2</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -159,7 +159,7 @@
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <a href="service-details-2.html" class="inner-box">
+                            <a href="service-details-2" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-2.png" alt=""></div>
                                 <h4>Interior Design</h4>
                             </a>
@@ -167,7 +167,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <a href="service-details-2.html" class="inner-box">
+                            <a href="service-details-2" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-3.png" alt=""></div>
                                 <h4>Architecture</h4>
                             </a>
@@ -175,7 +175,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
-                            <a href="service-details-3.html" class="inner-box">
+                            <a href="service-details-3" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-4.png" alt=""></div>
                                 <h4>Urban Design</h4>
                             </a>
@@ -183,7 +183,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <a href="service-details-4.html" class="inner-box">
+                            <a href="service-details-4" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-5.png" alt=""></div>
                                 <h4>Discr Design</h4>
                             </a>
@@ -418,7 +418,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="far fa-map-marker-alt"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
@@ -429,7 +429,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="far fa-map-marker-alt"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
@@ -440,7 +440,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="far fa-map-marker-alt"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
@@ -451,7 +451,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="far fa-map-marker-alt"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
@@ -483,14 +483,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Gaurav Bhalla</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -500,14 +500,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="#">Haris Gulati</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -517,14 +517,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="#">Michel Watson</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -534,14 +534,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Gaurav Bhalla</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -551,14 +551,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="#">Haris Gulati</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -568,14 +568,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="#">Michel Watson</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -585,14 +585,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Gaurav Bhalla</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -602,14 +602,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="#">Haris Gulati</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -619,14 +619,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="#">Michel Watson</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -636,14 +636,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Gaurav Bhalla</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -653,14 +653,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="#">Haris Gulati</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -670,14 +670,14 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="icon-3"></i></a></li>
+                                    <li><a href="/index"><i class="icon-4"></i></a></li>
+                                    <li><a href="/index"><i class="icon-5"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="#">Michel Watson</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -706,13 +706,13 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 news-block">
                             <div class="news-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-1.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-1.jpg" alt=""></a></figure>
                                     <div class="content-box">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                            <li><i class="icon-16"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
+                                        <h3><a href="blog-details">A Brief History on the Beginnings of Modern Architecture</a></h3>
                                         <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
                                     </div>
                                 </div>
@@ -721,13 +721,13 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 news-block">
                             <div class="news-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-2.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-2.jpg" alt=""></a></figure>
                                     <div class="content-box">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                            <li><i class="icon-16"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>11/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
+                                        <h3><a href="blog-details">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
                                         <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
                                     </div>
                                 </div>
