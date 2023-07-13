@@ -152,6 +152,7 @@
         <!-- END sidebar widget item -->
 
 
+<<<<<<< HEAD:resources/views/index-2.blade.php
         <!-- main header -->
         <header class="main-header header-style-two">
             <!-- header-lower -->
@@ -226,30 +227,11 @@
                     </div>
                 </div>
             </div>
+=======
+      
+>>>>>>> 39309aab3588f4bd3c708151ca58c3fed95f963a:resources/views/index-2.html
 
-            <!--sticky Header-->
-            <div class="sticky-header">
-                <div class="outer-box">
-                    <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
-                    </div>
-                    <div class="menu-area clearfix">
-                        <nav class="main-menu clearfix">
-                            <!--Keep This Empty / Menu will come through Javascript-->
-                        </nav>
-                        <div class="menu-right-content">
-                            <div class="search-box-outer search-toggler">
-                                <i class="fa-solid fa-magnifying-glass"></i>
-                            </div>
-                            <div class="nav-btn nav-toggler navSidebar-button">
-                                <img src="./assets/images/steel (1).png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- main-header end -->
+           
 
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
@@ -978,6 +960,7 @@
         <!-- news-section end -->
 
 
+<<<<<<< HEAD:resources/views/index-2.blade.php
         <!-- main-footer -->
         <footer class="main-footer style-two">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
@@ -1072,6 +1055,8 @@
         <!-- main-footer end -->
 
 
+=======
+>>>>>>> 39309aab3588f4bd3c708151ca58c3fed95f963a:resources/views/index-2.html
 
         <!--Scroll to top-->
         <div class="scroll-to-top">
