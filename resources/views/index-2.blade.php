@@ -960,7 +960,6 @@
         <!-- news-section end -->
 
 
-<<<<<<< HEAD:resources/views/index-2.blade.php
         <!-- main-footer -->
         <footer class="main-footer style-two">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
@@ -1055,8 +1054,6 @@
         <!-- main-footer end -->
 
 
-=======
->>>>>>> 39309aab3588f4bd3c708151ca58c3fed95f963a:resources/views/index-2.html
 
         <!--Scroll to top-->
         <div class="scroll-to-top">
