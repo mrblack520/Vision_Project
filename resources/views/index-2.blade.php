@@ -421,7 +421,7 @@
                                 <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
-                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
+                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
                             </div>
                         </div>
                     </div>
@@ -432,7 +432,7 @@
                                 <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
-                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
+                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
                             </div>
                         </div>
                     </div>
@@ -443,7 +443,7 @@
                                 <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
-                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
+                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
                             </div>
                         </div>
                     </div>
@@ -454,7 +454,7 @@
                                 <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
                             </div>
                             <div class="video-btn">
-                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="icon-13"></i></a>
+                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
                             </div>
                         </div>
                     </div>
@@ -483,9 +483,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -500,9 +500,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -517,9 +517,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -534,9 +534,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -551,9 +551,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -568,9 +568,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -585,9 +585,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -602,9 +602,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -619,9 +619,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -636,9 +636,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -653,9 +653,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -670,9 +670,9 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="/index"><i class="icon-3"></i></a></li>
-                                    <li><a href="/index"><i class="icon-4"></i></a></li>
-                                    <li><a href="/index"><i class="icon-5"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -709,7 +709,7 @@
                                     <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-1.jpg" alt=""></a></figure>
                                     <div class="content-box">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details">Author &nbsp;,</a></li>
+                                            <li><i class="fa-solid fa-at"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details">A Brief History on the Beginnings of Modern Architecture</a></h3>
@@ -724,7 +724,7 @@
                                     <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-2.jpg" alt=""></a></figure>
                                     <div class="content-box">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details">Author &nbsp;,</a></li>
+                                            <li><i class="fa-solid fa-at"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>11/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
