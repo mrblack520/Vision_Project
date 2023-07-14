@@ -330,7 +330,7 @@
         <!-- video-section end -->
 
 
-        project-section
+        {{-- project-section --}}
         <!-- <!-- <section class="project-section"> -->
             <div class="line-shape">
                 <div class="line line-1"></div>
@@ -350,12 +350,12 @@
                                 <figure class="image-box"><img src="assets/images/project/project-1.jpg" alt=""></figure>
                                 <div class="content-box">
                                     <div class="text">
-                                        <h2><a href="project-details.html">CLASSIC HOTEL  PROJECT</a></h2>
+                                        <h2><a href="/project">CLASSIC HOTEL  PROJECT</a></h2>
                                         <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
                                         <span class="big-text">01</span>
                                     </div>
                                     <div class="link">
-                                        <a href="project-details.html"><i class="icon-7"></i></a>
+                                        <a href="/project"><i class="fa-solid fa-paper-plane"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -365,12 +365,12 @@
                                 <figure class="image-box"><img src="assets/images/project/project-2.jpg" alt=""></figure>
                                 <div class="content-box">
                                     <div class="text">
-                                        <h2><a href="project-details.html">Apex HOTEL <br />PROJECT</a></h2>
+                                        <h2><a href="/project">Apex HOTEL <br />PROJECT</a></h2>
                                         <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
                                         <span class="big-text">02</span>
                                     </div>
                                     <div class="link">
-                                        <a href="project-details.html"><i class="icon-7"></i></a>
+                                        <a href="/project"><i class="fa-solid fa-paper-plane "></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -380,12 +380,12 @@
                                 <figure class="image-box"><img src="assets/images/project/project-3.jpg" alt=""></figure>
                                 <div class="content-box">
                                     <div class="text">
-                                        <h2><a href="project-details.html">Minimal HOTEL  PROJECT</a></h2>
+                                        <h2><a href="/project">Minimal HOTEL  PROJECT</a></h2>
                                         <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
                                         <span class="big-text">03</span>
                                     </div>
                                     <div class="link">
-                                        <a href="project-details.html"><i class="icon-7"></i></a>
+                                        <a href="/project"><i class="fa-solid fa-paper-plane"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -395,12 +395,12 @@
                                 <figure class="image-box"><img src="assets/images/project/project-4.jpg" alt=""></figure>
                                 <div class="content-box">
                                     <div class="text">
-                                        <h2><a href="project-details.html">Luxury HOTEL  PROJECT</a></h2>
+                                        <h2><a href="/project">Luxury HOTEL  PROJECT</a></h2>
                                         <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
                                         <span class="big-text">04</span>
                                     </div>
                                     <div class="link">
-                                        <a href="project-details.html"><i class="icon-7"></i></a>
+                                        <a href="/project"><i class="fa-solid fa-paper-plane"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -410,12 +410,12 @@
                                 <figure class="image-box"><img src="assets/images/project/project-5.jpg" alt=""></figure>
                                 <div class="content-box">
                                     <div class="text">
-                                        <h2><a href="project-details.html">Delux HOTEL  PROJECT</a></h2>
+                                        <h2><a href="/project">Delux HOTEL  PROJECT</a></h2>
                                         <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
                                         <span class="big-text">05</span>
                                     </div>
                                     <div class="link">
-                                        <a href="project-details.html"><i class="icon-7"></i></a>
+                                        <a href="/project"><i class="fa-solid fa-paper-plane"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -441,11 +441,11 @@
             </div>
             <div class="auto-container">
                 <div class="five-item-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-5.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="/index"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="/index"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="/index"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="/index"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="/index"><img src="assets/images/clients/clients-5.png" alt=""></a></figure>
                 </div>
             </div>
         </section>
@@ -471,7 +471,7 @@
                             <div class="inner-box">
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
@@ -480,7 +480,7 @@
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                            <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
@@ -495,7 +495,7 @@
                             <div class="inner-box">
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
@@ -504,7 +504,7 @@
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                            <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
@@ -519,7 +519,7 @@
                             <div class="inner-box">
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Cras Ultricies Ligula Sed Magna Vivamus Suscipit Eget Felis Porttitor.</a></h3>
@@ -528,7 +528,7 @@
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                            <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details.html">Cras Ultricies Ligula Sed Magna Vivamus Suscipit Eget Felis Porttitor.</a></h3>
@@ -543,7 +543,7 @@
                             <div class="inner-box">
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Donec sollicidin nibh porttitor lectus Felis Portitor Volutpat Diam Sit.</a></h3>
@@ -552,7 +552,7 @@
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
                                         <ul class="post-info clearfix">
-                                            <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp,</a></li>
+                                            <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details.html">Donec sollicidin nibh porttitor lectus Felis Portitor Volutpat Diam Sit.</a></h3>

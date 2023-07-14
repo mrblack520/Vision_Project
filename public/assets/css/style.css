@@ -1,6 +1,10 @@
  /* Css For Inventarc */
 body{
     overflow-x: hidden;
+
+}
+.icon-font{
+    font-size: 12px;
 }
  /************ TABLE OF CONTENTS ***************
 1. Fonts
@@ -77,7 +81,7 @@ body{
      background-repeat: no-repeat;
      background-position: center top;
      -webkit-font-smoothing: antialiased;
-    zoom: 90% !important;
+    zoom: 70% !important;
     }
 
  @media (min-width:1200px) {
