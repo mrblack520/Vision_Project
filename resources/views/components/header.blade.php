@@ -136,6 +136,7 @@
                                 <ul class="navigation clearfix">
                                     <li class="current dropdown"><a href="">Home</a>
                                         <ul>
+                                            <li><a href="/">Home Page 01</a></li>
                                             <li><a href="/index">Home Page 02</a></li>
                                                 <ul>
                                                 </ul>

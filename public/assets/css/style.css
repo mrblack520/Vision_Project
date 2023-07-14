@@ -81,7 +81,7 @@ body{
      background-repeat: no-repeat;
      background-position: center top;
      -webkit-font-smoothing: antialiased;
-    zoom: 70% !important;
+    zoom: 80% !important;
     }
 
  @media (min-width:1200px) {
