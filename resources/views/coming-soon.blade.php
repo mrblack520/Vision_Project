@@ -72,7 +72,7 @@
                         </form>
                     </div>
                     <div class="btn-box">
-                        <a href="index.html" class="theme-btn btn-one">Back To Home</a>
+                        <a href="/" class="theme-btn btn-one">Back To Home</a>
                     </div>
                 </div>
             </div>

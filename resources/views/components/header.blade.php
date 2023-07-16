@@ -156,7 +156,7 @@
                                     <li class="dropdown"><a href="">Projects</a>
                                         <ul>
                                             <li><a href="/project">Our Project</a></li>
-                                            <li><a href="/project-details">Project Details</a></li>
+                                          
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="">Pages</a>
