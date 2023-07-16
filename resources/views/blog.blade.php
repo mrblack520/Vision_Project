@@ -96,7 +96,7 @@
                                 <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-3.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>16/02/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
@@ -111,7 +111,7 @@
                                 <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-4.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>15/02/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
@@ -126,7 +126,7 @@
                                 <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-5.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>14/02/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Hop deco is an interactive platform that puts you in touch</a></h3>
@@ -141,7 +141,7 @@
                                 <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-6.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>13/02/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Many of our projects cannot be featured in this section</a></h3>
@@ -156,7 +156,7 @@
                                 <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-7.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>12/02/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Aenean tristique justo et nibh molestie, non porttitor</a></h3>
@@ -171,7 +171,7 @@
                                 <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="icon-16"></i><a href="blog-details.html">Author &nbsp;,</a></li>
+                                        <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>11/02/2022</li>
                                     </ul>
                                     <h3><a href="blog-details.html">Nulla vitae cursus quam, nec ultrices nibh Quisque.</a></h3>

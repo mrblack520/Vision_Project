@@ -158,10 +158,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -175,10 +175,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -192,10 +192,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -209,10 +209,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -226,10 +226,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -243,10 +243,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -260,10 +260,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -277,10 +277,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -294,10 +294,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -311,10 +311,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -328,10 +328,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
@@ -345,10 +345,10 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
-                                <ul class="social-links clearfix">
-                                    <li><a href="index.html"><i class="icon-3"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-4"></i></a></li>
-                                    <li><a href="index.html"><i class="icon-5"></i></a></li>
+                                 <ul class="social-links clearfix">
+                                    <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="/index"><i class="fa-brands fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                             <div class="content-box">
