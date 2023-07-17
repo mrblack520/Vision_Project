@@ -83,7 +83,7 @@
                         <div class="sidebar-info-contents">
                             <div class="content-inner">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+                                    <a href="index.html"><img src="assets/images/Perfect logo.png" width="200px"  alt="" /></a>
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
@@ -122,7 +122,7 @@
                 <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="/"><img src="assets/images/" width="100px" alt=""></a></figure>
+                        <figure class="logo"><a href="/"><img src="assets/images/Perfect logo.png" width="100px" alt=""></a></figure>
                     </div>
                     <div class="menu-area">
                         <!--Mobile Navigation Toggler-->
@@ -191,7 +191,7 @@
             <div class="sticky-header">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href=""><img  src="assets/images/" ></a></figure>
+                        <figure class="logo"><a href=""><img  src="assets/images/Perfect logo.png" ></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <nav class="main-menu clearfix">
