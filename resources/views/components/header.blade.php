@@ -217,7 +217,7 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href=""><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href=""><img src="assets/images/" alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
@@ -298,7 +298,7 @@
                 </div>
                 <div class="footer-bottom centred">
                     <div class="copyright">
-                        <h4>Copyright By &copy; <a href="index.html">logic</a> legends</h4>
+                        <h4>Copyright By &copy; <a href="/">LOGIC</a> LEGENDS</h4>
                     </div>
                 </div>
             </div>
