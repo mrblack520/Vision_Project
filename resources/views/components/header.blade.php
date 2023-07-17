@@ -47,7 +47,7 @@
     <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="/"><img src="./assets/images/Perfect.png" width="200px" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="/"><img src="./assets/images/" width="200px" alt=""></a></figure>
                     <div class="close-search pull-right"><i class="fa-solid fa-xmark"></i></div>
                 </div>
                 <div class="overlay-layer"></div>
@@ -122,7 +122,7 @@
                 <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/" width="100px" alt=""></a></figure>
+                        <figure class="logo"><a href="/"><img src="assets/images/" width="100px" alt=""></a></figure>
                     </div>
                     <div class="menu-area">
                         <!--Mobile Navigation Toggler-->
@@ -191,7 +191,7 @@
             <div class="sticky-header">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href=""><img  src="assets/images/logo.png" ></a></figure>
+                        <figure class="logo"><a href=""><img  src="assets/images/" ></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <nav class="main-menu clearfix">
