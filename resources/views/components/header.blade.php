@@ -47,7 +47,7 @@
     <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="/"><img src="./assets/images/" width="200px" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="/"><img src="./assets/images/Perfect logo.png" width="200px" alt=""></a></figure>
                     <div class="close-search pull-right"><i class="fa-solid fa-xmark"></i></div>
                 </div>
                 <div class="overlay-layer"></div>

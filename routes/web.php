@@ -70,7 +70,7 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/coming-soon','coming');
     Route::get('/testimonial','testimonial');
     Route::get('/sign','sign_up_in');
-
+    Route::post('/sign','sign_up_logic');
 
 
 });

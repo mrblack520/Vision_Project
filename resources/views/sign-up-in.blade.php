@@ -6,7 +6,8 @@
 <head>
 
 
-<style>@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 body{
 	font-family: 'Poppins', sans-serif;
 	font-weight: 300;
@@ -192,6 +193,7 @@ display: none;
 
 <body>
  <form action="/sign" method="POST">
+    @csrf
 	<div class="section">
 		<div class="container">
 			<div class="row full-height justify-content-center">
@@ -207,22 +209,19 @@ display: none;
 										<div class="section text-center">
 											<h4 class="mb-3 pb-3">Sign Up</h4>
 											<div class="form-group">
-												<input type="text" class="form-style" placeholder="User Name">
+												<input type="text" class="form-style" placeholder="User Name" name="name">
 												<i class="input-icon uil uil-user"></i>
 											</div>	
-											{{-- <div class="form-group mt-2">
-												<input type="tel" class="form-style" placeholder="Phone Number">
-												<i class="input-icon uil uil-phone"></i>
-											</div>	 --}}
+										
                       <div class="form-group mt-2">
-												<input type="email" class="form-style" placeholder="Email">
+												<input type="email" class="form-style" placeholder="Email" name="email">
 												<i class="input-icon uil uil-at"></i>
 											</div>
 											<div class="form-group mt-2">
-												<input type="password" class="form-style" placeholder="Password">
+												<input type="password" class="form-style" placeholder="Password" name="password ">
 												<i class="input-icon uil uil-lock-alt"></i>
 											</div>
-											<a href="#" class="btn mt-4">Register</a>
+											<button class="btn mt-4">Register</button>
 				      					</div>
 			      					</div>
 							
@@ -232,11 +231,11 @@ display: none;
 										<div class="section text-center">
 											<h4 class="mb-4 pb-3">Sign In</h4>
 											<div class="form-group">
-												<input type="email" class="form-style" placeholder="Email">
+												<input type="email" class="form-style" placeholder="Email" name="email">
 												<i class="input-icon uil uil-at"></i>
 											</div>	
 											<div class="form-group mt-2">
-												<input type="password" class="form-style" placeholder="Password">
+												<input type="password" class="form-style" placeholder="Password" name="password">
 												<i class="input-icon uil uil-lock-alt"></i>
 											</div>
 											<a href="#" class="btn mt-4">SignIn</a>
