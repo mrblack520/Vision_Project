@@ -77,6 +77,10 @@ class usercontroller extends Controller
         
     }
 
+public function sign_up_in(){
 
+return view('sign-up-in');
+
+}
 
 }
