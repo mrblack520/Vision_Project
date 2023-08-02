@@ -77,9 +77,9 @@ class usercontroller extends Controller
         
     }
 
-public function sign_up_in(){
+public function sign_up(){
 
-return view('sign-up-in');
+return view('sign-up');
 
 }
 
