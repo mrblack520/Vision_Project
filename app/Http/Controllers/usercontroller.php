@@ -4,6 +4,10 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\User;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Auth;
+
+
 class usercontroller extends Controller
 {
     public function index(){
@@ -101,6 +105,35 @@ public function sign_in(){
 
     return view('sign-in');
     
+    }
+
+    public function sign_in_logic(Request $request){
+
+        $data = $request->validate([
+'email' => 'required|email',
+'password' =>   'required|string'
+
+        ]);
+
+
+$user = User::where('email' , $data['email'])->first();
+
+if($user && Hash::check($data['password'] , $user->password)){
+
+Auth::login($user);
+if(Auth::user()->role== 1){
+return redirect()->intended("/admin");
+
+}else{
+
+return redirect()->intended("/dash");
+}
+
+}else{
+
+return redirect()->back();
+}
+
     }
 
 }
