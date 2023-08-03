@@ -97,4 +97,10 @@ $user->save();
 return ('data send');
 }
 
+public function sign_in(){
+
+    return view('sign-in');
+    
+    }
+
 }

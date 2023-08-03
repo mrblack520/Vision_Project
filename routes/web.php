@@ -71,6 +71,7 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/testimonial','testimonial');
     Route::get('/sign','sign_up');
     Route::post('/sign','sign_up_logic');
-
+    Route::get('/signin','sign_in');
+    Route::post('/signin','sign_in_logic');
 
 });
