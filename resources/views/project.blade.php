@@ -40,7 +40,8 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product interior_design urban_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/project/project-9.jpg" alt=""></figure>
+                                    <a href="/modal1">sanaullah</a>
+                                    <figure class="image-box"><img src="assets/images/project/project-9.jpg"  alt=""></figure>
                                     <div class="text">
                                         <h6>APEX</h6>
                                         <p>San Diego, California</p>
