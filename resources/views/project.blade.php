@@ -40,10 +40,10 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product interior_design urban_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <a href="/modal1">sanaullah</a>
-                                    <figure class="image-box"><img src="assets/images/project/project-9.jpg"  alt=""></figure>
+
+                                    <figure class="image-box"><img src="assets/images/modal/1.png"  alt=""></figure>
                                     <div class="text">
-                                        <h6>APEX</h6>
+                                        <h6><a href="/modal1">click it to see the 3D of the house</a></h6>
                                         <p>San Diego, California</p>
                                     </div>
                                 </div>

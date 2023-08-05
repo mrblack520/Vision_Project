@@ -104,8 +104,8 @@ function main() {
 
   {
     const gltfLoader = new THREE.GLTFLoader();
-    gltfLoader.load('building.glb', (gltf) => {
-      const root = glb.scene;
+    gltfLoader.load('1.glb', (gltf) => {
+      const root = gltf.scene;
       scene.add(root);
 
       // compute the box that contains all the stuff
