@@ -1,4 +1,4 @@
-/* 
+/*
  *  Owl Carousel - Animate Plugin
  */
 
@@ -40,7 +40,7 @@
     }
 }
 
-/* 
+/*
  * 	Owl Carousel - Auto Height Plugin
  */
 
@@ -52,7 +52,7 @@
     transition: height 500ms ease-in-out;
 }
 
-/* 
+/*
  *  Core Owl Carousel CSS File
  */
 
@@ -163,7 +163,7 @@
     display: block;
 }
 
-/* 
+/*
  * 	Owl Carousel - Lazy Load Plugin
  */
 
@@ -180,7 +180,7 @@
     transform-style: preserve-3d;
 }
 
-/* 
+/*
  * 	Owl Carousel - Video Plugin
  */
 
@@ -275,14 +275,9 @@
 }
 
 .owl-theme .owl-dots .owl-dot span {
-    background: #222;
     display: block;
     margin: 0px 5px 0px 5px;
     transition: opacity 200ms ease 0s;
     width: 15px;
     height: 15px;
-}
-
-.owl-theme .owl-dots .owl-dot.active span {
-    background: none repeat scroll 0 0 #cda274;
 }

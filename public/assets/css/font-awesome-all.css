@@ -369,26 +369,37 @@ readers do not read off random characters that represent icons */
 
 .fa-angel:before {
     content: "\f779";
+    visibility: hidden;
+
 }
 
 .fa-angellist:before {
     content: "\f209";
+    visibility: hidden;
+
 }
 
 .fa-angle-double-down:before {
     content: "\f103";
+    visibility: hidden;
 }
 
 .fa-angle-double-left:before {
     content: "\f100";
+    visibility: hidden;
+
 }
 
 .fa-angle-double-right:before {
     content: "\f101";
+    visibility: hidden;
+
 }
 
 .fa-angle-double-up:before {
     content: "\f102";
+    visibility: hidden;
+
 }
 
 .fa-angle-down:before {
@@ -8244,6 +8255,5 @@ readers do not read off random characters that represent icons */
 
 .fa,
 .fas {
-    font-family: 'Font Awesome 5 Pro';
     font-weight: 900;
 }
