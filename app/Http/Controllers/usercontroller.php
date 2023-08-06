@@ -116,6 +116,71 @@ public function sign_in(){
         return view("1/modal2");
 
     }
+    public function modal3(){
+
+        return view("1/modal3");
+
+    }
+    public function modal4(){
+
+        return view("1/modal4");
+
+    }
+    public function modal5(){
+
+        return view("1/modal5");
+
+    }
+    public function modal6(){
+
+        return view("1/modal6");
+
+    }
+    public function modal7(){
+
+        return view("1/modal7");
+
+    }
+    public function modal8(){
+
+        return view("1/modal8");
+
+    }
+    public function modal9(){
+
+        return view("1/modal9");
+
+    }
+    public function modal10(){
+
+        return view("1/modal10");
+
+    }
+    public function modal11(){
+
+        return view("1/modal11");
+
+    }
+    public function modal12(){
+
+        return view("1/modal12");
+
+    }
+    public function modal13(){
+
+        return view("1/modal13");
+
+    }
+    public function modal14(){
+
+        return view("1/modal14");
+
+    }
+    public function modal15(){
+
+        return view("1/modal15");
+
+    }
 
     public function sign_in_logic(Request $request){
 

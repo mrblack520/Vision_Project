@@ -26,5 +26,18 @@ Route::controller(usercontroller::class)->group(function(){
     Route::post('/signin','sign_in_logic');
     Route::get('/modal1','modal');
     Route::get('/modal2','modal2');
+    Route::get('/modal3','modal3');
+    Route::get('/modal4','modal4');
+    Route::get('/modal5','modal5');
+    Route::get('/modal6','modal6');
+    Route::get('/modal7','modal7');
+    Route::get('/modal8','modal8');
+    Route::get('/modal9','modal9');
+    Route::get('/modal10','modal10');
+    Route::get('/modal11','modal11');
+    Route::get('/modal12','modal12');
+    Route::get('/modal13','modal13');
+    Route::get('/modal14','modal14');
+    Route::get('/modal15','modal15');
 
 });
