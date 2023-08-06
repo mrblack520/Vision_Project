@@ -1,4 +1,4 @@
-    
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +13,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <!-- font -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css" integrity="sha512-9YHSK59/rjvhtDcY/b+4rdnl0V4LPDWdkKceBl8ZLF5TB6745ml1AfluEU6dFWqwDw9lPvnauxFgpKvJqp7jiQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -36,7 +36,7 @@
     <link href="assets/css/elpath.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
-    
+
 </head>
 
 
@@ -47,7 +47,7 @@
     <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="/"><img src="./assets/images/Perfect logo.png" width="200px" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="/"><img class="logo1" src="./assets/images/Perfect logo.png" width="200px" alt=""></a></figure>
                     <div class="close-search pull-right"><i class="fa-solid fa-xmark"></i></div>
                 </div>
                 <div class="overlay-layer"></div>
@@ -83,7 +83,7 @@
                         <div class="sidebar-info-contents">
                             <div class="content-inner">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/images/Perfect logo.png" width="200px"  alt="" /></a>
+                                    <a href="index.html"><img class="logo1" src="assets/images/Perfect logo.png" width="200px"  alt="" /></a>
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
@@ -122,7 +122,7 @@
                 <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="/"><img src="assets/images/Perfect logo.png" width="100px" alt=""></a></figure>
+                        <figure class="logo"><a href="/"><img class="logo1" src="assets/images/Perfect logo.png" width="100px" alt=""></a></figure>
                     </div>
                     <div class="menu-area">
                         <!--Mobile Navigation Toggler-->
@@ -156,7 +156,7 @@
                                     <li class="dropdown"><a href="">Projects</a>
                                         <ul>
                                             <li><a href="/project">Our Project</a></li>
-                                          
+
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="">Pages</a>
@@ -193,7 +193,7 @@
             <div class="sticky-header">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href=""><img  src="assets/images/Perfect logo.png" ></a></figure>
+                        <figure class="logo"><a href=""><img class="logo1"  src="assets/images/Perfect logo.png" ></a></figure>
                     </div>
                     <div class="menu-area clearfix">
                         <nav class="main-menu clearfix">
@@ -265,7 +265,7 @@
                                     <h3>Office Info</h3>
                                 </div>
                                 <div class="widget-content">
-                                    <ul class="info-list clearfix"> 
+                                    <ul class="info-list clearfix">
                                          <li><i class="fa-solid fa-phone"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
                                         <li><i class="fa-solid fa-envelope"></i><a href="mailto:info@envato.com">info@envato.com</a></li>
                                         <li><i class="fa-solid fa-location-dot"></i>380 St Kilda Road, Melbourne VIC 3004, Australia</li>

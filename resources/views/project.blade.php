@@ -54,7 +54,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><img src="assets/images/project/project-10.jpg" alt=""></figure>
                                     <div class="text">
-                                        <h6>APEX</h6>
+                                        <h6><a href="/modal2">click it to see the 3D of the house</a></h6>
                                         <p>San Diego, California</p>
                                     </div>
                                 </div>

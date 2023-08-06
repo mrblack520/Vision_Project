@@ -24,7 +24,7 @@ function main() {
   const canvas = document.querySelector('#c');
   const renderer = new THREE.WebGLRenderer({canvas});
 
-  const fov = 45;
+  const fov = 25;
   const aspect = 2;  // the canvas default
   const near = 0.1;
   const far = 100;
@@ -39,7 +39,7 @@ function main() {
   scene.background = new THREE.Color('#fefef');
 
   {
-    const planeSize = 40;
+    const planeSize = 0;
 
     const loader = new THREE.TextureLoader();
     const texture = loader.load('https://threejsfundamentals.org/threejs/resources/images/checker.png');

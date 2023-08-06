@@ -111,6 +111,11 @@ public function sign_in(){
         return view("1/modal1");
 
     }
+    public function modal2(){
+
+        return view("1/modal2");
+
+    }
 
     public function sign_in_logic(Request $request){
 

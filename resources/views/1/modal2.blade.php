@@ -36,10 +36,10 @@ function main() {
   controls.update();
 
   const scene = new THREE.Scene();
-  scene.background = new THREE.Color('#fefef');
+  scene.background = new THREE.Color('#efefef');
 
   {
-    const planeSize = 40;
+    const planeSize = 0;
 
     const loader = new THREE.TextureLoader();
     const texture = loader.load('https://threejsfundamentals.org/threejs/resources/images/checker.png');
@@ -104,7 +104,7 @@ function main() {
 
   {
     const gltfLoader = new THREE.GLTFLoader();
-    gltfLoader.load('1.glb', (gltf) => {
+    gltfLoader.load('2.glb', (gltf) => {
       const root = gltf.scene;
       scene.add(root);
 
@@ -116,7 +116,7 @@ function main() {
       const boxCenter = box.getCenter(new THREE.Vector3());
 
       // set the camera to frame the box
-      frameArea(boxSize * 0.5, boxSize, boxCenter, camera);
+      frameArea(boxSize * 0.6, boxSize, boxCenter, camera);
 
       // update the Trackball controls to handle the new size
       controls.maxDistance = boxSize * 10;
