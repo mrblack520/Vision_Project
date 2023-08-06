@@ -41,7 +41,7 @@
                             <div class="project-block-two">
                                 <div class="inner-box">
 
-                                    <figure class="image-box"><img src="assets/images/modal/1.png"  alt=""></figure>
+                                    <figure class="image-box"><img  src="assets/images/modal/1.png"  alt=""></figure>
                                     <div class="text">
                                         <h6><a href="/modal1">click it to see the 3D of the house</a></h6>
                                         <p>San Diego, California</p>
