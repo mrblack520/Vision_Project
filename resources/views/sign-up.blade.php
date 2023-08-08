@@ -36,7 +36,7 @@
 												<i class="input-icon uil uil-at"></i>
 											</div>
 											<div class="form-group mt-2">
-												<input type="password" class="form-style" placeholder="Password" name="password ">
+												<input type="password" class="form-style" placeholder="Password" name="password">
 												<i class="input-icon uil uil-lock-alt"></i>
 											</div>
 											<button class="btn mt-4">Register</button>

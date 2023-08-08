@@ -87,18 +87,16 @@ return view('sign-up');
 
 }
 
-public function sign_up_logic(Request $req){
+public function sign_up_logic(Request $request){
 
 $user = new User;
-
-$user->name=$req->name;
-$user->email=$req->email;
+$user->name=$request->name;
+$user->email=$request->email;
 $user->role=0;
-$user->password=$req->password;
-
+$user->password=$request->password;
 $user->save();
 
-return ('data send');
+return view ('Dashboard');
 }
 
 public function sign_in(){
