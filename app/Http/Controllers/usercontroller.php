@@ -89,14 +89,15 @@ return view('sign-up');
 
 public function sign_up_logic(Request $request){
 
-$user = new User;
-$user->name=$request->name;
-$user->email=$request->email;
-$user->role=0;
-$user->password=$request->password;
-$user->save();
+    $user = new User;
 
-return view ('Dashboard');
+    $user->name=$request->name;
+    $user->email=$request->email;
+    $user->role=0;
+    $user->password=$request->password;
+    $user->save();
+
+return view ('sign-in');
 }
 
 public function sign_in(){
