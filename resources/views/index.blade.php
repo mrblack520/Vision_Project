@@ -20,7 +20,7 @@
                     <div class="auto-container">
                         <div class="content-box">
                             <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD SINCE</span> 1935</h2>
+                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="index.html" class="theme-btn btn-one">View The Prrojects</a>
                             </div>
@@ -32,7 +32,7 @@
                     <div class="auto-container">
                         <div class="content-box">
                             <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD SINCE</span> 1935</h2>
+                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="index.html" class="theme-btn btn-one">View The Prrojects</a>
                             </div>
@@ -44,7 +44,7 @@
                     <div class="auto-container">
                         <div class="content-box">
                             <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD SINCE</span> 1935</h2>
+                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="index.html" class="theme-btn btn-one">View The Prrojects</a>
                             </div>
@@ -56,7 +56,7 @@
                     <div class="auto-container">
                         <div class="content-box">
                             <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
-                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD SINCE</span> 1935</h2>
+                            <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="index.html" class="theme-btn btn-one">View The Prrojects</a>
                             </div>
@@ -195,7 +195,7 @@
             </div>
             <div class="large-container">
                 <div class="row clearfix">
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                    <div class="col-lg-6 col-md-6 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <a href="service-details-2.html" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-2.png" alt=""></div>
@@ -203,7 +203,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                    <div class="col-lg-6 col-md-6 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <a href="service-details-2.html" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-3.png" alt=""></div>
@@ -211,22 +211,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow slideInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
-                            <a href="service-details-3.html" class="inner-box">
-                                <div class="icon-box"><img src="assets/images/icons/icon-4.png" alt=""></div>
-                                <h4>Urban Design</h4>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow slideInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <a href="service-details-4.html" class="inner-box">
-                                <div class="icon-box"><img src="assets/images/icons/icon-5.png" alt=""></div>
-                                <h4>Discr Design</h4>
-                            </a>
-                        </div>
-                    </div>
+              
                 </div>
             </div>
         </section>

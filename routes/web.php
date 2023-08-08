@@ -24,6 +24,8 @@ Route::controller(usercontroller::class)->group(function(){
     Route::post('/sign','sign_up_logic');
     Route::get('/signin','sign_in');
     Route::post('/signin','sign_in_logic');
+    Route::get('/admin' , 'admin_panel');
+    Route::get('/dash' , 'dashboard');
     Route::get('/modal1','modal');
     Route::get('/modal2','modal2');
     Route::get('/modal3','modal3');

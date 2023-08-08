@@ -209,5 +209,15 @@ return redirect()->back();
 }
 
     }
+    public function admin_panel(){
+
+        return view('Admin');
+        
+                }
+                public function dashboard(){
+
+                    return view('Dashboard');
+                    
+                            }      
 
 }

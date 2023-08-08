@@ -1,5 +1,4 @@
-        <div class="mouse-pointer" id="mouse-pointer"></div>
-        <!-- mouse-pointer end -->
+        
 
 
         <!-- preloader -->
@@ -36,4 +35,5 @@
                 </div>
             </div>
         </div>
+    
         <!-- 
