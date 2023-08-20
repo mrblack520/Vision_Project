@@ -88,8 +88,7 @@
                     <div class="content-box">
                         <figure class="logo"><a href="contact.html"><img src="assets/images/logo.png" alt=""></a></figure>
                         <div class="text">
-                            <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim. Vulputate velit mattis
-                                tincidunt nunc sed mauris, sit amet ullamcorper. Ullamcorper nunc mauris nunc proin sollicitudin mattis viverra purus congue.</p>
+                            <p>.</p>
                         </div>
                         
                     </div>

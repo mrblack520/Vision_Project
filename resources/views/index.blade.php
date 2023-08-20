@@ -70,62 +70,62 @@
                     <div class="single-item">
                         <span class="count-text">01</span>
                         <h6>Apex</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">02</span>
                         <h6>Minimal</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">03</span>
                         <h6>Luxury</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">04</span>
                         <h6>Delux</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">01</span>
                         <h6>Apex</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">02</span>
                         <h6>Minimal</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">03</span>
                         <h6>Luxury</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">04</span>
                         <h6>Delux</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">01</span>
                         <h6>Apex</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">02</span>
                         <h6>Minimal</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">03</span>
                         <h6>Luxury</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                     <div class="single-item">
                         <span class="count-text">04</span>
                         <h6>Delux</h6>
-                        <p>San Diego, California</p>
+                        <p>Karachi, Pakistan</p>
                     </div>
                 </div>
             </div>
@@ -154,7 +154,7 @@
                             <figure data-animation-text class="overlay-anim-white-bg image p_relative d_block" data-animation="overlay-animation"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
                             <div class="text-inner">
                                 <h6>APEX</h6>
-                                <p>San Diego, California</p>
+                                <p>Karachi, Pakistan</p>
                             </div>
                         </div>
                     </div>
@@ -165,15 +165,15 @@
                                 <h2>Your Trusted <span>Architecture <br />Company</span></h2>
                             </div>
                             <div class="text">
-                                <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim. Vulputate velit mattis
-                                    tincidunt nunc sed mauris, sit amet ullamcorper. Ullamcorper nunc mauris nunc proin sollicitudin mattis viverra purus congue.</p>
-                                <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada eu adipiscing volutpat.</p>
+                                <p>Perfect View Real Estate is the perfect choice for representing you in all your real estate transactions. We are an organized team that is dedicated to providing the highest quality
+                                 of service using our understanding of each individual area as well as our clientele needs. Perfect view has become a genuine representative of the sub-continental life by offering select domestic real estate infused with the cravings and physiognomies of the sub-tropical region's landscape, design, architecture, and culture.</p>
+                                <p>Underlying this service are the values of providing long-term vision, transparency, confidentiality, personalization, quality, knowledge, and innovation in the real estate domain. </p>
                             </div>
                             <div class="author-box p_relative d_block">
                                 <div class="quote-box"><img src="assets/images/icons/icon-1.svg" alt=""></div>
                                 <div class="inner">
                                     <figure class="author-thumb"><img src="assets/images/resource/author-1.jpg" alt=""></figure>
-                                    <p>“ Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada eu adipiscing volutpat. us enim, tempor sed in dictum. “</p>
+                                    <p>“Perfect view also provides its high net worth clients and investors to search from luxury to affordable budget properties for sale and rent across Pakistan. “</p>
                                     <div class="designation">CEO - <span>Jone Doue</span></div>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -243,7 +243,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -254,7 +254,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -265,7 +265,7 @@
                         <div class="content-box">
                             <div class="text">
                                 <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -299,7 +299,7 @@
                                 <div class="content-box">
                                     <div class="text">
                                         <h2><a href="/project">CLASSIC HOTEL  PROJECT</a></h2>
-                                        <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</p>
                                         <span class="big-text">01</span>
                                     </div>
                                     <div class="link">
@@ -314,7 +314,7 @@
                                 <div class="content-box">
                                     <div class="text">
                                         <h2><a href="/project">Apex HOTEL <br />PROJECT</a></h2>
-                                        <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</p>
                                         <span class="big-text">02</span>
                                     </div>
                                     <div class="link">
@@ -329,7 +329,7 @@
                                 <div class="content-box">
                                     <div class="text">
                                         <h2><a href="/project">Minimal HOTEL  PROJECT</a></h2>
-                                        <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</p>
                                         <span class="big-text">03</span>
                                     </div>
                                     <div class="link">
@@ -344,7 +344,7 @@
                                 <div class="content-box">
                                     <div class="text">
                                         <h2><a href="/project">Luxury HOTEL  PROJECT</a></h2>
-                                        <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</p>
                                         <span class="big-text">04</span>
                                     </div>
                                     <div class="link">
@@ -359,7 +359,7 @@
                                 <div class="content-box">
                                     <div class="text">
                                         <h2><a href="/project">Delux HOTEL  PROJECT</a></h2>
-                                        <p><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</p>
+                                        <p><i class="fa-solid fa-location-dot"></i>Karachhi, Pakistan</p>
                                         <span class="big-text">05</span>
                                     </div>
                                     <div class="link">
@@ -422,8 +422,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi.</p>
+                                    <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                    <p>To be the priority for our clients and associates in their quest of finding, buying, selling, and renting.</p>
                                 </div>
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
@@ -431,8 +431,8 @@
                                             <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
-                                        <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                        <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                        <p>Perfect View Real Estate is the perfect choice for representing you in all your real estate transactions. We are an organized team that is dedicated to providing the highest quality of service using our understanding of each individual area as well as our clientele needs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -446,8 +446,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi.</p>
+                                    <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                    <p>To be the priority for our clients and associates in their quest of finding, buying, selling, and renting.</p>
                                 </div>
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
@@ -455,8 +455,8 @@
                                             <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
-                                        <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                        <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                        <p>Perfect View Real Estate is the perfect choice for representing you in all your real estate transactions. We are an organized team that is dedicated to providing the highest quality of service using our understanding of each individual area as well as our clientele needs. </p>
                                     </div>
                                 </div>
                             </div>
@@ -470,8 +470,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Cras Ultricies Ligula Sed Magna Vivamus Suscipit Eget Felis Porttitor.</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi.</p>
+                                    <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</h3>
+                                    <p>To be the priority for our clients and associates in their quest of finding, buying, selling, and renting.</p>
                                 </div>
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
@@ -479,8 +479,8 @@
                                             <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details.html">Cras Ultricies Ligula Sed Magna Vivamus Suscipit Eget Felis Porttitor.</a></h3>
-                                        <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                        <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                        <p>Perfect View Real Estate is the perfect choice for representing you in all your real estate transactions. We are an organized team that is dedicated to providing the highest quality of service using our understanding of each individual area as well as our clientele needs.</p>
                                     </div>
                                 </div>
                             </div>
@@ -494,8 +494,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                         <li>12/12/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Donec sollicidin nibh porttitor lectus Felis Portitor Volutpat Diam Sit.</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi.</p>
+                                    <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                    <p>To be the priority for our clients and associates in their quest of finding, buying, selling, and renting.</p>
                                 </div>
                                 <div class="overlay-content">
                                     <div class="overlay-inner">
@@ -503,8 +503,8 @@
                                             <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details.html">Donec sollicidin nibh porttitor lectus Felis Portitor Volutpat Diam Sit.</a></h3>
-                                        <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                        <h3><a href="blog-details.html">A Brief History on the Beginnings of Perfect View</a></h3>
+                                        <p>Perfect View Real Estate is the perfect choice for representing you in all your real estate transactions. We are an organized team that is dedicated to providing the highest quality of service using our understanding of each individual area as well as our clientele needs.</p>
                                     </div>
                                 </div>
                             </div>

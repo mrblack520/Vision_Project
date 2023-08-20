@@ -80,12 +80,11 @@
                         <div class="content-box">
                             <div class="sec-title">
                                 <span class="sub-title">Who We are</span>
-                                <h2>About the <span>Architecture <br />Company</span></h2>
+                                <h2>About the <span>Perfect<br />View</span></h2>
                             </div>
                             <div class="text">
-                                <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim. Vulputate velit mattis
-                                    tincidunt nunc sed mauris, sit amet ullamcorper. Ullamcorper nunc mauris nunc proin sollicitudin mattis viverra purus congue.</p>
-                                <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada eu adipiscing volutpat.</p>
+                                <p>Perfect view is the fastest-growing company in Pakistan's online real estate sector, introducing the most straightforward property search form to find homes, flats, apartments, houses for sale, purchase, and rent. We only list properties to buy, sell, or renting out after comprehensive verification, and are near the prevailing market rates. We discourage fake listings and property listings demanding inflated prices. You can select your preferred properties for sale and rent with convenience in a clutter-free environment. Realistically, buying a home is a hard decision</p>
+                                <p>We at Perfect View help transform it into your safest, high yield investment real estate deals. We can also help you with how to secure home financing and step by step property registration process.</p>
                             </div>
                         </div>
                     </div>
@@ -173,7 +172,8 @@
                                 <div class="sec-title">
                                     <span class="sub-title">Porrtfolio</span>
                                     <h2>Our Completed <span>Architecture Projects</span></h2>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <p>
+                                        Explore the latest price trends and index across various cities and localities in Pakistan</p>
                                 </div>
                                 <div class="tab-btn-box">
                                     <div class="tab-btns product-tab-btns clearfix">
@@ -324,8 +324,8 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Integer sed id adipiscing viverra turpis sit gravida nec semper. Velit eu consequat turpis faucibus lacus, arcu nibh. At bibendum facilisis imperdiet sed rhoncus, pretium nulla. Tortor leo nisl gravida convallis.
-                                            Adipiscing suscipit erat aliquam est tortor massa sed facilisis. Elementum dictum enim eget pellentesque malesuada. <span>”</span></h4>
+                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all 
+                                            in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding.<span>”</span></h4>
                                         <div class="author-box">
                                             <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
                                             <h4>Liam Noah</h4>
@@ -336,8 +336,8 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Integer sed id adipiscing viverra turpis sit gravida nec semper. Velit eu consequat turpis faucibus lacus, arcu nibh. At bibendum facilisis imperdiet sed rhoncus, pretium nulla. Tortor leo nisl gravida convallis.
-                                            Adipiscing suscipit erat aliquam est tortor massa sed facilisis. Elementum dictum enim eget pellentesque malesuada. <span>”</span></h4>
+                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all 
+                                            in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding.<span>”</span></h4>
                                         <div class="author-box">
                                             <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
                                             <h4>Liam Noah</h4>
@@ -348,8 +348,8 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Integer sed id adipiscing viverra turpis sit gravida nec semper. Velit eu consequat turpis faucibus lacus, arcu nibh. At bibendum facilisis imperdiet sed rhoncus, pretium nulla. Tortor leo nisl gravida convallis.
-                                            Adipiscing suscipit erat aliquam est tortor massa sed facilisis. Elementum dictum enim eget pellentesque malesuada. <span>”</span></h4>
+                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all 
+                                            in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding. <span>”</span></h4>
                                         <div class="author-box">
                                             <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
                                             <h4>Liam Noah</h4>
@@ -674,8 +674,8 @@
                                             <li><i class="fa-solid fa-at"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details">A Brief History on the Beginnings of Modern Architecture</a></h3>
-                                        <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                        <h3><a href="blog-details">A Brief History on the Beginnings of <br> Perfect View</a></h3>
+                                        <p>Perfect View Index is a real estate index that measures the performance of the real estate sector in Pakistan. It provides comprehensive data and historical trends of property prices in different societies and cities in Pakistan</p>
                                     </div>
                                 </div>
                             </div>
@@ -690,7 +690,7 @@
                                             <li>11/12/2022</li>
                                         </ul>
                                         <h3><a href="blog-details">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
-                                        <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                        <p>Perfect view provides a wide range of data on the real estate market in Pakistan, including property prices, trends & market conditions. The index and prices are available for different types of properties, including houses, plots, and residential properties.</p>
                                     </div>
                                 </div>
                             </div>

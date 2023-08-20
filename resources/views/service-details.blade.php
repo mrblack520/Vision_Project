@@ -51,14 +51,15 @@
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae.</p>
-                                    <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada volutpat.</p>
+                                    <p>With decades of experience in the sale and purchase of properties in Lahore, Rawalpindi/Islamabad, and Karachi and internationally,
+                                     RealProperty serves clients the safety of a respectable, competent, and reliable partner. Our staff comprises seasoned real estate consultants, 
+                                     economists, designers, engineers, and architects to exceed our clients' expectations.</p>
                                     <a href="about.html" class="theme-btn btn-one">About Us</a>
                                 </div>
                                 <div class="contact-info">
                                     <h4>Contact Info</h4>
                                     <ul>
-                                        <li>Chicago 12, Melborne City, USA</li>
+                                        <li>Dha phase 1 karachi City, Pakistan</li>
                                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                                     </ul>

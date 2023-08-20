@@ -50,14 +50,14 @@
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae.</p>
-                                    <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada volutpat.</p>
+                                    <p>also provides its high net worth clients and investors to search from luxury to affordable budget properties for sale and rent across Pakistan.</p>
+                                    <p> We offer critical real estate brokerage and surveying services to private buyers and investors, embassies, trusts, and foundations</p>
                                     <a href="about.html" class="theme-btn btn-one">About Us</a>
                                 </div>
                                 <div class="contact-info">
                                     <h4>Contact Info</h4>
                                     <ul>
-                                        <li>Chicago 12, Melborne City, USA</li>
+                                        <li>Dha phase 1 karachi City, Pakistan</li>
                                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                                     </ul>

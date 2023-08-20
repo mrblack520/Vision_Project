@@ -12,7 +12,7 @@
                             <figure data-animation-text class="overlay-anim-white-bg image p_relative d_block" data-animation="overlay-animation"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
                             <div class="curve-text">
                                 <div class="shape" style="background-image: url(assets/images/shape/shape-5.png);"></div>
-                                <span class="curved-circle">Welcome To Our Apartments.com</span>
+                                <span class="curved-circle">Welcome To Our Perfect View</span>
                                 <div class="text">
                                     <div class="inner">
                                         <h2>10<span>Years</span></h2>
@@ -29,8 +29,7 @@
                                 <h2>Your Trusted <span>Architecture <br />Company</span></h2>
                             </div>
                             <div class="text">
-                                <p>Apartments.com is proud to serve more than 60,000 advertisers each month, and we know that we’re successful only when we help our clients achieve their leasing goals.
-
+                                <p>Perfect View Real Estate was founded by a highly experienced group of realtors in Pakistan specializing in all facets of the real estate business. Combined with over 10 years of experience.
 </p>
                                 <p></p>
                             </div>
@@ -53,7 +52,7 @@
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <a href="service-details-2.html" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-2.png" alt=""></div>
-                                <h4>Apartments.com</h4>
+                                <h4>Perfect View</h4>
                             </a>
                         </div>
                     </div>
@@ -95,33 +94,33 @@
                     <div class="testimonial-block-two">
                         <div class="inner-box">
                             <div class="quote">“</div>
-                            <p>Apartments.com has been there for us year after year, season after season. We can count on Apartments.com to bring us the most quality traffic.”</p>
+                            <p>Perfect View has been there for us year after year, season after season. We can count on Perfect View to bring us the most quality traffic.”</p>
                             <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/resource/testimonial-2.jpg" alt=""></figure>
                                 <h4>Liam Noah</h4>
-                                <span class="designation">UX/ UI Designer</span>
+                                <span class="designation">businessman</span>
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-block-two">
                         <div class="inner-box">
                             <div class="quote">“</div>
-                            <p>Apartments.com does a tremendous job of putting content in a way that is consumable to the modern renter.” </p>
+                            <p>Perfect View does a tremendous job of putting content in a way that is consumable to the modern renter.” </p>
                             <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/resource/testimonial-3.jpg" alt=""></figure>
                                 <h4>James Bond</h4>
-                                <span class="designation">UX/ UI Designer</span>
+                                <span class="designation">businessman</span>
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-block-two">
                         <div class="inner-box">
                             <div class="quote">“</div>
-                            <p>When I get a call from my Apartments.com rep, I know that it's going to be a meaningful moment.” </p>
+                            <p>When I get a call from my Perfect View rep, I know that it's going to be a meaningful moment.” </p>
                             <div class="author-box">
                                 <figure class="author-thumb"><img src="assets/images/resource/testimonial-4.jpg" alt=""></figure>
                                 <h4>Haris Gulati</h4>
-                                <span class="designation">UX/ UI Designer</span>
+                                <span class="designation">businessman</span>
                             </div>
                         </div>
                     </div>

@@ -87,14 +87,14 @@
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae.</p>
-                                    <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada volutpat.</p>
+                                    <p>Founded in 2012, Perfect View focusing luxury real estate services focused on the sale and rent in Lahore, Islamabad, Rawalpindi, Karachi, and primarily focused on residential, commercial areas.</p>
+                                    <p>  Perfect View is known for its professional expertise and excellent customer support and property consultation by the locality senior most expert.</p>
                                     <a href="/about" class="theme-btn btn-one">About Us</a>
                                 </div>
                                 <div class="contact-info">
                                     <h4>Contact Info</h4>
                                     <ul>
-                                        <li>Chicago 12, Melborne City, USA</li>
+                                        <li>Dha phase 1 karachi city, Pakistan</li>
                                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                                     </ul>
@@ -226,7 +226,7 @@
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
+                        <li>Dha phase 1 karachi city, Pakistan</li>
                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                     </ul>
@@ -268,7 +268,7 @@
                                     <ul class="info-list clearfix">
                                          <li><i class="fa-solid fa-phone"></i><a href="tel:88123456987231">+88 12345 6987 231</a></li>
                                         <li><i class="fa-solid fa-envelope"></i><a href="mailto:info@envato.com">info@envato.com</a></li>
-                                        <li><i class="fa-solid fa-location-dot"></i>380 St Kilda Road, Melbourne VIC 3004, Australia</li>
+                                        <li><i class="fa-solid fa-location-dot"></i>Dha phase 1 karachi city, Pakistan</li>
                                     </ul>
                                 </div>
                             </div>

@@ -28,15 +28,13 @@
                                 <div class="sec-title">
                                     <h2>Interior <span>Design</span></h2>
                                 </div>
-                                <p>Consequat metus, non cursus dolor vitae orci. Mauris etiam sed vitae cras vel dolor at urna. Gravida mi tincidunt dictum vitae. Euismod ullamcorper sit blandit quis. Consectetur pellentesque amet bibendum faucibus nisl.
-                                    Non vestibulum convallis nunc nec. Bibendum nunc et congue venenatis malesuada morbi ut quam massa. Non eu quis lacus, volutpat diam aliquam tristique. Morbi massa facilisi diam quis cras pellentesque aliquam donec
-                                    orci.</p>
-                                <p>Et dictum diam tempus orci tristique volutpat sed. Metus quam hendrerit sed massa amet, amet, mauris mi, nunc. Nulla ut egestas congue at id est elit. Sagittis, egestas at nibh mauris at molestie a. Nunc ac aliquam nibh
-                                    ac, et nunc, arcu feugiat. Quis arcu faucibus tempus lacinia lacus cras lacus. Consequat, feugiat eget facilisi dictum quis. Viverra tempus, nisl, aliquet consectetur tortor pellentesque. Eu pharetra, nunc proin diam
-                                    ut.</p>
-                                <p>Urna etiam arcu ligula tortor sociis libero. Adipiscing pharetra est, nisi, in sit. Aliquam imperdiet consectetur ipsum mauris ac nunc praesent pellentesque hendrerit. Varius duis nulla tincidunt mauris, maecenas hendrerit
-                                    tellus. Congue pellentesque mus metus id urna, sit. Maecenas sagittis, in consequat faucibus tristique quisque lectus. Tincidunt vel commodo nec augue blandit lacus. Diam eros, odio nunc congue enim ultrices rhoncus
-                                    imperdiet. Fringilla orci suspendisse elit mauris, vitae. Commodo enim vulputate egestas in.</p>
+                                <p>While your content marketing strategy may be designed to help you attract and retain clients, at heart, your content needs to be about them. Content marketing is all about the value-add to your interior design consumers.
+                                    One way we help our clients create customer-centric content is that we help them to develop buyer personas, which is an exercise to understand your ideal clientele, their interests, wants, and needs. When you truly know 
+                                    your audience, it’s much easier to create content that will wow them.</p>
+                                <p>Real estate developers place importance to this aspect, which SEO professionals have to consider while writing the content. The location and the surrounding of a Real estate project offer a plethora of ideas for creating unique SEO content</p>
+                                <p>The location of a housing project is one of the most crucial aspects a real estate company has to take into account at the very beginning of conceptualizing a residential complex. Prime location will always be in demand,
+                                    but it may not be affordable for everyone. Therefore project developers highlight good connectivity of the location to attract customers. While some residential projects may be in the heart of the city for those who 
+                                    wish to be well-connected for business purposes, some home buyers seek a peaceful, tranquil life in the lap on nature in a scenic location.</p>
                             </div>
                             <div class="image-box">
                                 <div class="row clearfix">

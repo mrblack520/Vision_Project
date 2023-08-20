@@ -53,9 +53,9 @@
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
+                        <li>Dha phase 1, Karachi City, Pakistan</li>
                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                        <li><a href="mailto:info@example.com">Pview@example.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">
@@ -99,8 +99,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>16/02/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">A Brief History on the Beginnings of Modern Architecture</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <h3><a href="blog-details.html">Discover Karachi's real estate gems at Perfect View's property sales event this Sunday</a></h3>
+                                    <p>Attention all property enthusiasts and investors of Karachi! Brace yourselves for an exhilarating experience as Zameen.com proudly presents its signature Property Sales Event (PSE). This Sunday (August 6) …c </p>
                                 </div>
                             </div>
                         </div>
@@ -114,8 +114,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>15/02/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <h3><a href="blog-details.html">The latest petrol price in pakistan??we know that........</a></h3>
+                                    <p>This blog shows current prices of the most commonly available petroleum by-products in the country, such as petrol, diesel, light diesel, and kerosene oil. </p>
                                 </div>
                             </div>
                         </div>
@@ -129,8 +129,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>14/02/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Hop deco is an interactive platform that puts you in touch</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <h3><a href="blog-details.html">Invest wisely with Perfect view Karachi real estate Extrawagnaza</a></h3>
+                                    <p>Own Real Estate in Pakistan for Unparalleled Living and Working Opportunities Dreaming of living and working in one of the world's most exhilarating cities? Look no further than Pakitan, where the Pakistan Golden Visa opens doors to exceptional opportunities. </p>
                                 </div>
                             </div>
                         </div>
@@ -138,14 +138,14 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
                         <div class="news-block-two">
                             <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-6.jpg" alt=""></a></figure>
+                                <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-.jpg" alt=""></a></figure>
                                 <div class="content-box">
                                     <ul class="post-info clearfix">
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>13/02/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Many of our projects cannot be featured in this section</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <h3><a href="blog-details.html">Which real estate offers the best rental yeild in karachi.</a></h3>
+                                    <p>The answer to that is The Edge Mall! The mega mixed-use development is one of the tallest buildings of the city. It offers a valuable investment opportunity the ….</p>
                                 </div>
                             </div>
                         </div>
@@ -159,8 +159,8 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>12/02/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Aenean tristique justo et nibh molestie, non porttitor</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <h3><a href="blog-details.html">Uncover new statments avenues in karachi at Perfect view in sales event. </a></h3>
+                                    <p>Join us this Sunday at the Perfect View Property Sales Event for an exclusive gateway to elevate your real estate portfolio with premium projects.</p>
                                 </div>
                             </div>
                         </div>
@@ -174,8 +174,10 @@
                                         <li><i class="fa-solid fa-user"></i><a href="blog-details.html">Author &nbsp;,</a></li>
                                         <li>11/02/2022</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Nulla vitae cursus quam, nec ultrices nibh Quisque.</a></h3>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim.</p>
+                                    <h3><a href="blog-details.html">All the Reasons Why De Orion Mall-Multan Should be Topping Your Investment Radar
+                                    </a></h3>
+                                    <p>Are you on the hunt for an investment opportunity that not only promises lucrative returns but also encapsulates modern elegance and strategic location? Look no further than De …
+                                    </p>
                                 </div>
                             </div>
                         </div>

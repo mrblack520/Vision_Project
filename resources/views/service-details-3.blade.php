@@ -49,14 +49,14 @@
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
-                                    <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae.</p>
-                                    <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada volutpat.</p>
+                                    <p> Perfect view is known for its professional expertise and excellent customer support and property consultation by the locality senior most expert.</p>
+                                    <p>We are a modern, dynamic company that combines technical know-how and knowledge of international and local property markets with a customer-first philosophy.</p>
                                     <a href="about.html" class="theme-btn btn-one">About Us</a>
                                 </div>
                                 <div class="contact-info">
                                     <h4>Contact Info</h4>
                                     <ul>
-                                        <li>Chicago 12, Melborne City, USA</li>
+                                        <li>Dha phase 1 karachi City, Pakistan</li>
                                         <li><a href="tel:+8801682648101">+88 01682648101</a></li>
                                         <li><a href="mailto:info@example.com">info@example.com</a></li>
                                     </ul>
@@ -134,15 +134,13 @@
                                 <div class="sec-title">
                                     <h2>Urban <span>Design</span></h2>
                                 </div>
-                                <p>Consequat metus, non cursus dolor vitae orci. Mauris etiam sed vitae cras vel dolor at urna. Gravida mi tincidunt dictum vitae. Euismod ullamcorper sit blandit quis. Consectetur pellentesque amet bibendum faucibus nisl.
-                                    Non vestibulum convallis nunc nec. Bibendum nunc et congue venenatis malesuada morbi ut quam massa. Non eu quis lacus, volutpat diam aliquam tristique. Morbi massa facilisi diam quis cras pellentesque aliquam donec
-                                    orci.</p>
-                                <p>Et dictum diam tempus orci tristique volutpat sed. Metus quam hendrerit sed massa amet, amet, mauris mi, nunc. Nulla ut egestas congue at id est elit. Sagittis, egestas at nibh mauris at molestie a. Nunc ac aliquam nibh
-                                    ac, et nunc, arcu feugiat. Quis arcu faucibus tempus lacinia lacus cras lacus. Consequat, feugiat eget facilisi dictum quis. Viverra tempus, nisl, aliquet consectetur tortor pellentesque. Eu pharetra, nunc proin diam
-                                    ut.</p>
-                                <p>Urna etiam arcu ligula tortor sociis libero. Adipiscing pharetra est, nisi, in sit. Aliquam imperdiet consectetur ipsum mauris ac nunc praesent pellentesque hendrerit. Varius duis nulla tincidunt mauris, maecenas hendrerit
-                                    tellus. Congue pellentesque mus metus id urna, sit. Maecenas sagittis, in consequat faucibus tristique quisque lectus. Tincidunt vel commodo nec augue blandit lacus. Diam eros, odio nunc congue enim ultrices rhoncus
-                                    imperdiet. Fringilla orci suspendisse elit mauris, vitae. Commodo enim vulputate egestas in.</p>
+                                <p>A web-based platform that empowers architects, engineers, contractors, and developers to collaborate and make intelligent building performance decisions that reduce design revisions and meet project goals while staying on time and on budget
+                                    Get simple, automated, and impactful carbon calculations. Teams can collaborate quickly to gather crucial information on carbon emissions in order to make important project and design decisions. Create comprehensive carbon profiles to
+                                    compare embodied carbon to operational carbon in order to estimate carbon's impact on a building during its entire lifecycle.</p>
+                                <p>A web-based platform that empowers architects, engineers, contractors, and developers to collaborate and make intelligent building performance decisions that reduce design revisions and meet project goals while staying on time and on budget</p>
+                                <p>A web-based platform that empowers architects, engineers, contractors, and developers to collaborate and make intelligent building performance decisions that reduce design revisions and meet project goals while staying on time and on budget
+                                    Get simple, automated, and impactful carbon calculations. Teams can collaborate quickly to gather crucial information on carbon emissions in order to make important project and design decisions. Create comprehensive carbon profiles to
+                                    compare embodied carbon to operational carbon in order to estimate carbon's impact on a building during its entire lifecycle.</p>
                             </div>
                             <div class="image-box">
                                 <div class="row clearfix">
