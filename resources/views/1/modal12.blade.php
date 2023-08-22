@@ -56,7 +56,7 @@ function main() {
     });
     const mesh = new THREE.Mesh(planeGeo, planeMat);
     mesh.rotation.x = Math.PI * -.5;
-    scene.add(mesh);
+    scene.add();
   }
 
   {
@@ -104,7 +104,7 @@ function main() {
 
   {
     const gltfLoader = new THREE.GLTFLoader();
-    gltfLoader.load('1.glb', (gltf) => {
+    gltfLoader.load('12.glb', (gltf) => {
       const root = gltf.scene;
       scene.add(root);
 

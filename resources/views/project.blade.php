@@ -43,7 +43,7 @@
 
                                     <figure class="image-box"><img src="assets/images/modal/1.png"  alt=""></figure>
                                     <div class="text">
-                                        <h6><a href="/modal1">click it to see the 3D of the house</a></h6>
+                                        <h6><a href="/modal7">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><img src="assets/images/project/project-10.jpg" alt=""></figure>
                                     <div class="text">
-                                        <h6><a href="/modal2">click it to see the 3D of the house</a></h6>
+                                        <h6><a href="/modal8">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>
@@ -65,7 +65,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><img src="assets/images/project/project-11.jpg" alt=""></figure>
                                     <div class="text">
-                                        <h6>APEX</h6>
+                                        <h6><a href="/modal9">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><img src="assets/images/project/project-12.jpg" alt=""></figure>
                                     <div class="text">
-                                        <h6>APEX</h6>
+                                        <h6><a href="/modal10">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><img src="assets/images/project/project-13.jpg" alt=""></figure>
                                     <div class="text">
-                                        <h6>APEX</h6>
+                                        <h6><a href="/modal11">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><img src="assets/images/project/project-14.jpg" alt=""></figure>
                                     <div class="text">
-                                        <h6>APEX</h6>
+                                        <h6><a href="/modal12">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>

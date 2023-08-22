@@ -104,7 +104,7 @@ function main() {
 
   {
     const gltfLoader = new THREE.GLTFLoader();
-    gltfLoader.load('1.glb', (gltf) => {
+    gltfLoader.load('8.glb', (gltf) => {
       const root = gltf.scene;
       scene.add(root);
 
