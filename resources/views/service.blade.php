@@ -135,13 +135,13 @@
                         <div class="content-box">
                             <div class="sec-title">
                                 <span class="sub-title">Who We are</span>
-                                <h2>About the <span>Architecture <br />Company</span></h2>
+                                <h2>About the <span>Real Estate <br />Company</span></h2>
                             </div>
                             <div class="text">
                                 <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim. Vulputate velit mattis
                                     tincidunt nunc sed mauris, sit amet ullamcorper. Ullamcorper nunc mauris nunc proin sollicitudin mattis viverra purus congue.</p>
                                 <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada eu adipiscing volutpat.</p>
-                                <a href="about.html" class="theme-btn btn-one">About Info</a>
+                                <a href="/about" class="theme-btn btn-one">About Info</a>
                             </div>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
             <div class="bg-layer parallax-bg" data-parallax='{"y": 100}' style="background-image: url(assets/images/background/service-bg.jpg);"></div>
             <div class="large-container">
                 <div class="sec-title">
-                    <span class="sub-title">Serivcess</span>
+                    <span class="sub-title">Services</span>
                     <h2>Solutions we <span>provide</span>.</h2>
                 </div>
                 <div class="row clearfix">
