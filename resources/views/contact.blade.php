@@ -84,15 +84,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-12 col-sm-12 content-column">
-                    <div class="content-box">
-                        <figure class="logo"><a href="contact.html"><img src="assets/images/logo.png" alt=""></a></figure>
-                        <div class="text">
-                            <p>.</p>
-                        </div>
-                        
-                    </div>
-                </div>
+              
             </div>
         </div>
     </section>

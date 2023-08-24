@@ -10,6 +10,19 @@
 </head>
 
 <body>
+	<section class="page-title centred">
+        <div class="outer-container">
+            <div class="bg-layer" style="background-image: url(assets/images/background/signup.jpg);"></div>
+            <div class="large-container">
+                <div class="title-box">
+                    <h2>Register Here</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
  <form action="/sign" method="POST">
     @csrf
 	<div class="section">
