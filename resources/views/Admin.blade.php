@@ -52,7 +52,10 @@
                                         </i>
                                     </div>
                                     <div class="text-white">Admin Dashboard
-
+                                  {{-- @if(Auth()->user()->name != "")
+                                  {{Auth()->user()->name}}
+                                  @endif --}}
+                               
                                     </div>
                                 </div>
                             
