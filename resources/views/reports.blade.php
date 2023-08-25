@@ -49,13 +49,13 @@
                 <!-- Sidebar menu starts -->
                 <div class="sidebarMenuScroll">
                     <ul class="sidebar-menu">
-                        <li class="active current-page">
+                        <li>
                             <a href="index.html">
 									<i class="icon-stacked_line_chart"></i>
 									<span class="menu-text">Support Dashboard</span>
 								</a>
                         </li>
-                        <li>
+                        <li class="active current-page">
                             <a href="reports.html">
 									<i class="icon-bar-chart"></i>
 									<span class="menu-text">Reports</span>
@@ -515,135 +515,79 @@
                     <div class="container-fluid">
                         <!-- Row start -->
                         <div class="row">
-                            <div class="col-xl-6 col-12">
-                                <!-- Row start -->
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="card mb-4">
-                                            <div class="card-header">
-                                                <h5 class="card-title">Tickets</h5>
+                            <div class="col-xxl-6 col-xl-12 col-12">
+                                <div class="card mb-4">
+                                    <div class="card-body">
+                                        <div class="d-flex align-items-center">
+                                            <div class="p-3">
+                                                <i class="icon-phone display-5"></i>
                                             </div>
-                                            <div class="card-body">
-                                                <div id="ticketsData"></div>
+                                            <div class="pt-2">
+                                                <h5 class="fw-light opacity-50">Calls</h5>
+                                                <h1 class="m-0">250</h1>
                                             </div>
+                                            <span class="badge bg-danger opacity-50 position-absolute top-0 end-0 m-3"><i
+														class="icon-trending-up me-1"></i>15%</span>
                                         </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="card mb-4">
-                                            <div class="card-header">
-                                                <h5 class="card-title">Today's Tickets</h5>
-                                            </div>
-                                            <div class="card-body">
-                                                <div class="d-flex justify-content-between mb-2">
-                                                    <span>Completed</span>
-                                                    <span class="fw-bold">75%</span>
+                                        <div id="callsData"></div>
+                                        <div class="d-flex gap-5 mt-2">
+                                            <div class="d-flex align-items-center">
+                                                <div class="p-3 bg-info rounded-circle bg-gradient me-3">
+                                                    <i class="icon-phone-incoming fs-1"></i>
                                                 </div>
-                                                <div class="progress small">
-                                                    <div class="progress-bar bg-success" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                                <div class="py-1">
+                                                    <h5 class="fw-light opacity-50 mb-1">Incoming</h5>
+                                                    <h2 class="m-0">210</h2>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="card mb-4">
-                                            <div class="card-header">
-                                                <h5 class="card-title">New Tickets</h5>
-                                            </div>
-                                            <div class="card-body">
-                                                <div class="d-flex justify-content-between mb-2">
-                                                    <span>Assigned</span>
-                                                    <span class="fw-bold">5</span>
+
+                                            <div class="d-flex align-items-center">
+                                                <div class="p-3 bg-danger rounded-circle bg-gradient me-3">
+                                                    <i class="icon-phone-outgoing fs-1"></i>
                                                 </div>
-                                                <div class="progress small">
-                                                    <div class="progress-bar bg-danger" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                                <div class="py-1">
+                                                    <h5 class="fw-light opacity-50 mb-1">OutGoing</h5>
+                                                    <h2 class="m-0">260</h2>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Row end -->
                             </div>
-                            <div class="col-xl-6 col-12">
-                                <div class="row">
-                                    <div class="col-4">
-                                        <div class="card px-3 py-2 mb-4 d-flex flex-row align-items-center">
-                                            <div class="position-relative shape-block">
-                                                <img src="assets/images/shape1.png" class="img-fluid img-4x" alt="Bootstrap Themes" />
-                                                <i class="icon-book-open"></i>
+                            <div class="col-xxl-6 col-xl-12 col-12">
+                                <div class="card mb-4">
+                                    <div class="card-body">
+                                        <div class="d-flex align-items-center">
+                                            <div class="p-3">
+                                                <i class="icon-shopping-bag display-5"></i>
                                             </div>
-                                            <div class="ms-2">
-                                                <h3 class="m-0 fw-semibold">27</h3>
-                                                <h6 class="m-0 fw-light">Active</h6>
+                                            <div class="pt-2">
+                                                <h5 class="fw-light opacity-50">Revenue</h5>
+                                                <h1 class="m-0">$6400</h1>
                                             </div>
+                                            <span class="badge bg-danger opacity-50 position-absolute top-0 end-0 m-3"><i
+														class="icon-trending-up me-1"></i>18%</span>
                                         </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card px-3 py-2 mb-4 d-flex flex-row align-items-center">
-                                            <div class="position-relative shape-block">
-                                                <img src="assets/images/shape2.png" class="img-fluid img-4x" alt="Bootstrap Themes" />
-                                                <i class="icon-check-circle"></i>
+                                        <div id="revenueData"></div>
+                                        <div class="d-flex gap-5 mt-2">
+                                            <div class="d-flex align-items-center">
+                                                <div class="p-3 bg-info rounded-circle bg-gradient me-3">
+                                                    <i class="icon-trending-up fs-1"></i>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="fw-light opacity-50 mb-1">Income</h5>
+                                                    <h2 class="m-0">$7900</h2>
+                                                </div>
                                             </div>
-                                            <div class="ms-2">
-                                                <h3 class="m-0 fw-semibold">18</h3>
-                                                <h6 class="m-0 fw-light">Solved</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card px-3 py-2 mb-4 d-flex flex-row align-items-center">
-                                            <div class="position-relative shape-block">
-                                                <img src="assets/images/shape3.png" class="img-fluid img-4x" alt="Bootstrap Themes" />
-                                                <i class="icon-x-circle"></i>
-                                            </div>
-                                            <div class="ms-2">
-                                                <h3 class="m-0 fw-semibold">12</h3>
-                                                <h6 class="m-0 fw-light">Closed</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card px-3 py-2 mb-4 d-flex flex-row align-items-center">
-                                            <div class="position-relative shape-block">
-                                                <img src="assets/images/shape4.png" class="img-fluid img-4x" alt="Bootstrap Themes" />
-                                                <i class="icon-add_task"></i>
-                                            </div>
-                                            <div class="ms-2">
-                                                <h3 class="m-0 fw-semibold">3</h3>
-                                                <h6 class="m-0 fw-light">Open</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card px-3 py-2 mb-4 d-flex flex-row align-items-center">
-                                            <div class="position-relative shape-block">
-                                                <img src="assets/images/shape5.png" class="img-fluid img-4x" alt="Bootstrap Themes" />
-                                                <i class="icon-alert-triangle"></i>
-                                            </div>
-                                            <div class="ms-2">
-                                                <h3 class="m-0 fw-semibold">5</h3>
-                                                <h6 class="m-0 fw-light">Critical</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card px-3 py-2 mb-4 d-flex flex-row align-items-center">
-                                            <div class="position-relative shape-block">
-                                                <img src="assets/images/shape6.png" class="img-fluid img-4x" alt="Bootstrap Themes" />
-                                                <i class="icon-access_time"></i>
-                                            </div>
-                                            <div class="ms-2">
-                                                <h3 class="m-0 fw-semibold">7</h3>
-                                                <h6 class="m-0 fw-light">High</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="card mb-4">
-                                            <div class="card-header">
-                                                <h5 class="card-title">Avg. Response Time</h5>
-                                            </div>
-                                            <div class="card-body">
-                                                <div id="avgTimeData"></div>
+
+                                            <div class="d-flex align-items-center">
+                                                <div class="p-3 bg-danger rounded-circle bg-gradient me-3">
+                                                    <i class="icon-trending-down fs-1"></i>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="fw-light opacity-50 mb-1">Expenses</h5>
+                                                    <h2 class="m-0">$3600</h2>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -654,74 +598,59 @@
 
                         <!-- Row start -->
                         <div class="row">
-                            <div class="col-xl-4 col-md-6 col-sm-12 col-12">
+                            <div class="col-12">
                                 <div class="card mb-4">
                                     <div class="card-header">
-                                        <h5 class="card-title">Live Calls</h5>
+                                        <h5 class="card-title">Earnings</h5>
                                     </div>
                                     <div class="card-body">
-                                        <div id="liveCallsData"></div>
-
-                                        <div class="d-flex justify-content-center gap-4 my-4">
-                                            <div class="d-flex align-items-center">
-                                                <i class="icon-phone-incoming fs-3 me-3"></i> Incoming
-                                                <span class="badge rounded-pill bg-info ms-2">15</span>
+                                        <!-- Row start -->
+                                        <div class="row align-items-center">
+                                            <div class="col-xl-7 col-lg-6 col-md-12">
+                                                <div id="world-map-markers3" class="chart-height-xl"></div>
                                             </div>
-                                            <div class="d-flex align-items-center">
-                                                <i class="icon-phone-outgoing fs-3 me-3"></i> Outgoing
-                                                <span class="badge rounded-pill bg-dark ms-2">18</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-md-6 col-sm-12 col-12">
-                                <div class="card mb-4">
-                                    <div class="card-header">
-                                        <h5 class="card-title">Agents Online</h5>
-                                    </div>
-                                    <div class="card-body">
-                                        <div id="agentsLiveData"></div>
-
-                                        <div class="d-flex justify-content-center gap-4 my-4">
-                                            <div class="d-flex align-items-center">
-                                                Busy
-                                                <span class="badge rounded-pill bg-info ms-2">15</span>
-                                            </div>
-                                            <div class="d-flex align-items-center">
-                                                Online
-                                                <span class="badge rounded-pill bg-dark ms-2">18</span>
-                                            </div>
-                                            <div class="d-flex align-items-center">
-                                                Offline
-                                                <span class="badge rounded-pill bg-white text-black ms-2">13</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-md-12 col-sm-12 col-12">
-                                <div class="card mb-4">
-                                    <div class="card-header">
-                                        <h5 class="card-title">Tickets by Priority</h5>
-                                    </div>
-                                    <div class="card-body">
-                                        <div id="lticketsPriorityData"></div>
-
-                                        <div class="d-flex justify-content-center gap-4 my-4">
-                                            <div class="d-flex align-items-center">
-                                                High
-                                                <span class="badge rounded-pill bg-info ms-2">15</span>
-                                            </div>
-                                            <div class="d-flex align-items-center">
-                                                Medium
-                                                <span class="badge rounded-pill bg-dark ms-2">18</span>
-                                            </div>
-                                            <div class="d-flex align-items-center">
-                                                Low
-                                                <span class="badge rounded-pill bg-white text-black ms-2">13</span>
+                                            <div class="col-xl-5 col-lg-6 col-md-12">
+                                                <div class="row g-5">
+                                                    <div class="col-6">
+                                                        <div class="d-flex align-items-center">
+                                                            <div class="fs-4 fw-bold">$75,900</div>
+                                                            <div class="ms-2 text-primary fw-bold d-flex">
+                                                                <i class="icon-trending-up fs-4 me-1"></i> 12%
+                                                            </div>
+                                                        </div>
+                                                        <small class="text-dark">Overall Earnings</small>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="d-flex align-items-center">
+                                                            <div class="fs-4 fw-bold">$24,800</div>
+                                                            <div class="ms-2 text-primary fw-bold d-flex">
+                                                                <i class="icon-trending-up fs-4 me-1"></i> 15%
+                                                            </div>
+                                                        </div>
+                                                        <small class="text-dark">Earnings in USA</small>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="d-flex align-items-center">
+                                                            <div class="fs-4 fw-bold">$21,900</div>
+                                                            <div class="ms-2 text-primary fw-bold d-flex">
+                                                                <i class="icon-trending-up fs-4 me-1"></i> 15%
+                                                            </div>
+                                                        </div>
+                                                        <small class="text-dark">Earnings in Turkey</small>
+                                                    </div>
+                                                    <div class="col-6">
+                                                        <div class="d-flex align-items-center">
+                                                            <div class="fs-4 fw-bold">$16,800</div>
+                                                            <div class="ms-2 text-danger fw-bold d-flex">
+                                                                <i class="icon-trending-down fs-4 me-1"></i> 18%
+                                                            </div>
+                                                        </div>
+                                                        <small class="text-dark">Earnings in Brazil</small>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Row end -->
                                     </div>
                                 </div>
                             </div>
@@ -730,98 +659,83 @@
 
                         <!-- Row start -->
                         <div class="row">
-                            <div class="col-xl-6 col-lg-12 col-12">
+                            <div class="col-xl-6 col-lg-12">
                                 <div class="card mb-4">
                                     <div class="card-header">
-                                        <h5 class="card-title">Top 5 Agents</h5>
+                                        <h5 class="card-title">Search Reports</h5>
                                     </div>
                                     <div class="card-body">
                                         <div class="border rounded-3">
                                             <div class="table-responsive">
-                                                <table class="table align-middle custom-table m-0">
+                                                <table class="table align-middle text-truncate custom-table m-0">
                                                     <thead>
                                                         <tr>
-                                                            <th>#</th>
-                                                            <th>Agent</th>
-                                                            <th>Tickets</th>
-                                                            <th>Time Spent</th>
-                                                            <th>Feedback</th>
+                                                            <th>Channel</th>
+                                                            <th>Users</th>
+                                                            <th>Sessions</th>
+                                                            <th>Last week</th>
+                                                            <th>Change %</th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td>1</td>
                                                             <td>
-                                                                <div class="fw-semibold">Elisa Shah</div>
+                                                                <div class="fw-semibold">Organic search</div>
+                                                            </td>
+                                                            <td>38,440</td>
+                                                            <td>65,000(45%)</td>
+                                                            <td>
+                                                                <span class="badge bg-info">48,950(33%)</span>
                                                             </td>
                                                             <td>
-                                                                <span class="badge bg-info">54</span>
-                                                            </td>
-                                                            <td>
-                                                                <span class="badge border border-info text-info">2 Hrs 30 Mins</span>
-                                                            </td>
-                                                            <td>
-                                                                <div class="starReadOnly1 rating-stars my-2"></div>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>
-                                                                <div class="fw-semibold">Ladonna Jones</div>
-                                                            </td>
-                                                            <td>
-                                                                <span class="badge bg-success">49</span>
-                                                            </td>
-                                                            <td>
-                                                                <span class="badge border border-success text-success">2 Hrs 21 Mins</span>
-                                                            </td>
-                                                            <td>
-                                                                <div class="starReadOnly2 rating-stars my-2"></div>
+                                                                <div class="bg-info p-2 rounded-2">
+                                                                    65.33%
+                                                                </div>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>3</td>
                                                             <td>
-                                                                <div class="fw-semibold">Jewel Alexander</div>
+                                                                <div class="fw-semibold">Direct</div>
+                                                            </td>
+                                                            <td>40,390</td>
+                                                            <td>57,500(33%)</td>
+                                                            <td>
+                                                                <span class="badge bg-warning">39,250(29%)</span>
                                                             </td>
                                                             <td>
-                                                                <span class="badge bg-warning">45</span>
-                                                            </td>
-                                                            <td>
-                                                                <span class="badge border border-warning text-warning">2 Hrs 15 Mins</span>
-                                                            </td>
-                                                            <td>
-                                                                <div class="starReadOnly1 rating-stars my-2"></div>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>
-                                                                <div class="fw-semibold">Rich Spears</div>
-                                                            </td>
-                                                            <td>
-                                                                <span class="badge bg-danger">42</span>
-                                                            </td>
-                                                            <td>
-                                                                <span class="badge border border-danger text-danger">2 Hrs 10 Mins</span>
-                                                            </td>
-                                                            <td>
-                                                                <div class="starReadOnly1 rating-stars my-2"></div>
+                                                                <div class="bg-warning p-2 rounded-2">
+                                                                    32.09%
+                                                                </div>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>5</td>
                                                             <td>
-                                                                <div class="fw-semibold">Shelly Daniel</div>
+                                                                <div class="fw-semibold">Email</div>
+                                                            </td>
+                                                            <td>29,250</td>
+                                                            <td>18,390(21%)</td>
+                                                            <td>
+                                                                <span class="badge bg-success">21,120(92%)</span>
                                                             </td>
                                                             <td>
-                                                                <span class="badge bg-secondary">38</span>
+                                                                <div class="bg-success p-2 rounded-2">
+                                                                    75.63%
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="fw-semibold">Referal</div>
+                                                            </td>
+                                                            <td>40,333</td>
+                                                            <td>36,440(62%)</td>
+                                                            <td>
+                                                                <span class="badge bg-danger">29,879(55%)</span>
                                                             </td>
                                                             <td>
-                                                                <span class="badge border border-secondary text-secondary">2Hrs 05Mins</span>
-                                                            </td>
-                                                            <td>
-                                                                <div class="starReadOnly1 rating-stars my-2"></div>
+                                                                <div class="bg-danger p-2 rounded-2">
+                                                                    87.02%
+                                                                </div>
                                                             </td>
                                                         </tr>
                                                     </tbody>
@@ -831,86 +745,162 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-3 col-lg-6 col-12">
+                            <div class="col-xl-6 col-lg-12">
                                 <div class="card mb-4">
                                     <div class="card-header">
-                                        <h5 class="card-title">Feedback</h5>
+                                        <h5 class="card-title">Calls History</h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="border rounded-3">
+                                            <div class="table-responsive">
+                                                <table class="table align-middle text-truncate custom-table m-0">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Calls</th>
+                                                            <th>Duration</th>
+                                                            <th>Resolved</th>
+                                                            <th>Trend</th>
+                                                            <th>Response</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="fw-semibold">4590</div>
+                                                            </td>
+                                                            <td>148Sec</td>
+                                                            <td>98%</td>
+                                                            <td>
+                                                                <div id="sparkline1"></div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="bg-info text-white p-2 rounded-2">
+                                                                    4.9
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="fw-semibold">8760</div>
+                                                            </td>
+                                                            <td>132Sec</td>
+                                                            <td>97%</td>
+                                                            <td>
+                                                                <div id="sparkline2"></div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="bg-warning text-white p-2 rounded-2">
+                                                                    4.8
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="fw-semibold">7639</div>
+                                                            </td>
+                                                            <td>165Sec</td>
+                                                            <td>96.6%</td>
+                                                            <td>
+                                                                <div id="sparkline3"></div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="bg-success text-white p-2 rounded-2">
+                                                                    4.4
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <div class="fw-semibold">3345</div>
+                                                            </td>
+                                                            <td>123Sec</td>
+                                                            <td>98.4%</td>
+                                                            <td>
+                                                                <div id="sparkline4"></div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="bg-danger text-white p-2 rounded-2">
+                                                                    4.6
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Row end -->
+
+                        <!-- Row start -->
+                        <div class="row">
+                            <div class="col-xl-4 col-sm-6">
+                                <div class="card mb-4">
+                                    <div class="card-header">
+                                        <h5 class="card-title">Pay Per Ticket</h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="paymentsData"></div>
+                                        <div class="m-0">
+                                            <div class="d-flex align-items-center">
+                                                <div class="fs-4 fw-bold">$27.00</div>
+                                                <div class="ms-2 text-primary fw-bold d-flex">
+                                                    <i class="icon-trending-up fs-4 me-1"></i> 15%
+                                                </div>
+                                            </div>
+                                            <small class="text-dark">Paid Per Ticket</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-sm-6">
+                                <div class="card mb-4">
+                                    <div class="card-header">
+                                        <h5 class="card-title">Top Agents</h5>
                                     </div>
                                     <div class="card-body">
                                         <div class="scroll300">
                                             <div class="my-2">
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-primary rounded-5">
-                                                        <i class="icon-thumbs-up"></i>
-                                                    </div>
+                                                <div class="d-flex align-items-start mb-4">
+                                                    <img src="assets/images/user3.png" class="img-5x me-3 rounded-circle activity-user" alt="Admin Dashboards" />
                                                     <div class="mb-4">
                                                         <h5>Christian Ochoa</h5>
-                                                        <p class="mb-1">Amazing</p>
-                                                        <p class="m-0 opacity-50">3 mins ago</p>
+                                                        <p class="m-0">98 Tickets</p>
+                                                        <span class="badge bg-primary">Great</span>
                                                     </div>
                                                 </div>
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-primary rounded-5">
-                                                        <i class="icon-thumbs-up"></i>
-                                                    </div>
+                                                <div class="d-flex align-items-start mb-4">
+                                                    <img src="assets/images/user1.png" class="img-5x me-3 rounded-circle activity-user" alt="Admin Themes" />
                                                     <div class="mb-4">
-                                                        <h5>Marci Aguirre</h5>
-                                                        <p class="mb-1">
-                                                            Great as always. All sorted with in a short time.
-                                                        </p>
-                                                        <p class="m-0 opacity-50">5 mins ago</p>
+                                                        <h5>Socorro Decker</h5>
+                                                        <p class="m-0">86 Tickets</p>
+                                                        <span class="badge bg-primary">Great</span>
                                                     </div>
                                                 </div>
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-primary rounded-5">
-                                                        <i class="icon-thumbs-up"></i>
-                                                    </div>
+                                                <div class="d-flex align-items-start mb-4">
+                                                    <img src="assets/images/user2.png" class="img-5x me-3 rounded-circle activity-user" alt="Bootstrap Themes" />
                                                     <div class="mb-4">
-                                                        <h5>Rico Barry</h5>
-                                                        <p class="mb-1">
-                                                            All sorted with in a short time.
-                                                        </p>
-                                                        <p class="m-0 opacity-50">5 mins ago</p>
+                                                        <h5>Haywood Sharp</h5>
+                                                        <p class="m-0">82 Tickets</p>
+                                                        <span class="badge bg-primary">Awesome</span>
                                                     </div>
                                                 </div>
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-primary rounded-5">
-                                                        <i class="icon-thumbs-up"></i>
-                                                    </div>
+                                                <div class="d-flex align-items-start mb-4">
+                                                    <img src="assets/images/user4.png" class="img-5x me-3 rounded-circle activity-user" alt="Admin Dashboards" />
                                                     <div class="mb-4">
-                                                        <h5>Dawn Shepherd</h5>
-                                                        <p class="mb-1">Great support guys</p>
-                                                        <p class="m-0 opacity-50">6 mins ago</p>
+                                                        <h5>Doug Beard</h5>
+                                                        <p class="m-0">75 Tickets</p>
+                                                        <span class="badge bg-primary">Great</span>
                                                     </div>
                                                 </div>
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-danger rounded-5">
-                                                        <i class="icon-thumbs-down"></i>
-                                                    </div>
+                                                <div class="d-flex align-items-start mb-4">
+                                                    <img src="assets/images/user5.png" class="img-5x me-3 rounded-circle activity-user" alt="Bootstrap Dashboards" />
                                                     <div class="mb-4">
-                                                        <h5>Heidi Ali</h5>
-                                                        <p class="mb-1">Sorry guys</p>
-                                                        <p class="m-0 opacity-50">6 mins ago</p>
-                                                    </div>
-                                                </div>
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-primary rounded-5">
-                                                        <i class="icon-thumbs-up"></i>
-                                                    </div>
-                                                    <div class="mb-4">
-                                                        <h5>Julio Olson</h5>
-                                                        <p class="mb-1">Awesome support</p>
-                                                        <p class="m-0 opacity-50">9 mins ago</p>
-                                                    </div>
-                                                </div>
-                                                <div class="d-flex align-items-start">
-                                                    <div class="media-box me-3 bg-primary rounded-5">
-                                                        <i class="icon-thumbs-up"></i>
-                                                    </div>
-                                                    <div class="mb-4">
-                                                        <h5>Lily Lyons</h5>
-                                                        <p class="mb-1">Thanks</p>
-                                                        <p class="m-0 opacity-50">9 mins ago</p>
+                                                        <h5>Walton Bass</h5>
+                                                        <p class="m-0">52 Tickets</p>
+                                                        <span class="badge bg-primary">Great</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -918,13 +908,43 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-3 col-lg-6 col-12">
+                            <div class="col-xl-4 col-sm-12">
                                 <div class="card mb-4">
                                     <div class="card-header">
-                                        <h5 class="card-title">New Tickets vs Closed</h5>
+                                        <h5 class="card-title">Settings</h5>
                                     </div>
                                     <div class="card-body">
-                                        <div id="newClosedGraph"></div>
+                                        <div class="scroll300">
+                                            <ul class="settings-list list-unstyled">
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check1">Check for new emails for
+															every 15 mins</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check1" checked />
+                                                </li>
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check2">Enable sound
+															notifications</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check2" />
+                                                </li>
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check3">Delete trash emails for
+															every week</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check3" checked />
+                                                </li>
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check4">Move deleted messages to
+															trash folder</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check4" checked />
+                                                </li>
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check5">Friend
+															Requests</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check5" checked />
+                                                </li>
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check6">Chat</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check6" checked />
+                                                </li>
+                                                <li class="form-switch d-flex justify-content-between align-items-center">
+                                                    <label class="form-check-label text-truncate me-3" for="check6">Email
+															Notifications</label><input class="form-check-input m-0" type="checkbox" role="switch" id="check6" checked />
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -969,16 +989,17 @@
 
     <!-- Apex Charts -->
     <script src="assets/vendor/apex/apexcharts.min.js"></script>
-    <script src="assets/vendor/apex/custom/home/ticketsData.js"></script>
-    <script src="assets/vendor/apex/custom/home/avgTimeData.js"></script>
-    <script src="assets/vendor/apex/custom/home/liveCallsData.js"></script>
-    <script src="assets/vendor/apex/custom/home/agentsLiveData.js"></script>
-    <script src="assets/vendor/apex/custom/home/ticketsPriorityData.js"></script>
-    <script src="assets/vendor/apex/custom/home/newClosedData.js"></script>
+    <script src="assets/vendor/apex/custom/statistics/revenueData.js"></script>
+    <script src="assets/vendor/apex/custom/statistics/callsData.js"></script>
+    <script src="assets/vendor/apex/custom/statistics/paymentsData.js"></script>
+    <script src="assets/vendor/apex/custom/statistics/sparklines.js"></script>
 
-    <!-- Rating -->
-    <script src="assets/vendor/rating/raty.js"></script>
-    <script src="assets/vendor/rating/raty-custom.js"></script>
+    <!-- Vector Maps -->
+    <script src="assets/vendor/jvectormap/jquery-jvectormap-2.0.5.min.js"></script>
+    <script src="assets/vendor/jvectormap/world-mill-en.js"></script>
+    <script src="assets/vendor/jvectormap/gdp-data.js"></script>
+    <script src="assets/vendor/jvectormap/continents-mill.js"></script>
+    <script src="assets/vendor/jvectormap/custom/world-map-markers3.js"></script>
 
     <!-- Custom JS files -->
     <script src="assets/js/custom.js"></script>

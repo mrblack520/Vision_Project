@@ -180,6 +180,11 @@ public function sign_in(){
         return view("1/modal15");
 
     }
+    public function dash(){
+
+        return view("dashboard/index");
+
+    }
 
     public function sign_in_logic(Request $request){
 
@@ -212,12 +217,12 @@ return redirect()->back();
     public function admin_panel(){
 
         return view('Admin');
-        
+
                 }
                 public function dashboard(){
 
                     return view('Dashboard');
-                    
-                            }      
+
+                            }
 
 }
