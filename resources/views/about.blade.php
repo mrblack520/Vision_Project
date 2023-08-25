@@ -34,7 +34,7 @@
                                 <p></p>
                             </div>
                             <div class="btn-box">
-                                <a href="about.html" class="theme-btn btn-one">All Informamtion</a>
+                                <a href="/about" class="theme-btn btn-one">All Informamtion</a>
                             </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <a href="service-details-2.html" class="inner-box">
+                            <a href="service-details-2" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-2.png" alt=""></div>
                                 <h4>Perfect View</h4>
                             </a>
@@ -58,7 +58,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <a href="service-details-2.html" class="inner-box">
+                            <a href="service-details-2" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-3.png" alt=""></div>
                                 <h4>Architecture</h4>
                             </a>
@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
-                            <a href="service-details-3.html" class="inner-box">
+                            <a href="service-details-3" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-4.png" alt=""></div>
                                 <h4>Urban Design</h4>
                             </a>
@@ -74,7 +74,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
                         <div class="service-block-one wow slideInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <a href="service-details-4.html" class="inner-box">
+                            <a href="service-details-4" class="inner-box">
                                 <div class="icon-box"><img src="assets/images/icons/icon-5.png" alt=""></div>
                                 <h4>Discr Design</h4>
                             </a>
@@ -96,8 +96,8 @@
                             <div class="quote">“</div>
                             <p>Perfect View has been there for us year after year, season after season. We can count on Perfect View to bring us the most quality traffic.”</p>
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/resource/testimonial-2.jpg" alt=""></figure>
-                                <h4>Liam Noah</h4>
+                                <figure class="author-thumb"><img src="./avatar/2.jpg" alt=""></figure>
+                                <h4>Javeria</h4>
                                 <span class="designation">businessman</span>
                             </div>
                         </div>
@@ -107,8 +107,8 @@
                             <div class="quote">“</div>
                             <p>Perfect View does a tremendous job of putting content in a way that is consumable to the modern renter.” </p>
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/resource/testimonial-3.jpg" alt=""></figure>
-                                <h4>James Bond</h4>
+                                <figure class="author-thumb"><img src="./avatar/3.png" alt=""></figure>
+                                <h4>Sanaullah</h4>
                                 <span class="designation">businessman</span>
                             </div>
                         </div>
@@ -118,8 +118,8 @@
                             <div class="quote">“</div>
                             <p>When I get a call from my Perfect View rep, I know that it's going to be a meaningful moment.” </p>
                             <div class="author-box">
-                                <figure class="author-thumb"><img src="assets/images/resource/testimonial-4.jpg" alt=""></figure>
-                                <h4>Haris Gulati</h4>
+                                <figure class="author-thumb"><img src="./avatar/1.jpeg" alt=""></figure>
+                                <h4>Ariba</h4>
                                 <span class="designation">businessman</span>
                             </div>
                         </div>
@@ -134,11 +134,11 @@
         <section class="clients-section about-page">
             <div class="auto-container">
                 <div class="five-item-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-5.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index"><img src="assets/images/clients/clients-5.png" alt=""></a></figure>
                 </div>
             </div>
         </section>
@@ -156,7 +156,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -165,7 +165,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="team-details">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -173,7 +173,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -182,7 +182,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="team-details">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -199,7 +199,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="team-details">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -207,7 +207,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -216,7 +216,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="team-details">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -224,7 +224,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -233,7 +233,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="team-details">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -241,7 +241,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -250,7 +250,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="team-details">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -258,7 +258,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -267,7 +267,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="team-details">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg "style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -284,7 +284,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="team-details">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -292,7 +292,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -301,7 +301,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="team-details">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -309,7 +309,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -318,7 +318,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="team-details.html">Gaurav Bhalla</a></h4>
+                                <h4><a href="team-details">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -335,7 +335,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="team-details.html">Haris Gulati</a></h4>
+                                <h4><a href="team-details">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -343,7 +343,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg"  style="border-radius: 120px" height="220px" alt=""></figure>
                                  <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -352,7 +352,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="team-details.html">Michel Watson</a></h4>
+                                <h4><a href="team-details">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -381,4 +381,4 @@
     </div>
 @endsection
 
-   
+

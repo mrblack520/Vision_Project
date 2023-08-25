@@ -380,8 +380,8 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h2>King Town <span>HOUSE</span></h2>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -391,8 +391,8 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h2>King Town <span>HOUSE</span></h2>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -402,8 +402,8 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h2>King Town <span>HOUSE</span></h2>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -413,8 +413,8 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>Melbourne VIC, Australia</h4>
+                                <h2>King Town <span>HOUSE</span></h2>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi pakistan</h4>
                             </div>
                             <div class="video-btn">
                                 <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
@@ -444,7 +444,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -453,7 +453,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="#">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -461,7 +461,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -470,7 +470,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="#">Haris Gulati</a></h4>
+                                <h4><a href="#">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -478,7 +478,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -487,7 +487,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="#">Michel Watson</a></h4>
+                                <h4><a href="#">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -495,7 +495,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -504,7 +504,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="#">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -512,7 +512,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -521,7 +521,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="#">Haris Gulati</a></h4>
+                                <h4><a href="#">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -529,7 +529,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -538,7 +538,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="#">Michel Watson</a></h4>
+                                <h4><a href="#">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -546,7 +546,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -555,7 +555,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="#">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -563,7 +563,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -572,7 +572,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="#">Haris Gulati</a></h4>
+                                <h4><a href="#">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -580,7 +580,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -589,7 +589,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="#">Michel Watson</a></h4>
+                                <h4><a href="#">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -597,7 +597,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/3.png" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -606,7 +606,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">01</span>
-                                <h4><a href="#">Gaurav Bhalla</a></h4>
+                                <h4><a href="#">Sanaullah</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -614,7 +614,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/2.jpg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -623,7 +623,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">02</span>
-                                <h4><a href="#">Haris Gulati</a></h4>
+                                <h4><a href="#">Ariba</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -631,7 +631,7 @@
                     <div class="team-block-one">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <figure class="image"><img src="./avatar/1.jpeg" style="border-radius: 120px" height="220px" alt=""></figure>
                                 <ul class="social-links clearfix">
                                     <li><a href="/index"><i class="fa-brands fa-facebook"></i></a></li>
                                     <li><a href="/index"><i class="fa-brands fa-instagram"></i></a></li>
@@ -640,7 +640,7 @@
                             </div>
                             <div class="content-box">
                                 <span class="count-text">03</span>
-                                <h4><a href="#">Michel Watson</a></h4>
+                                <h4><a href="#">Javeria</a></h4>
                                 <span class="designation">Architecture</span>
                             </div>
                         </div>
@@ -675,7 +675,7 @@
                                             <li><i class="fa-solid fa-at"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>12/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details">A Brief History on the Beginnings of <br> Perfect View</a></h3>
+                                        <h3><a href="/modal21">A Brief History on the Beginnings of <br> Perfect View</a></h3>
                                         <p>Perfect View Index is a real estate index that measures the performance of the real estate sector in Pakistan. It provides comprehensive data and historical trends of property prices in different societies and cities in Pakistan</p>
                                     </div>
                                 </div>
@@ -690,7 +690,7 @@
                                             <li><i class="fa-solid fa-at"></i><a href="blog-details">Author &nbsp;,</a></li>
                                             <li>11/12/2022</li>
                                         </ul>
-                                        <h3><a href="blog-details">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
+                                        <h3><a href="/modal20">Electric Feel And Of Other Things Lacinia eget consecte sed convallis.</a></h3>
                                         <p>Perfect view provides a wide range of data on the real estate market in Pakistan, including property prices, trends & market conditions. The index and prices are available for different types of properties, including houses, plots, and residential properties.</p>
                                     </div>
                                 </div>
