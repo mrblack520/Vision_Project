@@ -35,7 +35,7 @@
 
 </head>
 <body>
-    <div class="app-container app-theme-white body-tabs-shadow">
+    <div class="app-container app-theme-black body-tabs-shadow">
        
          
             
@@ -52,31 +52,20 @@
                                         </i>
                                     </div>
                                     <div class="text-white">Admin Dashboard
-                                        <div class="page-title-subheading">This is an example dashboard created using build-in elements and components.
-                                        </div>
+                                  {{-- @if(Auth()->user()->name != "")
+                                  {{Auth()->user()->name}}
+                                  @endif --}}
+                               
                                     </div>
                                 </div>
-                                <div class="page-title-actions">
-                                    <button type="button" data-toggle="tooltip" title="Example Tooltip" data-placement="bottom" class="btn-shadow mr-3 btn btn-dark">
-                                        <i class="fa fa-star"></i>
-                                    </button>
-                                    <div class="d-inline-block dropdown">
-                                        <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn-shadow dropdown-toggle btn btn-info">
-                                            <span class="btn-icon-wrapper pr-2 opacity-7">
-                                                <i class="fa fa-business-time fa-w-20"></i>
-                                            </span>
-                                            Buttons
-                                        </button>
-                                       
-                                    </div>
-                                </div>  
+                            
                               </div>
                         </div>         
                           
                         <div class="row bg-dark">
                             <div class="col-md-12 ">
                                 <div class="main-card mb-3 card bg-dark">
-                                    <div class="card-header">Active Users
+                                    <div class="card-header bg-dark text-white">Active Deals
                                         <div class="btn-actions-pane-right">
                                            
                                         </div>
@@ -87,26 +76,26 @@
                                             <tr>
                                                 <th class="text-center text-white">#</th>
                                                 <th class="text-white">Name</th>
-                                                <th class="text-center text-white">City</th>
+                                                <th class="text-center text-white">Area</th>
                                                 <th class="text-center text-white">Status</th>
                                                 <th class="text-center text-white">Actions</th>
                                             </tr>
                                             </thead>
                                             <tbody>
                                             <tr>
-                                                <td class="text-center text-white">#345</td>
+                                                <td class="text-center text-white">1</td>
                                                 <td>
                                                     <div class="widget-content p-0">
                                                         <div class="widget-content-wrapper">
                                                            
                                                             <div class="widget-content-left flex2">
-                                                                <div class="widget-heading text-white">John Doe</div>
-                                                                <div class="widget-subheading opacity-7 text-white">Web Developer</div>
+                                                                <div class="widget-heading text-white"></div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </td>
-                                                <td class="text-center text-white">Madrid</td>
+                                                <td class="text-center text-white">DHA</td>
                                                 <td class="text-center">
                                                     <div class="badge badge-warning">Pending</div>
                                                 </td>
@@ -115,19 +104,18 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="text-center text-white">#347</td>
+                                                <td class="text-center text-white">2</td>
                                                 <td>
                                                     <div class="widget-content p-0">
                                                         <div class="widget-content-wrapper">
                                                            
                                                             <div class="widget-content-left flex2">
-                                                                <div class="widget-heading text-white">Ruben Tillman</div>
-                                                                <div class="widget-subheading opacity-7 text-white">Etiam sit amet orci eget</div>
+                                                                <div class="widget-heading text-white"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </td>
-                                                <td class="text-center text-white">Berlin</td>
+                                                <td class="text-center text-white">GULISTAN-E-JOHAR</td>
                                                 <td class="text-center">
                                                     <div class="badge badge-success">Completed</div>
                                                 </td>
@@ -136,19 +124,18 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="text-center text-white">#321</td>
+                                                <td class="text-center text-white"> 3</td>
                                                 <td>
                                                     <div class="widget-content p-0">
                                                         <div class="widget-content-wrapper">
                                                           
                                                             <div class="widget-content-left flex2">
-                                                                <div class="widget-heading text-white">Elliot Huber</div>
-                                                                <div class="widget-subheading opacity-7 text-white">Lorem ipsum dolor sic</div>
+                                                                <div class="widget-heading text-white"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </td>
-                                                <td class="text-center">London</td>
+                                                <td class="text-center text-white">GULSHAN-E-IQBAL</td>
                                                 <td class="text-center">
                                                     <div class="badge badge-danger">In Progress</div>
                                                 </td>
@@ -157,19 +144,18 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="text-center text-muted">#55</td>
+                                                <td class="text-center text-white">4</td>
                                                 <td>
                                                     <div class="widget-content p-0">
                                                         <div class="widget-content-wrapper">
                                                             
                                                             <div class="widget-content-left flex2">
-                                                                <div class="widget-heading">Vinnie Wagstaff</div>
-                                                                <div class="widget-subheading opacity-7">UI Designer</div>
+                                                                <div class="widget-heading text-white"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </td>
-                                                <td class="text-center">Amsterdam</td>
+                                                <td class="text-center text-white">GARDEN-EAST</td>
                                                 <td class="text-center">
                                                     <div class="badge badge-info">On Hold</div>
                                                 </td>
@@ -180,7 +166,7 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                    <div class="d-block text-center card-footer">
+                                    <div class="d-block text-center card-footer bg-dark">
                                         
                                     </div>
                                 </div>
