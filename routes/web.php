@@ -41,6 +41,12 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/modal13','modal13');
     Route::get('/modal14','modal14');
     Route::get('/modal15','modal15');
+    Route::get('/modal16','modal16');
+    Route::get('/modal17','modal17');
+    Route::get('/modal18','modal18');
+    Route::get('/modal19','modal19');
+    Route::get('/modal20','modal20');
+    Route::get('/modal21','modal21');
     Route::get('/reports','report');
     Route::get('/clients','clients');
 

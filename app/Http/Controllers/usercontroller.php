@@ -186,6 +186,36 @@ public function sign_in(){
         return view("1/modal15");
 
     }
+    public function modal16(){
+
+        return view("1/modal16");
+
+    }
+    public function modal17(){
+
+        return view("1/modal17");
+
+    }
+    public function modal18(){
+
+        return view("1/modal18");
+
+    }
+    public function modal19(){
+
+        return view("1/modal19");
+
+    }
+    public function modal20(){
+
+        return view("1/modal20");
+
+    }
+    public function modal21(){
+
+        return view("1/modal21");
+
+    }
     public function report(){
 
         return view("reports");
