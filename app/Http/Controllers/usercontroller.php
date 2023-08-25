@@ -180,9 +180,14 @@ public function sign_in(){
         return view("1/modal15");
 
     }
-    public function dash(){
+    public function report(){
 
-        return view("dashboard/index");
+        return view("reports");
+
+    }
+    public function clients(){
+
+        return view("clients");
 
     }
 

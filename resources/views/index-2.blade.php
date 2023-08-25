@@ -1,12 +1,12 @@
 
-    @extends('components.header') 
+    @extends('components.header')
      @section('content')
      @include('components.loader')
     <div class="boxed_wrapper">
 
-       
 
-         
+
+
         <!-- banner-style-two -->
         <section class="banner-style-two">
             <div class="shape" style="background-image: url(assets/images/shape/shape-4.png);"></div>
@@ -19,31 +19,32 @@
                                     <figure class="image-box"><img src="assets/images/banner/banner-5.jpg" alt=""></figure>
                                     <div class="content-box">
                                         <div class="icon-box"><img src="assets/images/icons/icon-6.png" alt=""></div>
-                                        <h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2>
+
+                                        <a href="/modal13"><h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2></a>
                                         <ul class="info clearfix">
-                                            <li><i class="fa-solid fa-location-dot"></i>NEW YORK, <span>USA</span></li>
+                                            <li><i class="fa-solid fa-location-dot"></i>karachi, <span>pakistan</span></li>
                                             <li><i class="fa-solid fa-m"></i>2.574 M2</li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="single-item">
-                                    <figure class="image-box"><img src="assets/images/banner/banner-5.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/banner/banner-4.jpg" alt=""></figure>
                                     <div class="content-box">
                                         <div class="icon-box"><img src="assets/images/icons/icon-6.png" alt=""></div>
                                         <h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2>
                                         <ul class="info clearfix">
-                                            <li><i class="fa-solid fa-location-dot"></i>NEW YORK, <span>USA</span></li>
+                                            <li><i class="fa-solid fa-location-dot"></i>karachi, <span>pakistan</span></li>
                                             <li><i class="fa-solid fa-m"></i>2.574 M2</li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="single-item">
-                                    <figure class="image-box"><img src="assets/images/banner/banner-5.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/banner/banner-3.jpg" alt=""></figure>
                                     <div class="content-box">
                                         <div class="icon-box"><img src="assets/images/icons/icon-6.png" alt=""></div>
                                         <h2>LET YOUR HOME <span>BE UNIQUE AND STYLISH</span></h2>
                                         <ul class="info clearfix">
-                                            <li><i class="fa-solid fa-location-dot"></i>NEW YORK, <span>USA</span></li>
+                                            <li><i class="fa-solid fa-location-dot"></i>karachi, <span>pakistan</span></li>
                                             <li><i class="fa-solid fa-m"></i>2.574 M2</li>
                                         </ul>
                                     </div>
@@ -55,8 +56,8 @@
                         <div class="image-inner">
                             <figure class="image"><img src="assets/images/banner/image-1.jpg" alt=""></figure>
                             <div class="text">
-                                <h6>APEX</h6>
-                                <p>San Diego, California</p>
+                                <a href="/modal3"> <h6>Perfect View</h6> </a>
+                                <p>karachi pakistan</p>
                             </div>
                         </div>
                     </div>
@@ -202,7 +203,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-6.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>APEX</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -211,7 +212,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-7.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>Delux</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -224,7 +225,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-6.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>APEX</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -233,7 +234,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-7.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>Delux</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -246,7 +247,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-6.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>APEX</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -255,7 +256,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-7.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>Delux</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -268,7 +269,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-6.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>APEX</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -277,7 +278,7 @@
                                                 <figure class="image-box"><img src="assets/images/project/project-7.jpg" alt=""></figure>
                                                 <div class="text">
                                                     <h6>Delux</h6>
-                                                    <p>San Diego, California</p>
+                                                    <p>karachi pakistan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -324,7 +325,7 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all 
+                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
                                             in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding.<span>”</span></h4>
                                         <div class="author-box">
                                             <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
@@ -336,7 +337,7 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all 
+                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
                                             in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding.<span>”</span></h4>
                                         <div class="author-box">
                                             <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
@@ -348,7 +349,7 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all 
+                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
                                             in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding. <span>”</span></h4>
                                         <div class="author-box">
                                             <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Bootstrap Gallery - HelpDesk Admin Template</title>
+    <title>Dashboard</title>
 
     <!-- Meta -->
     <meta name="description" content="Marketplace for Bootstrap Admin Dashboards" />
@@ -40,7 +40,7 @@
 
                 <!-- App brand starts -->
                 <div class="app-brand px-3 py-2 d-flex align-items-center">
-                    <a href="index.html">
+                    <a href="#">
 							<img src="assets/images/logo.svg" class="logo" alt="Bootstrap Gallery" />
 						</a>
                 </div>
@@ -50,72 +50,72 @@
                 <div class="sidebarMenuScroll">
                     <ul class="sidebar-menu">
                         <li class="active current-page">
-                            <a href="index.html">
+                            <a href="/dash">
 									<i class="icon-stacked_line_chart"></i>
 									<span class="menu-text">Support Dashboard</span>
 								</a>
                         </li>
                         <li>
-                            <a href="reports.html">
+                            <a href="/reports">
 									<i class="icon-bar-chart"></i>
 									<span class="menu-text">Reports</span>
 								</a>
                         </li>
                         <li>
-                            <a href="clients.html">
+                            <a href="/clients">
 									<i class="icon-filter_list"></i>
 									<span class="menu-text">Clients</span>
 								</a>
                         </li>
                         <li>
-                            <a href="agents.html">
+                            <a href="#">
 									<i class="icon-sentiment_satisfied_alt"></i>
 									<span class="menu-text">Agents</span>
 								</a>
                         </li>
                         <li>
-                            <a href="faq.html">
+                            <a href="#">
 									<i class="icon-message-circle"></i>
 									<span class="menu-text">FAQ's</span>
 								</a>
                         </li>
                         <li class="treeview">
-                            <a href="#!">
+                            <a href="#">
 									<i class="icon-add_task"></i>
 									<span class="menu-text">Tickets</span>
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="all-tickets.html">All Tickets</a>
+                                    <a href="#">All Tickets</a>
                                 </li>
                                 <li>
-                                    <a href="open-tickets.html">Open Tickets</a>
+                                    <a href="#">Open Tickets</a>
                                 </li>
                                 <li>
-                                    <a href="pending-tickets.html">Pending Tickets</a>
+                                    <a href="#">Pending Tickets</a>
                                 </li>
                                 <li>
-                                    <a href="closed-tickets.html">Closed Tickets</a>
+                                    <a href="#">Closed Tickets</a>
                                 </li>
                                 <li>
-                                    <a href="solved-tickets.html">Solved Tickets</a>
+                                    <a href="#">Solved Tickets</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="agent-profile.html">
+                            <a href="agent-profile">
 									<i class="icon-support_agent"></i>
 									<span class="menu-text">Agent Profile</span>
 								</a>
                         </li>
                         <li>
-                            <a href="notifications.html">
+                            <a href="notifications">
 									<i class="icon-bell"></i>
 									<span class="menu-text">Notifications</span>
 								</a>
                         </li>
                         <li>
-                            <a href="subscribers.html">
+                            <a href="subscribers">
 									<i class="icon-check-circle"></i>
 									<span class="menu-text">Subscribers</span>
 								</a>
@@ -127,33 +127,33 @@
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="client-list.html">Client List</a>
+                                    <a href="client-list">Client List</a>
                                 </li>
                                 <li>
-                                    <a href="invoice-list.html">Invoice List</a>
+                                    <a href="invoice-list">Invoice List</a>
                                 </li>
                                 <li>
-                                    <a href="invoice.html">Invoice Details</a>
+                                    <a href="invoice">Invoice Details</a>
                                 </li>
                                 <li>
-                                    <a href="create-invoice.html">Create Invoice</a>
+                                    <a href="create-invoice">Create Invoice</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="datatables.html">
+                            <a href="datatables">
 									<i class="icon-grid_on"></i>
 									<span class="menu-text">DataTables</span>
 								</a>
                         </li>
                         <li>
-                            <a href="editor.html">
+                            <a href="editor">
 									<i class="icon-edit"></i>
 									<span class="menu-text">Editor</span>
 								</a>
                         </li>
                         <li>
-                            <a href="placeholder.html">
+                            <a href="placeholder">
 									<i class="icon-align-left"></i>
 									<span class="menu-text">Placeholder</span>
 								</a>
@@ -165,19 +165,19 @@
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="calendar.html">Daygrid View</a>
+                                    <a href="calendar">Daygrid View</a>
                                 </li>
                                 <li>
-                                    <a href="calendar-external-draggable.html">External Draggable</a>
+                                    <a href="calendar-external-draggable">External Draggable</a>
                                 </li>
                                 <li>
-                                    <a href="calendar-google.html">Google Calendar</a>
+                                    <a href="calendar-google">Google Calendar</a>
                                 </li>
                                 <li>
-                                    <a href="calendar-list-view.html">List View</a>
+                                    <a href="calendar-list-view">List View</a>
                                 </li>
                                 <li>
-                                    <a href="calendar-selectable.html">Selectable</a>
+                                    <a href="calendar-selectable">Selectable</a>
                                 </li>
                             </ul>
                         </li>
@@ -188,49 +188,49 @@
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="accordions.html">Accordions</a>
+                                    <a href="accordions">Accordions</a>
                                 </li>
                                 <li>
-                                    <a href="alerts.html">Alerts</a>
+                                    <a href="alerts">Alerts</a>
                                 </li>
                                 <li>
-                                    <a href="buttons.html">Buttons</a>
+                                    <a href="buttons">Buttons</a>
                                 </li>
                                 <li>
-                                    <a href="badges.html">Badges</a>
+                                    <a href="badges">Badges</a>
                                 </li>
                                 <li>
-                                    <a href="cards.html">Cards</a>
+                                    <a href="cards">Cards</a>
                                 </li>
                                 <li>
-                                    <a href="custom-cards.html">Custom Cards</a>
+                                    <a href="custom-cards">Custom Cards</a>
                                 </li>
                                 <li>
-                                    <a href="carousel.html">Carousel</a>
+                                    <a href="carousel">Carousel</a>
                                 </li>
                                 <li>
-                                    <a href="icons.html">Icons</a>
+                                    <a href="icons">Icons</a>
                                 </li>
                                 <li>
-                                    <a href="list-items.html">List Items</a>
+                                    <a href="list-items">List Items</a>
                                 </li>
                                 <li>
-                                    <a href="modals.html">Modals</a>
+                                    <a href="modals">Modals</a>
                                 </li>
                                 <li>
-                                    <a href="progress.html">Progress Bars</a>
+                                    <a href="progress">Progress Bars</a>
                                 </li>
                                 <li>
-                                    <a href="popovers.html">Popovers</a>
+                                    <a href="popovers">Popovers</a>
                                 </li>
                                 <li>
-                                    <a href="tabs.html">Tabs</a>
+                                    <a href="tabs">Tabs</a>
                                 </li>
                                 <li>
-                                    <a href="tooltips.html">Tooltips</a>
+                                    <a href="tooltips">Tooltips</a>
                                 </li>
                                 <li>
-                                    <a href="typography.html">Typography</a>
+                                    <a href="typography">Typography</a>
                                 </li>
                             </ul>
                         </li>
@@ -241,33 +241,33 @@
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="form-inputs.html">Basic Form Inputs</a>
+                                    <a href="form-inputs">Basic Form Inputs</a>
                                 </li>
                                 <li>
-                                    <a href="form-checkbox-radio.html">Checkbox &amp; Radio</a>
+                                    <a href="form-checkbox-radio">Checkbox &amp; Radio</a>
                                 </li>
                                 <li>
-                                    <a href="form-file-input.html">File Input</a>
+                                    <a href="form-file-input">File Input</a>
                                 </li>
                                 <li>
-                                    <a href="form-validations.html">Validations</a>
+                                    <a href="form-validations">Validations</a>
                                 </li>
                                 <li>
-                                    <a href="date-time-pickers.html">Date Time Pickers</a>
+                                    <a href="date-time-pickers">Date Time Pickers</a>
                                 </li>
                                 <li>
-                                    <a href="form-layouts.html">Form Layouts</a>
+                                    <a href="form-layouts">Form Layouts</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="starter-page.html">
+                            <a href="starter-page">
 									<i class="icon-padding"></i>
 									<span class="menu-text">Starter Page</span>
 								</a>
                         </li>
                         <li>
-                            <a href="tables.html">
+                            <a href="tables">
 									<i class="icon-grid"></i>
 									<span class="menu-text">Tables</span>
 								</a>
@@ -279,13 +279,13 @@
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="apex.html">Apex</a>
+                                    <a href="apex">Apex</a>
                                 </li>
                                 <li>
-                                    <a href="morris.html">Morris</a>
+                                    <a href="morris">Morris</a>
                                 </li>
                                 <li>
-                                    <a href="maps.html">Maps</a>
+                                    <a href="maps">Maps</a>
                                 </li>
                             </ul>
                         </li>
@@ -296,19 +296,19 @@
 								</a>
                             <ul class="treeview-menu">
                                 <li>
-                                    <a href="login.html">Login</a>
+                                    <a href="login">Login</a>
                                 </li>
                                 <li>
-                                    <a href="signup.html">Signup</a>
+                                    <a href="signup">Signup</a>
                                 </li>
                                 <li>
-                                    <a href="forgot-password.html">Forgot Password</a>
+                                    <a href="forgot-password">Forgot Password</a>
                                 </li>
                                 <li>
-                                    <a href="page-not-found.html">Page Not Found</a>
+                                    <a href="page-not-found">Page Not Found</a>
                                 </li>
                                 <li>
-                                    <a href="maintenance.html">Maintenance</a>
+                                    <a href="maintenance">Maintenance</a>
                                 </li>
                             </ul>
                         </li>
@@ -389,19 +389,19 @@
 								</a>
                             <div class="dropdown-menu dropdown-menu-end shadow-sm dropdown-menu-mini">
                                 <div class="country-container">
-                                    <a href="index.html" class="py-2">
+                                    <a href="#" class="py-2">
 											<img src="assets/images/flags/1x1/us.svg" alt="USA" />
 										</a>
-                                    <a href="index.html" class="py-2">
+                                    <a href="#" class="py-2">
 											<img src="assets/images/flags/1x1/in.svg" alt="India" />
 										</a>
-                                    <a href="index.html" class="py-2">
+                                    <a href="#" class="py-2">
 											<img src="assets/images/flags/1x1/br.svg" alt="Brazil" />
 										</a>
-                                    <a href="index.html" class="py-2">
+                                    <a href="#" class="py-2">
 											<img src="assets/images/flags/1x1/tr.svg" alt="Turkey" />
 										</a>
-                                    <a href="index.html" class="py-2">
+                                    <a href="#" class="py-2">
 											<img src="assets/images/flags/1x1/id.svg" alt="Indonesia" />
 										</a>
                                 </div>
@@ -497,11 +497,11 @@
 									<img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
 								</a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
-                                <a class="dropdown-item d-flex align-items-center py-2" href="profile.html"><i
+                                <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
 											class="icon-gitlab fs-4 me-3"></i>User Profile</a>
-                                <a class="dropdown-item d-flex align-items-center py-2" href="account-settings.html"><i
+                                <a class="dropdown-item d-flex align-items-center py-2" href="account-settings"><i
 											class="icon-settings fs-4 me-3"></i>Account Settings</a>
-                                <a class="dropdown-item d-flex align-items-center py-2" href="login.html"><i
+                                <a class="dropdown-item d-flex align-items-center py-2" href="login"><i
 											class="icon-log-out fs-4 me-3"></i>Logout</a>
                             </div>
                         </div>

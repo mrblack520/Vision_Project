@@ -41,9 +41,9 @@
                             <div class="project-block-two">
                                 <div class="inner-box">
 
-                                    <figure class="image-box"><img src="assets/images/modal/1.png"  alt=""></figure>
+                                    <figure class="image-box"><img src="./models-png/model14.png"  alt=""></figure>
                                     <div class="text">
-                                        <h6><a href="/modal7">click it to see the 3D of the house</a></h6>
+                                        <h6><a href="/modal14">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
                                     </div>
                                 </div>
@@ -52,7 +52,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all agency_minimal urban_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/project/project-10.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="./models-png/model8.png" alt=""></figure>
                                     <div class="text">
                                         <h6><a href="/modal8">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
@@ -63,7 +63,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product interior_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/project/project-11.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="./models-png/model9.png" alt=""></figure>
                                     <div class="text">
                                         <h6><a href="/modal9">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
@@ -74,7 +74,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all agency_minimal interior_design urban_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/project/project-12.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="./models-png/model10.png" alt=""></figure>
                                     <div class="text">
                                         <h6><a href="/modal10">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
@@ -85,7 +85,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all urban_design interior_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/project/project-13.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="./models-png/model1.png" alt=""></figure>
                                     <div class="text">
                                         <h6><a href="/modal11">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>
@@ -96,7 +96,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all agency_minimal urban_design">
                             <div class="project-block-two">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/project/project-14.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="./models-png/model12.png" alt=""></figure>
                                     <div class="text">
                                         <h6><a href="/modal12">click it to see the 3D of the house</a></h6>
                                         <p>Karachi, Pakistan</p>

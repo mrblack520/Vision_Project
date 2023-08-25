@@ -211,7 +211,7 @@
                             </a>
                         </div>
                     </div>
-              
+
                 </div>
             </div>
         </section>
@@ -231,7 +231,18 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
+                                <h2>Royal house</h2>
+                                <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
+                            </div>
+                            <div class="video-btn">
+                                <a href="./vedio/vedio1.mp4" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
+                        <div class="content-box">
+                            <div class="text">
+                                <h2>Royal house</h2>
                                 <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
@@ -242,7 +253,7 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
+                                <h2>Royal house</h2>
                                 <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
@@ -253,18 +264,7 @@
                     <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
                         <div class="content-box">
                             <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
-                                <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
-                            </div>
-                            <div class="video-btn">
-                                <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fa-solid fa-play"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="inner-box" style="background-image: url(assets/images/background/video-bg.jpg);">
-                        <div class="content-box">
-                            <div class="text">
-                                <h2>BUNGALOW DARK <span>HOUSE</span></h2>
+                                <h2>Royal house</h2>
                                 <h4><i class="fa-solid fa-location-dot"></i>karachi, Pakistan</h4>
                             </div>
                             <div class="video-btn">
@@ -535,4 +535,3 @@
     @endsection
 
 
-  
