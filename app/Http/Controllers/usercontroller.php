@@ -15,6 +15,12 @@ class usercontroller extends Controller
         return view("index");
 
     }
+    public function dash()
+    {
+        $user = Auth::user(); // Retrieve the authenticated user
+
+        return view('Dashboard', ['user' => $user]);
+    }
  public function index2(){
 
         return view("index-2");

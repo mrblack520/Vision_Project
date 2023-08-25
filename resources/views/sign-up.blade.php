@@ -30,9 +30,9 @@
 			<div class="row full-height justify-content-center">
 				<div class="col-12 text-center align-self-center py-5">
 					<div class="section pb-5 pt-5 pt-sm-2 text-center">
-					
-			          	
-			          
+
+
+
 						<div class="card-3d-wrap mx-auto">
 							<div class="card-3d-wrapper">
 								<div class="card-front">
@@ -42,8 +42,8 @@
 											<div class="form-group">
 												<input type="text" class="form-style" placeholder="User Name" name="name">
 												<i class="input-icon uil uil-user"></i>
-											</div>	
-										
+											</div>
+
                       <div class="form-group mt-2">
 												<input type="email" class="form-style" placeholder="Email" name="email">
 												<i class="input-icon uil uil-at"></i>
@@ -55,9 +55,9 @@
 											<button class="btn mt-4">Register</button>
 				      					</div>
 			      					</div>
-							
+
 			      				</div>
-								
+
 			      			</div>
 			      		</div>
 			      	</div>
