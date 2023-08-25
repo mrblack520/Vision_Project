@@ -9,13 +9,13 @@
         <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="/"><img src="assets/images/logo.png" alt=""></a></figure>
                     <div class="close-search pull-right"><span class="far fa-times"></span></div>
                 </div>
                 <div class="overlay-layer"></div>
                 <div class="auto-container">
                     <div class="search-form">
-                        <form method="post" action="index.html">
+                        <form method="post" action="/">
                             <div class="form-group">
                                 <fieldset>
                                     <input type="search" class="form-control" name="search-input" value="" placeholder="Type your keyword and hit" required>
@@ -45,7 +45,7 @@
                         <div class="sidebar-info-contents">
                             <div class="content-inner">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+                                    <a href="/"><img src="assets/images/logo.png" alt="" /></a>
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
@@ -77,14 +77,14 @@
         <!-- END sidebar widget item -->
 
 
-     
+
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
             <div class="menu-backdrop"></div>
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="/"><img src="assets/images/logo-2.png" alt="" title=""></a></div>
                 <div class="menu-outer">
                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
@@ -98,11 +98,11 @@
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="/"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="/"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="/"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="/"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="/"><span class="fab fa-youtube"></span></a></li>
                     </ul>
                 </div>
             </nav>
@@ -162,10 +162,10 @@
                             <div class="category-widget">
                                 <h3>All Services</h3>
                                 <ul class="category-list clearfix">
-                                    <li><a href="service-details.html">Agency Minimal<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-2.html">Interior Design<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-3.html" class="current">Urban Design<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-4.html">Decor Plan<i class="icon-15"></i></a></li>
+                                    <li><a href="/service-details">Agency Minimal<i class="fa-brands fa-dribbble"></i></a></li>
+                                    <li><a href="/service-details-2">Interior Design<i class="fa-brands fa-dribbble"></i></a></li>
+                                    <li><a href="/service-details-3" class="current">Urban Design<i class="fa-brands fa-dribbble"></i></a></li>
+                                    <li><a href="/service-details-4">Decor Plan<i class="fa-brands fa-dribbble"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -176,7 +176,7 @@
         <!-- service-details end -->
 
 
-     
+
 
         <!--Scroll to top-->
         <div class="scroll-to-top">

@@ -52,7 +52,7 @@
                                 <div class="content-box">
                                     <h4>About Us</h4>
                                     <p>With decades of experience in the sale and purchase of properties in Lahore, Rawalpindi/Islamabad, and Karachi and internationally,
-                                     RealProperty serves clients the safety of a respectable, competent, and reliable partner. Our staff comprises seasoned real estate consultants, 
+                                     RealProperty serves clients the safety of a respectable, competent, and reliable partner. Our staff comprises seasoned real estate consultants,
                                      economists, designers, engineers, and architects to exceed our clients' expectations.</p>
                                     <a href="about.html" class="theme-btn btn-one">About Us</a>
                                 </div>
@@ -80,7 +80,7 @@
         <!-- END sidebar widget item -->
 
 
-      
+
 
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
@@ -102,11 +102,11 @@
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="/index"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="/index"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="/index"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="/index"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="/index"><span class="fab fa-youtube"></span></a></li>
                     </ul>
                 </div>
             </nav>
@@ -182,7 +182,7 @@
         <!-- service-details end -->
 
 
-    
+
         <!--Scroll to top-->
         <div class="scroll-to-top">
             <div>

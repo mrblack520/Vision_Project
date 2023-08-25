@@ -29,11 +29,11 @@
                                     <h2>Interior <span>Design</span></h2>
                                 </div>
                                 <p>While your content marketing strategy may be designed to help you attract and retain clients, at heart, your content needs to be about them. Content marketing is all about the value-add to your interior design consumers.
-                                    One way we help our clients create customer-centric content is that we help them to develop buyer personas, which is an exercise to understand your ideal clientele, their interests, wants, and needs. When you truly know 
+                                    One way we help our clients create customer-centric content is that we help them to develop buyer personas, which is an exercise to understand your ideal clientele, their interests, wants, and needs. When you truly know
                                     your audience, it's much easier to create content that will wow them.</p>
                                 <p>Real estate developers place importance to this aspect, which SEO professionals have to consider while writing the content. The location and the surrounding of a Real estate project offer a plethora of ideas for creating unique SEO content</p>
                                 <p>The location of a housing project is one of the most crucial aspects a real estate company has to take into account at the very beginning of conceptualizing a residential complex. Prime location will always be in demand,
-                                    but it may not be affordable for everyone. Therefore project developers highlight good connectivity of the location to attract customers. While some residential projects may be in the heart of the city for those who 
+                                    but it may not be affordable for everyone. Therefore project developers highlight good connectivity of the location to attract customers. While some residential projects may be in the heart of the city for those who
                                     wish to be well-connected for business purposes, some home buyers seek a peaceful, tranquil life in the lap on nature in a scenic location.</p>
                             </div>
                             <div class="image-box">
@@ -56,10 +56,10 @@
                             <div class="category-widget">
                                 <h3>All Services</h3>
                                 <ul class="category-list clearfix">
-                                    <li><a href="service-details.html">Agency Minimal<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-2.html" class="current">Interior Design<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-3.html">Urban Design<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-4.html">Decor Plan<i class="icon-15"></i></a></li>
+                                    <li><a href="/service-details">Agency Minimal<i class="icon-15"></i></a></li>
+                                    <li><a href="/service-details-2" class="current">Interior Design<i class="icon-15"></i></a></li>
+                                    <li><a href="/service-details-3">Urban Design<i class="icon-15"></i></a></li>
+                                    <li><a href="/service-details-4">Decor Plan<i class="icon-15"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
         <!-- service-details end -->
 
 
-     
+
 
 
         <!--Scroll to top-->

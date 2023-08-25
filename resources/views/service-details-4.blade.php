@@ -77,7 +77,7 @@
         <!-- END sidebar widget item -->
 
 
-     
+
 
         <!-- Mobile Menu  -->
         <div class="mobile-menu">
@@ -165,10 +165,10 @@
                             <div class="category-widget">
                                 <h3>All Services</h3>
                                 <ul class="category-list clearfix">
-                                    <li><a href="service-details.html">Agency Minimal<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-2.html">Interior Design<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-3.html">Urban Design<i class="icon-15"></i></a></li>
-                                    <li><a href="service-details-4.html" class="current">Decor Plan<i class="icon-15"></i></a></li>
+                                    <li><a href="/service-details">Agency Minimal<i class="fa-brands fa-dribbble"></i></a></li>
+                                    <li><a href="/service-details-2">Interior Design<i class="fa-brands fa-dribbble"></i></a></li>
+                                    <li><a href="/service-details-3">Urban Design<i class="fa-brands fa-dribbble"></i></a></li>
+                                    <li><a href="/service-details-4" class="current">Decor Plan<i class="fa-brands fa-dribbble"></i></a></li>
                                 </ul>
                             </div>
                         </div>
