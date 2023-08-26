@@ -40,9 +40,7 @@
 
                 <!-- App brand starts -->
                 <div class="app-brand px-3 py-2 d-flex align-items-center">
-                    <a href="#">
-							<img src="assets/images/logo.svg" class="logo" alt="Bootstrap Gallery" />
-						</a>
+                 
                 </div>
                 <!-- App brand ends -->
 
@@ -493,7 +491,7 @@
                         </div>
                         <div class="dropdown ms-2">
                             <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-									<span>Neil Mark</span>
+									<span>{{ Auth::user()->name }}</span>
 									<img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
 								</a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
@@ -501,7 +499,7 @@
 											class="icon-gitlab fs-4 me-3"></i>User Profile</a>
                                 <a class="dropdown-item d-flex align-items-center py-2" href="account-settings"><i
 											class="icon-settings fs-4 me-3"></i>Account Settings</a>
-                                <a class="dropdown-item d-flex align-items-center py-2" href="login"><i
+                                <a class="dropdown-item d-flex align-items-center py-2" href="/"><i
 											class="icon-log-out fs-4 me-3"></i>Logout</a>
                             </div>
                         </div>

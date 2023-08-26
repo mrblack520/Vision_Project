@@ -19,7 +19,7 @@
                     <div class="image-layer" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
-                            <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
+
                             <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="/project" class="theme-btn btn-one">View The Prrojects</a>
@@ -31,7 +31,7 @@
                     <div class="image-layer" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
-                            <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
+
                             <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="/project" class="theme-btn btn-one">View The Projects</a>
@@ -43,7 +43,7 @@
                     <div class="image-layer" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
-                            <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
+
                             <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="/project" class="theme-btn btn-one">View The Prrojects</a>
@@ -55,7 +55,7 @@
                     <div class="image-layer" style="background-image:url(assets/images/banner/banner-4.jpg)"></div>
                     <div class="auto-container">
                         <div class="content-box">
-                            <div class="icon-box"><img src="assets/images/icons/icon-1.png" alt=""></div>
+
                             <h2>DESIGNING A BETTER, <br /><span>MORE BEAUTIFUL WORLD </span> </h2>
                             <div class="btn-box">
                                 <a href="/project" class="theme-btn btn-one">View The Prrojects</a>
@@ -163,7 +163,7 @@
                         <div class="content-box p_relative mr_50">
                             <div class="sec-title">
                                 <span class="sub-title">GET TO KNOW</span>
-                                <h2>Your Trusted <span>Architecture <br />Company</span></h2>
+                                <h2>Your Trusted <span> <br />Company</span></h2>
                             </div>
                             <div class="text">
                                 <p>Perfect View Real Estate is the perfect choice for representing you in all your real estate transactions. We are an organized team that is dedicated to providing the highest quality

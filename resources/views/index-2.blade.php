@@ -93,7 +93,7 @@
                         <div class="inner-box centred">
                             <div class="curve-text">
                                 <div class="shape" style="background-image: url(assets/images/shape/shape-5.png);"></div>
-                                <span class="curved-circle">Welcome To Our Inventarc</span>
+                                <span class="curved-circle">Welcome To Our Perfect view</span>
                                 <div class="text">
                                     <div class="inner">
                                         <h2>10<span>Years</span></h2>

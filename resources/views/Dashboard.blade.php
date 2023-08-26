@@ -40,9 +40,7 @@
 
                 <!-- App brand starts -->
                 <div class="app-brand px-3 py-2 d-flex align-items-center">
-                    <a href="#">
-							<img src="assets/images/logo.svg" class="logo" alt="Bootstrap Gallery" />
-						</a>
+                  
                 </div>
                 <!-- App brand ends -->
 
@@ -525,7 +523,7 @@
 
     <!-- Required jQuery first, then Bootstrap Bundle JS -->
 
-<h1>hi</h1>
+<h1>welcome to the user dashboard</h1>
 
 
 

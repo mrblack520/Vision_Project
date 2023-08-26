@@ -25,7 +25,7 @@
         <section class="project-page-section">
             <div class="large-container">
                 <div class="sec-title centred">
-                    <h2>Our Completed <span>Architecture <br />Projects</span></h2>
+                    <h2>Our Completed <span> <br />Projects</span></h2>
                 </div>
                 <div class="sortable-masonry">
                     <div class="filters centred">
