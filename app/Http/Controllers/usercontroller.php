@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Auth;
-
+use Session;
 
 class usercontroller extends Controller
 {
@@ -265,5 +265,16 @@ return redirect()->back();
                     return view('Dashboard');
 
                             }
+
+
+      public function logout(){
+
+
+Session::flush();
+Auth::logout();
+return redirect('/signin');
+
+
+      }
 
 }
