@@ -328,8 +328,8 @@
                                         <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
                                             in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding.<span>”</span></h4>
                                         <div class="author-box">
-                                            <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                                            <h4>Liam Noah</h4>
+                                            <figure class="author-thumb"><img src="./avatar/3.png" alt=""></figure>
+                                            <h4>Sanaullah</h4>
                                             <span class="designation">UX/ UI Designer</span>
                                         </div>
                                     </div>
@@ -337,11 +337,11 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
+                                        <h4 class="text">Throughout our journey, Sanaullah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
                                             in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding.<span>”</span></h4>
                                         <div class="author-box">
-                                            <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                                            <h4>Liam Noah</h4>
+                                            <figure class="author-thumb"><img src="./avatar/2.jpg" alt=""></figure>
+                                            <h4>Sanaullah</h4>
                                             <span class="designation">UX/ UI Designer</span>
                                         </div>
                                     </div>
@@ -349,11 +349,11 @@
                                 <div class="testimonial-block-one">
                                     <div class="inner-box">
                                         <div class="quote">“</div>
-                                        <h4 class="text">Throughout our journey, Liam Noah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
+                                        <h4 class="text">Throughout our journey, Sanaullah demonstrated immense patience and understanding of my situation. Whether I needed additional time for research or require more information on a particular property, they took it all
                                             in stride. They went out of their way to provide me with extra resources and various options I could consider when deciding. <span>”</span></h4>
                                         <div class="author-box">
-                                            <figure class="author-thumb"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                                            <h4>Liam Noah</h4>
+                                            <figure class="author-thumb"><img src="./avatar/1.jpeg" alt=""></figure>
+                                            <h4>Sanaullah</h4>
                                             <span class="designation">UX/ UI Designer</span>
                                         </div>
                                     </div>
