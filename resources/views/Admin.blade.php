@@ -34,11 +34,15 @@
 
         <!-- Main container start -->
         <div class="main-container">
-
+  
             <!-- Sidebar wrapper start -->
             <nav id="sidebar" class="sidebar-wrapper">
 
-            
+              <!-- App brand starts -->
+     <div class="app-brand px-3 py-2 d-flex align-items-center">
+                  
+     </div>
+     <!-- App brand ends -->
 
                 <!-- Sidebar menu starts -->
                 <div class="sidebarMenuScroll">
@@ -95,7 +99,16 @@
                 <div class="app-header d-flex align-items-center">
 
                
-
+     <!-- Toggle buttons start -->
+     <div class="d-flex">
+        <button class="btn btn-outline-light toggle-sidebar" id="toggle-sidebar">
+                <i class="icon-menu"></i>
+            </button>
+        <button class="btn btn-outline-light pin-sidebar" id="pin-sidebar">
+                <i class="icon-menu"></i>
+            </button>
+    </div>
+    <!-- Toggle buttons end -->
                    
 
                     <!-- App header actions start -->

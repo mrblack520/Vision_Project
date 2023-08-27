@@ -54,11 +54,11 @@
         <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
         <div class="large-container">
             <div class="row align-items-center">
-                <div class="col-lg-5 col-md-12 col-sm-12 form-column">
+                <div class="col-lg-12 col-md-12 col-sm-12 form-column">
                     <div class="form-inner">
                         <div class="sec-title">
                             <span class="sub-title">Contact Us</span>
-                            <h2>Do you need any help? Send Message.</h2>
+                            <h3>Do you need any help?</h3>
                         </div>
                         <form method="post" action="sendemail.php" id="contact-form" class="default-form">
                             <div class="row clearfix">
@@ -77,7 +77,7 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <textarea name="message" placeholder="Message here"></textarea>
                                 </div>
-                                <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn text-center">
                                     <button class="theme-btn btn-one" type="submit" name="submit-form">Message Us</button>
                                 </div>
                             </div>
