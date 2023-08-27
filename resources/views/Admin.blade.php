@@ -38,11 +38,7 @@
             <!-- Sidebar wrapper start -->
             <nav id="sidebar" class="sidebar-wrapper">
 
-                <!-- App brand starts -->
-                <div class="app-brand px-3 py-2 d-flex align-items-center">
-                 
-                </div>
-                <!-- App brand ends -->
+            
 
                 <!-- Sidebar menu starts -->
                 <div class="sidebarMenuScroll">
@@ -109,8 +105,9 @@
                        
                         <div class="dropdown ms-2">
                             <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-									<span>{{ Auth::user()->name }}</span>
+								
 									<img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
+                                    <span>{{ Auth::user()->name }}</span>
 								</a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
                                 <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
@@ -130,7 +127,7 @@
 
             </div>
             <!-- App container ends -->
-
+<h1>Welcome</h1>
         </div>
         <!-- Main container end -->
 
@@ -141,7 +138,7 @@
 
 
 
-    <h1>Welcome to the Admin dashboard</h1>
+   
     <!-- *************
 			************ JavaScript Files *************
 		************* -->
