@@ -226,6 +226,11 @@ public function sign_in(){
         return view("clients");
 
     }
+    public function userProfile(){
+
+        return view("userProfile");
+
+    }
 
     public function sign_in_logic(Request $request){
 
