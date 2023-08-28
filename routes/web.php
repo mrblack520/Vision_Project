@@ -49,6 +49,7 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/modal21','modal21');
     Route::get('/reports','report');
     Route::get('/clients','clients');
+    Route::get('/userProfile','userProfile');
     Route::get('/logout','logout')->name('logout');
 
 });
