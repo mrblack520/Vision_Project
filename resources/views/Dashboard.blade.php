@@ -28,7 +28,7 @@
         <link href="assets/css/elpath.css" rel="stylesheet">
         <link href="assets/css/style.css" rel="stylesheet">
         <link href="assets/css/responsive.css" rel="stylesheet">
-    
+
     <!-- Meta -->
     <meta name="description" content="Marketplace for Bootstrap Admin Dashboards" />
     <meta name="author" content="Bootstrap Gallery" />
@@ -57,15 +57,15 @@
 
         <!-- Main container start -->
         <div class="main-container">
-    
+
             <!-- Sidebar wrapper start -->
             <nav id="sidebar" class="sidebar-wrapper">
         <!-- App brand starts -->
      <div class="app-brand px-3 py-2 d-flex align-items-center">
-                  
+
      </div>
      <!-- App brand ends -->
-               
+
 
                 <!-- Sidebar menu starts -->
                 <div class="sidebarMenuScroll">
@@ -94,16 +94,16 @@
 									<span class="menu-text">Agents</span>
 								</a>
                         </li>
-                       
+
                         <li>
                             <a href="agent-profile">
 									<i class="icon-support_agent"></i>
 									<span class="menu-text">Agent Profile</span>
 								</a>
                         </li>
-                  
-                            
-                
+
+
+
 
             </nav>
              <!-- Sidebar wrapper end -->
@@ -123,34 +123,34 @@
             </button>
     </div>
     <!-- Toggle buttons end -->
-                 
+
 
 
                     <!-- App header actions start -->
                     <div class="header-actions">
-                       
-                       
+
+
                         <div class="dropdown ms-2">
                             <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                   
+
                                     <img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
-                                    
+
                                     <span>{{ Auth::user()->name }}</span>
                                 </a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
                                 <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
                                             class="icon-gitlab fs-4 me-3"></i>User Profile</a>
-        
+
                                 <a class="dropdown-item d-flex align-items-center py-2" href="{{ url('logout') }}"><i
                                             class="icon-log-out fs-4 me-3"></i>Logout</a>
                             </div>
                         </div>
-                       
-                  
+
+
                     </div>
                     <!-- App header actions end -->
                 </div>
-            </div> 
+            </div>
 
 
 
@@ -166,10 +166,10 @@
 
     <!-- Required jQuery first, then Bootstrap Bundle JS -->
 
-<h1>Welcome to the user dashboard</h1>
+<h1 class="text-center">Welcome to the user dashboard</h1>
 
     <!-- contact-page-section -->
-    <section class="contact-page-section">
+    <section class="contact-pa  ge-section">
         <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
         <div class="large-container">
             <div class="row align-items-center">
@@ -177,14 +177,14 @@
                     <div class="form-inner">
                         <div class="sec-title">
                             <h2 class="sub-title">Mention Your <span class="text-white"> Details Here</span></h2>
-                            
+
                         </div>
                         <form method="post" action="#" id="contact-form" class="default-form">
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group    ">
                                     <input type="text" name="username" placeholder="Full Name:" required="">
                                 </div>
-                             
+
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
                                     <input type="text" name="phone" required="" placeholder="Contact #:">
                                 </div>
@@ -204,7 +204,7 @@
                         </form>
                     </div>
                 </div>
-              
+
             </div>
         </div>
     </section>
