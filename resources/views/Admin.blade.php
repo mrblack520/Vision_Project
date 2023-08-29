@@ -34,13 +34,13 @@
 
         <!-- Main container start -->
         <div class="main-container">
-  
+
             <!-- Sidebar wrapper start -->
             <nav id="sidebar" class="sidebar-wrapper">
 
               <!-- App brand starts -->
      <div class="app-brand px-3 py-2 d-flex align-items-center">
-                  
+
      </div>
      <!-- App brand ends -->
 
@@ -71,23 +71,23 @@
 									<span class="menu-text">Agents</span>
 								</a>
                         </li>
-                      
-                       
+
+
                         <li>
                             <a href="agent-profile">
 									<i class="icon-support_agent"></i>
 									<span class="menu-text">Agent Profile</span>
 								</a>
                         </li>
-                     
-                      
-                
+
+
+
                             </ul>
                         </li>
-                      
-                       
-                      
-                                    
+
+
+
+
 
             </nav>
             <!-- Sidebar wrapper end -->
@@ -98,7 +98,7 @@
                 <!-- App header starts -->
                 <div class="app-header d-flex align-items-center">
 
-               
+
      <!-- Toggle buttons start -->
      <div class="d-flex">
         <button class="btn btn-outline-light toggle-sidebar" id="toggle-sidebar">
@@ -109,23 +109,23 @@
             </button>
     </div>
     <!-- Toggle buttons end -->
-                   
+
 
                     <!-- App header actions start -->
                     <div class="header-actions">
-                     
-                       
-                       
+
+
+
                         <div class="dropdown ms-2">
                             <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-								
+
 									<img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
                                     <span>{{ Auth::user()->name }}</span>
 								</a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
                                 <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
 											class="icon-gitlab fs-4 me-3"></i>User Profile</a>
-                              
+
                                 <a class="dropdown-item d-flex align-items-center py-2" href="{{ url('logout') }}"><i
 											class="icon-log-out fs-4 me-3"></i>Logout</a>
                             </div>
@@ -134,13 +134,48 @@
                     <!-- App header actions end -->
                 </div>
                 <!-- App header ends -->
-            
 
-            
+
+
 
             </div>
             <!-- App container ends -->
-<h1>Welcome</h1>
+<table class="table mt-5">
+    <tr>
+        <th>name </th>
+        <th>Contancts</th>
+        <th>address</th>
+        <th>emial</th>
+        <th>price</th>
+        <th>length</th>
+        <th>IMAGE</th>
+        <th>detail</th>
+        <th>Edit</th>
+        <th>delete</th>
+    </tr>
+    @foreach($row as $data)
+    <tr>
+
+            <td>{{$data->name }}</td>
+            <td>{{ $data->contacts }}</td>
+            <td>{{ $data->address }}</td>
+            <td>{{ $data->email }}</td>
+            <td>{{ $data->price }}</td>
+            <td>{{ $data->length }}</td>
+            <td><img src="/images/{{ $data->image }}" height="100" width="100" /></td>
+            <td>{{ $data->details }}</td>
+            <td>
+            <div class="btn-group" role="group" aria-label="basic-example">
+                <a href="" type="button" class="btn btn-danger"> Edit</a>
+            </td>
+        <td>
+                <button class="btn btn-warning">Delete</button>
+            </div>
+        </td>
+        </tr>
+        @endforeach
+</table>
+
         </div>
         <!-- Main container end -->
 
@@ -151,7 +186,7 @@
 
 
 
-   
+
     <!-- *************
 			************ JavaScript Files *************
 		************* -->
