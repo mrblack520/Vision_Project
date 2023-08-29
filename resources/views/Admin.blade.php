@@ -150,6 +150,8 @@
         <th>length</th>
         <th>IMAGE</th>
         <th>detail</th>
+        <th>Edit</th>
+        <th>delete</th>
     </tr>
     @foreach($row as $data)
     <tr>
@@ -162,6 +164,14 @@
             <td>{{ $data->length }}</td>
             <td><img src="/images/{{ $data->image }}" height="100" width="100" /></td>
             <td>{{ $data->details }}</td>
+            <td>
+            <div class="btn-group" role="group" aria-label="basic-example">
+                <a href="" type="button" class="btn btn-danger"> Edit</a>
+            </td>
+        <td>
+                <button class="btn btn-warning">Delete</button>
+            </div>
+        </td>
         </tr>
         @endforeach
 </table>

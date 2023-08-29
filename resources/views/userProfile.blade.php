@@ -7,8 +7,8 @@
            <div class="img">
    <!--           <i class="fas fa-ellipsis-v"></i> -->
              <img src="https://images.unsplash.com/photo-1502292754603-a0891e807332?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80">
-             <h3>Chloe</h3>
-             <h5 class="online">Online</h5>
+             <h3>{{ Auth::user()->name }}</h3>
+             <h5 class="online">{{ Auth::user()->email }}</h5>
              <div class="button"><i class="fas fa-sliders-h"></i></div>
             </div>
            <div class="profile-data">
@@ -29,61 +29,9 @@
              <h5>Show more</h5>
            </div>
         </div>
-        <div class="last-view grid-area">
-          <h2>Your latest visits.</h2>
-          <div class="profiles-display">
-            <div class="one-profile online">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1492633423870-43d1cd2775eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-              </div>
-              <h4>Alicia</h4>
-            </div>
-             <div class="one-profile">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1495078065017-564723e7e3e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1300&q=80">
-              </div>
-              <h4>Dan</h4>
-            </div>
-            <div class="one-profile online">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-              </div>
-              <h4>Lea</h4>
-            </div>
 
-            <div class="one-profile">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1517935541300-19815e88fa63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-              </div>
-              <h4>John</h4>
-            </div>
-            <div class="one-profile">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-              </div>
-              <h4>Christopher</h4>
-            </div>
-          </div>
 
-        </div>
-
-         <div class="last-like grid-area">
-           <h2>They liked your profile !</h2>
-           <div class="profiles-display">
-            <div class="one-profile online">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-              </div>
-              <h4>Lea</h4>
-            </div>
-             <div class="one-profile">
-              <div class="img">
-              <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-              </div>
-              <h4>Christopher</h4>
-            </div>
-          </div>
-         </div>
+     
 
         <div class="edit-profile grid-area">
            <div class="header">
@@ -877,5 +825,5 @@
 		 height: 50%;
 	}
 }
- 
+
    </style>

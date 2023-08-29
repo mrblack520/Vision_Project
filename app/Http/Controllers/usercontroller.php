@@ -232,6 +232,11 @@ public function sign_in(){
         return view("userProfile");
 
     }
+    public function fetchdata(){
+
+        return view("fetchdata");
+
+    }
 
     public function sign_in_logic(Request $request){
 
