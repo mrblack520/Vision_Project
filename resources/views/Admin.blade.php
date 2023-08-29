@@ -151,9 +151,19 @@
         <th>IMAGE</th>
         <th>detail</th>
     </tr>
+    @foreach($row as $data)
     <tr>
-        {{-- @foreach($data as $row) --}}
-    </tr>
+
+            <td>{{$data->name }}</td>
+            <td>{{ $data->contacts }}</td>
+            <td>{{ $data->address }}</td>
+            <td>{{ $data->email }}</td>
+            <td>{{ $data->price }}</td>
+            <td>{{ $data->length }}</td>
+            <td><img src="/images/{{ $data->image }}" height="100" width="100" /></td>
+            <td>{{ $data->details }}</td>
+        </tr>
+        @endforeach
 </table>
 
         </div>

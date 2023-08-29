@@ -11,9 +11,11 @@ class imagecontroller extends Controller
 
 $image= $request->img;
 
-$name= $image->getClientOriginalName();
+$name= time().$image->getClientOriginalName();
 
-$image->storeAs ('public/images',$name);
+
+
+$image->move(public_path("images/"),$name);
 
 $image_save = new Image;
 
