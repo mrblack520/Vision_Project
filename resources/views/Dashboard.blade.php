@@ -41,14 +41,14 @@
     <link rel="stylesheet" href="assets/fonts/icomoon/style.css" />
 
     <!-- Main CSS -->
-    <link rel="stylesheet" href="assets/css/main.min.css" />
+    <link rel="stylesheet" href="assets/css/main.min.css"/>
 
     <!-- *************
 			************ Vendor Css Files *************
 		************ -->
 
     <!-- Scrollbar CSS -->
-    <link rel="stylesheet" href="assets/vendor/overlay-scroll/OverlayScrollbars.min.css" />
+    <link rel="stylesheet" href="assets/vendor/overlay-scroll/OverlayScrollbars.min.css"/>
 </head>
 
 <body>
@@ -134,13 +134,8 @@
                             <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 
                                     <img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
-<<<<<<< HEAD
-                                    
-                                    {{-- <span>{{ Auth::user()->name }}</span> --}}
-=======
 
                                     <span>{{ Auth::user()->name }}</span>
->>>>>>> 91321df07c2a2d97d24a506427b1cc55756939b8
                                 </a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
                                 <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
@@ -192,7 +187,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="contacts" required="" placeholder="Contact #:">
+                                    <input type="text" name="contacts" required="" placeholder="Contact:">
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
                                     <input type="text" name="adress" required="" placeholder="Address:">
