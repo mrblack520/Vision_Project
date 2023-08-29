@@ -169,7 +169,7 @@
 <h1 class="text-center">Welcome to the user dashboard</h1>
 
     <!-- contact-page-section -->
-    <section class="contact-pa  ge-section">
+    <section class="contact-page-section">
         <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
         <div class="large-container">
             <div class="row align-items-center">
@@ -182,7 +182,7 @@
                         <form method="post" action="/upload-image" enctype="multipart/form-data" id="contact-form" class="default-form">
                             @csrf
                             <div class="row clearfix">
-                                <div class="col-lg-12 col-md-12 col-sm-12 form-group    ">
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <input type="text" name="name" placeholder="Full Name:" required="">
                                 </div>
 
