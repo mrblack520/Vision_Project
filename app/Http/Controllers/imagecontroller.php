@@ -8,7 +8,7 @@ use App\Models\Image;
 class imagecontroller extends Controller
 {
     public function upload(Request $request){
-        
+
 $image= $request->img;
 
 $name= $image->getClientOriginalName();
@@ -18,7 +18,7 @@ $image->storeAs ('public/images',$name);
 $image_save = new Image;
 
 $image_save->name=$request->name;
-$image_save->contact=$request->contacts;
+$image_save->contacts=$request->contacts;
 $image_save->address=$request->adress;
 $image_save->email=$request->email;
 $image_save->price=$request->price;

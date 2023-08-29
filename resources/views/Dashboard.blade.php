@@ -166,7 +166,6 @@
 
     <!-- Required jQuery first, then Bootstrap Bundle JS -->
 
-<h1 class="text-center">Welcome to the user dashboard</h1>
 
     <!-- contact-page-section -->
     <section class="contact-page-section">
