@@ -5,7 +5,7 @@
 
 <head>
 
-<link rel="stylesheet" href="assets/css/sign.css">
+
 
 </head>
 
@@ -70,25 +70,25 @@
  <section class="contact-page-section">
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
     <div class="large-container">
-        <div class="row align-items-center">
-            <div class="col-lg-12 col-md-12 col-sm-12 form-column">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-12 col-sm-12 form-column">
                 <div class="form-inner">
                     <div class="sec-title">
-                        <span class="sub-title">Contact Us</span>
-                        <h3>Do you need any help?</h3>
+
+                        <h2 class="text-center">Sign Up</h2>
                     </div>
                     <form action="/sign" method="POST" id="contact-form" class="default-form">
+                        @csrf
                         <div class="row clearfix">
                             <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                 <input type="text" name="name" placeholder="User Name" required="">
                             </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                 <input type="email" placeholder="Email" name="email" required="">
                             </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                 <input type="password" placeholder="Password" name="password" required="">
                             </div>
-
                             <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn text-center">
                                 <button class="theme-btn btn-one" type="submit" name="submit-form">Register</button>
                             </div>
