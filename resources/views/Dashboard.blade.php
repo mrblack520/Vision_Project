@@ -134,8 +134,13 @@
                             <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 
                                     <img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
+<<<<<<< HEAD
+                                    
+                                    {{-- <span>{{ Auth::user()->name }}</span> --}}
+=======
 
                                     <span>{{ Auth::user()->name }}</span>
+>>>>>>> 91321df07c2a2d97d24a506427b1cc55756939b8
                                 </a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
                                 <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
@@ -179,23 +184,33 @@
                             <h2 class="sub-title">Mention Your <span class="text-white"> Details Here</span></h2>
 
                         </div>
-                        <form method="post" action="#" id="contact-form" class="default-form">
+                        <form method="post" action="/upload-image" enctype="multipart/form-data" id="contact-form" class="default-form">
+                            @csrf
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group    ">
-                                    <input type="text" name="username" placeholder="Full Name:" required="">
+                                    <input type="text" name="name" placeholder="Full Name:" required="">
                                 </div>
 
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="phone" required="" placeholder="Contact #:">
+                                    <input type="text" name="contacts" required="" placeholder="Contact #:">
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="subject" required="" placeholder="Address:">
+                                    <input type="text" name="adress" required="" placeholder="Address:">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <input type="email" name="email" placeholder="Email:" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <textarea name="message" placeholder="Details Here: e.g()"></textarea>
+                                    <input type="text" name="price" placeholder="Price:" required="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <input type="text" name="length" placeholder="Length:" required="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <input type="file" name="img" class="form-control" required="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <textarea name="detail" placeholder="Details Here: e.g()"></textarea>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn text-center">
                                     <button class="theme-btn btn-one rounded-pill" type="submit" name="submit-form">Send  Us</button>

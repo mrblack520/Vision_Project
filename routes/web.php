@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\usercontroller;
-
+use App\Http\Controllers\imagecontroller;
 
 
 Route::controller(usercontroller::class)->group(function(){
@@ -53,3 +53,6 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/logout','logout')->name('logout');
 
 });
+
+
+Route::post('/upload-image',[imagecontroller::class,'upload']);
