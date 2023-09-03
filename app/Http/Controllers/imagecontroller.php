@@ -2,8 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use App\Models\User;
 use App\Models\Image;
+use Illuminate\Http\Request;
 
 class imagecontroller extends Controller
 {
@@ -37,6 +38,35 @@ return back();
 
 
     }
+
+    public function update(Request $request){
+        $image= $request->img;
+
+$name= time().$image->getClientOriginalName();
+
+
+
+$image->move(public_path("images/"),$name);
+
+$image_save = new Image;
+
+        $image_save->name=$request->updatename;
+        $image_save->name=$request->updatecontacts;
+        $image_save->name=$request->updateadress;
+        $image_save->name=$request->updateemail;
+        $image_save->name=$request->updateprice;
+        $image_save->name=$request->updatelength;
+        $image_save->name=$request->updatedetail;
+
+        $image_save->image =$name;
+
+$image_save->update();
+
+return back();
+
+    }
+
+
 
 
 

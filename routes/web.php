@@ -56,3 +56,4 @@ Route::controller(usercontroller::class)->group(function(){
 
 
 Route::post('/upload-image',[imagecontroller::class,'upload']);
+

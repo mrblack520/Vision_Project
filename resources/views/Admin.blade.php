@@ -140,8 +140,8 @@
 
             </div>
             <!-- App container ends -->
-<table class="table mt-5">
-    <tr>
+<table class="table mt-5" style="background: linear-gradient()">
+    <tr style="padding="10px"; >
         <th>name </th>
         <th>Contancts</th>
         <th>address</th>
@@ -162,14 +162,14 @@
             <td>{{ $data->email }}</td>
             <td>{{ $data->price }}</td>
             <td>{{ $data->length }}</td>
-            <td><img src="/images/{{ $data->image }}" height="100" width="100" /></td>
+            <td><img src="/images/{{ $data->image }}" height="50px" width="50px" style="border-radius: 50px" /></td>
             <td>{{ $data->details }}</td>
             <td>
             <div class="btn-group" role="group" aria-label="basic-example">
-                <a href="" type="button" class="btn btn-danger"> Edit</a>
+                <a href="/" type="button" class="btn btn-danger">Edit</a>
             </td>
         <td>
-                <button class="btn btn-warning">Delete</button>
+                <a type="submit" href="/userdelete/{{ $data->id }}" class="btn btn-warning">Delete</a>
             </div>
         </td>
         </tr>

@@ -178,33 +178,33 @@
                             <h2 class="sub-title">Mention Your <span class="text-white"> Details Here</span></h2>
 
                         </div>
-                        <form method="post" action="/upload-image" enctype="multipart/form-data" id="contact-form" class="default-form">
+                        <form method="post" action="/update-user" enctype="multipart/form-data" id="contact-form" class="default-form">
                             @csrf
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="name" placeholder="Full Name:" required="">
+                                    <input type="text" name="updatename" placeholder="Full Name:" required="">
                                 </div>
 
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="contacts" required="" placeholder="Contact:">
+                                    <input type="text" name="updatecontacts" required="" placeholder="Contact:">
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="adress" required="" placeholder="Address:">
+                                    <input type="text" name="updateadress" required="" placeholder="Address:">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="email" name="email" placeholder="Email:" required="">
+                                    <input type="email" name="updateemail" placeholder="Email:" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="price" placeholder="Price:" required="">
+                                    <input type="text" name="updateprice" placeholder="Price:" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="length" placeholder="Length:" required="">
+                                    <input type="text" name="updatelength" placeholder="Length:" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="file" name="img" class="form-control" required="">
+                                    <input type="file" name="updateimg" class="form-control" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <textarea name="detail" placeholder="Details Here: e.g()"></textarea>
+                                    <textarea name="updatedetail" placeholder="Details Here: e.g()"></textarea>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn text-center">
                                     <button class="theme-btn btn-one rounded-pill" type="submit" name="submit-form">Send  Us</button>

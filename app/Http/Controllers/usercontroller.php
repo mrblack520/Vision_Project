@@ -283,6 +283,11 @@ return redirect('/signin');
 
       }
 
+    //   public function updateform($user_id){
+
+    //     return view('edit');
+    //   }
+
 
 
 
