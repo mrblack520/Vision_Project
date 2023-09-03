@@ -40,33 +40,41 @@ return back();
     }
 
     public function update(Request $request){
-        $image= $request->img;
+//         $image= $request->img;
 
-$name= time().$image->getClientOriginalName();
+// $name= time().$image->getClientOriginalName();
 
 
 
-$image->move(public_path("images/"),$name);
+// $image->move(public_path("images/"),$name);
 
-$image_save = new Image;
+// $image_save = new Image;
 
-        $image_save->name=$request->updatename;
-        $image_save->name=$request->updatecontacts;
-        $image_save->name=$request->updateadress;
-        $image_save->name=$request->updateemail;
-        $image_save->name=$request->updateprice;
-        $image_save->name=$request->updatelength;
-        $image_save->name=$request->updatedetail;
+//         $image_save->name=$request->updatename;
+//         $image_save->name=$request->updatecontacts;
+//         $image_save->name=$request->updateadress;
+//         $image_save->name=$request->updateemail;
+//         $image_save->name=$request->updateprice;
+//         $image_save->name=$request->updatelength;
+//         $image_save->name=$request->updatedetail;
 
-        $image_save->image =$name;
+//         $image_save->image =$name;
 
-$image_save->update();
+// $image_save->update();
+
+// return back();
+return view('edit');
+    }
+
+public function destroy(string $id){
+
+$image_save = Image::findorFail($id);
+$image_save->delete();
 
 return back();
 
-    }
 
-
+}
 
 
 

@@ -52,8 +52,10 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/userProfile','userProfile');
     Route::get('/logout','logout')->name('logout');
 
+
 });
 
 
 Route::post('/upload-image',[imagecontroller::class,'upload']);
-
+Route::get('/update',[imagecontroller::class,'update']);
+Route::delete('/destroy/{id}',[imagecontroller::class,'destroy'])->name('destroy');

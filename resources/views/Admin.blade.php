@@ -142,20 +142,21 @@
             <!-- App container ends -->
 <table class="table mt-5" style="background: linear-gradient()">
     <tr style="padding="10px"; >
-        <th>name </th>
+        <th>ID </th>
+        <th>Name </th>
         <th>Contancts</th>
-        <th>address</th>
-        <th>emial</th>
-        <th>price</th>
-        <th>length</th>
-        <th>IMAGE</th>
-        <th>detail</th>
+        <th>Address</th>
+        <th>Email</th>
+        <th>Price</th>
+        <th>Length</th>
+        <th>Image</th>
+        <th>Details</th>
         <th>Edit</th>
-        <th>delete</th>
+        <th>Delete</th>
     </tr>
     @foreach($row as $data)
     <tr>
-
+        <td>{{$data->id }}</td>
             <td>{{$data->name }}</td>
             <td>{{ $data->contacts }}</td>
             <td>{{ $data->address }}</td>
@@ -166,10 +167,21 @@
             <td>{{ $data->details }}</td>
             <td>
             <div class="btn-group" role="group" aria-label="basic-example">
-                <a href="/" type="button" class="btn btn-danger">Edit</a>
+                <a href="/update" type="button" class="btn btn-success">Edit</a>
+                </div>
             </td>
         <td>
-                <a type="submit" href="/userdelete/{{ $data->id }}" class="btn btn-warning">Delete</a>
+            <div>
+<form action="{{route ('destroy',$data->id )}}" method="POST" type="button" class="btn btn-danger">
+
+@csrf
+@method("DELETE")
+
+<button class="btn btn-danger">Delete</button>
+</form>
+
+
+                {{-- <a href="{{ url('delete/', $data->id) }}" class="btn btn-warning">Delete</a> --}}
             </div>
         </td>
         </tr>
