@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('images', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->integer('contacts');
+            $table->integer('contacts' , 191);
             $table->string('address');
             $table->string('email');
             $table->integer('price');

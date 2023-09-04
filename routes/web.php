@@ -58,4 +58,4 @@ Route::controller(usercontroller::class)->group(function(){
 Route::post('/upload-image',[imagecontroller::class,'upload']);
 Route::get('/userupdate/{id}',[imagecontroller::class,'updateview']);
 Route::post('/update-user', [imagecontroller::class,'update']);
-
+Route::delete('/destroy/{id}',[imagecontroller::class,'destroy'])->name('destroy');

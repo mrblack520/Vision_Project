@@ -142,22 +142,22 @@
             <!-- App container ends -->
 <table class="table mt-5" style="background: linear-gradient()">
     <tr style="padding="10px"; >
-        <th>name </th>
-        <th>Contancts</th>
-        <th>address</th>
-        <th>emial</th>
-        <th>price</th>
-        <th>length</th>
-        <th>IMAGE</th>
-        <th>detail</th>
+        <th>Name </th>
+        <th>Contacts</th>
+        <th>Address</th>
+        <th>Email</th>
+        <th>Price</th>
+        <th>Length</th>
+        <th>Image</th>
+        <th>Details</th>
         <th>Edit</th>
-        <th>delete</th>
+        <th>Delete</th>
     </tr>
     @foreach($row as $data)
     <tr>
 
             <td>{{$data->name }}</td>
-            <td>{{ $data->contacts }}</td>
+            <td>{{ $data->contact }}</td>
             <td>{{ $data->address }}</td>
             <td>{{ $data->email }}</td>
             <td>{{ $data->price }}</td>
@@ -165,17 +165,30 @@
             <td><img src="/images/{{ $data->image }}" height="50px" width="50px" style="border-radius: 50px" /></td>
             <td>{{ $data->details }}</td>
             <td>
-            <div class="btn-group" role="group" aria-label="basic-example">
-                <a href="/userupdate/{{ $data->id }}" type="button" class="btn btn-danger">Edit</a>
+
+                <a href="/userupdate/{{ $data->id }}" type="button" class="btn btn-success">Edit</a>
+
             </td>
         <td>
-                <a type="submit" href="/userdelete/{{ $data->id }}" class="btn btn-warning">Delete</a>
+<div>
+    <form action="{{route ('destroy',$data->id )}}" method="POST" type="button" class="btn btn-danger">
+
+        @csrf
+        @method("DELETE")
+
+        <button type="button" class="btn btn-danger btn-sm">Delete</button>
+        </form>
             </div>
         </td>
         </tr>
         @endforeach
 </table>
+@if(session('we'))
+<div class="alert alert-primary" role="alert">
+{{session('we')}}
+</div>
 
+@endif
         </div>
         <!-- Main container end -->
 
