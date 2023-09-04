@@ -52,7 +52,6 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/userProfile','userProfile');
     Route::get('/logout','logout')->name('logout');
 
-
 });
 
 
