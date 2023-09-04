@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\User;
+use App\Models\image;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Auth;
 use Session;
@@ -261,8 +262,8 @@ return redirect()->back();
 
     }
     public function admin_panel(){
-
-        return view('Admin');
+        $row = image::all();
+        return view('Admin',compact("row"));
 
                 }
                 public function dashboard(){
@@ -281,6 +282,11 @@ return redirect('/signin');
 
 
       }
+
+    //   public function updateform($user_id){
+
+    //     return view('edit');
+    //   }
 
 
 

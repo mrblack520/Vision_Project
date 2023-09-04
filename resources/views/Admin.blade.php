@@ -140,20 +140,62 @@
 
             </div>
             <!-- App container ends -->
-<table class="table mt-5">
-    <tr>
-        <th>name </th>
+<table class="table mt-5" style="background: linear-gradient()">
+    <tr style="padding="10px"; >
+        <th>ID </th>
+        <th>Name </th>
         <th>Contancts</th>
-        <th>address</th>
-        <th>emial</th>
-        <th>price</th>
-        <th>length</th>
-        <th>IMAGE</th>
-        <th>detail</th>
+        <th>Address</th>
+        <th>Email</th>
+        <th>Price</th>
+        <th>Length</th>
+        <th>Image</th>
+        <th>Details</th>
+        <th>Edit</th>
+        <th>Delete</th>
     </tr>
+<<<<<<< HEAD
     @foreach($data as $row)
     <tr>
     </tr>
+=======
+    @foreach($row as $data)
+    <tr>
+        <td>{{$data->id }}</td>
+            <td>{{$data->name }}</td>
+            <td>{{ $data->contacts }}</td>
+            <td>{{ $data->address }}</td>
+            <td>{{ $data->email }}</td>
+            <td>{{ $data->price }}</td>
+            <td>{{ $data->length }}</td>
+            <td><img src="/images/{{ $data->image }}" height="50px" width="50px" style="border-radius: 50px" /></td>
+            <td>{{ $data->details }}</td>
+            <td>
+            <div class="btn-group" role="group" aria-label="basic-example">
+<<<<<<< HEAD
+                <a href="/userupdate/{{ $data->id }}" type="button" class="btn btn-danger">Edit</a>
+=======
+                <a href="/update" type="button" class="btn btn-success">Edit</a>
+                </div>
+>>>>>>> ab09e5d82712aa693294eada575f6bcfdc9a2882
+            </td>
+        <td>
+            <div>
+<form action="{{route ('destroy',$data->id )}}" method="POST" type="button" class="btn btn-danger">
+
+@csrf
+@method("DELETE")
+
+<button class="btn btn-danger">Delete</button>
+</form>
+
+
+                {{-- <a href="{{ url('delete/', $data->id) }}" class="btn btn-warning">Delete</a> --}}
+            </div>
+        </td>
+        </tr>
+        @endforeach
+>>>>>>> 4c8793ec302ea4694d8bfa82d338a2d513bc8f6b
 </table>
 
         </div>

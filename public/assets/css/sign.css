@@ -89,7 +89,7 @@ display: none;
   position:absolute;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
-  transition: all 600ms ease-out; 
+  transition: all 600ms ease-out;
 }
 .card-front, .card-back {
   width: 100%;
@@ -116,7 +116,7 @@ display: none;
   z-index: 20;
   display: block;
 }
-.form-group{ 
+.form-group{
   position: relative;
   display: block;
     margin: 0;
@@ -157,7 +157,7 @@ display: none;
   -webkit-transition: all 200ms linear;
    transition: all 200ms linear;
 }
-.btn{  
+.btn{
   border-radius: 4px;
   height: 44px;
   font-size: 13px;
@@ -174,7 +174,7 @@ display: none;
   background-color: #ffeba7;
   color: #000000;
 }
-.btn:hover{  
+.btn:hover{
   background-color: #000000;
   color: #ffeba7;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);

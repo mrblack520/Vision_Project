@@ -4,8 +4,8 @@
 
 
 <head>
+    <link rel="stylesheet" href="assets/css/sign.css">
 
-<link rel="stylesheet" href="assets/css/sign.css">
 
 </head>
 
@@ -66,6 +66,8 @@
 	    </div>
 	</div>
  </form>
+
+
 @endsection
   <!-- Bootstrap JavaScript Libraries -->
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
