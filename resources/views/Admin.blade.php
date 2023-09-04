@@ -166,7 +166,7 @@
             <td>{{ $data->details }}</td>
             <td>
             <div class="btn-group" role="group" aria-label="basic-example">
-                <a href="/" type="button" class="btn btn-danger">Edit</a>
+                <a href="/userupdate/{{ $data->id }}" type="button" class="btn btn-danger">Edit</a>
             </td>
         <td>
                 <a type="submit" href="/userdelete/{{ $data->id }}" class="btn btn-warning">Delete</a>

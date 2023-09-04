@@ -39,30 +39,43 @@ return back();
 
     }
 
-    public function update(Request $request){
-        $image= $request->img;
+    public function updateview($id)
+    {
+        $uuser = Image::find($id);
+        return view('edit',compact("uuser"));
+    }
 
-$name= time().$image->getClientOriginalName();
+    public function update(Request $request)
+    {
+        $user = new User;
+        $user->name = $request->name;
+        $user->email = $request->name;
+        $user->password = $request->name;
+        if($user->update())
+        {
+        $image= $request->updateimg;
+
+        $name= time().$image->getClientOriginalName();
 
 
 
-$image->move(public_path("images/"),$name);
+        $image->move(public_path("images/"),$name);
 
-$image_save = new Image;
+        $image_save = new Image;
 
         $image_save->name=$request->updatename;
-        $image_save->name=$request->updatecontacts;
-        $image_save->name=$request->updateadress;
-        $image_save->name=$request->updateemail;
-        $image_save->name=$request->updateprice;
-        $image_save->name=$request->updatelength;
-        $image_save->name=$request->updatedetail;
+        $image_save->contacts=$request->updatecontacts;
+        $image_save->address=$request->updateadress;
+        $image_save->email=$request->updateemail;
+        $image_save->price=$request->updateprice;
+        $image_save->length=$request->updatelength;
+        $image_save->details=$request->updatedetail;
 
         $image_save->image =$name;
 
-$image_save->update();
-
-return back();
+        $image_save->update();
+        return redirect('/admin');
+    }
 
     }
 
