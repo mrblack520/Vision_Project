@@ -151,8 +151,8 @@
         <th>IMAGE</th>
         <th>detail</th>
     </tr>
+    @foreach($data as $row)
     <tr>
-        {{-- @foreach($data as $row) --}}
     </tr>
 </table>
 
