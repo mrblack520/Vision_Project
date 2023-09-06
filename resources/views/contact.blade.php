@@ -20,7 +20,7 @@
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </div>
-           
+
             <div class="social-links">
                 <ul class="clearfix">
                     <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
@@ -84,7 +84,7 @@
                         </form>
                     </div>
                 </div>
-              
+
             </div>
         </div>
     </section>
@@ -95,7 +95,7 @@
     <section class="google-map-section">
         <div class="large-container">
             <div class="map-inner">
-                <div class="google-map" id="contact-google-map" data-map-lat="40.712776" data-map-lng="-74.005974" data-icon-path="assets/images/icons/map-marker.png" data-map-title="Brooklyn, New York, United Kingdom" data-map-zoom="12" data-markers='{
+                <div class="google-map" id="contact-google-map" data-map-lat="40.712776" data-map-lng="-74.005974" data-icon-path="assets/images/icons/map-marker.png" data-map-title="Garden East, Karachi ,Pakistan" data-map-zoom="12" data-markers='{
                         "marker-1": [40.712776, -74.005974, "<h4>Branch Office</h4><p>77/99 New York</p>","assets/images/icons/map-marker.png"]
                     }'>
 

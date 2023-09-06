@@ -53,7 +53,7 @@
                 <div class="overlay-layer"></div>
                 <div class="auto-container">
                     <div class="search-form">
-                        <form method="post" action="index.html">
+                        <form method="post" action="#">
                             <div class="form-group">
                                 <fieldset>
                                     <input type="search" class="form-control" name="search-input" value="" placeholder="Type your keyword and hit" required>
