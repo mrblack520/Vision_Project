@@ -170,15 +170,15 @@
 
             </td>
         <td>
-<div>
+
     <form action="{{route ('destroy',$data->id )}}" method="POST" type="button" class="btn btn-danger">
 
         @csrf
         @method("DELETE")
 
-        <button type="button" class="btn btn-danger btn-sm">Delete</button>
+        <a href="/destroy/{{$data->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
         </form>
-            </div>
+
         </td>
         </tr>
         @endforeach
