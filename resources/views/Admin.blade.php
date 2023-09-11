@@ -165,9 +165,9 @@
             <td><img src="/images/{{ $data->image }}" height="50px" width="50px" style="border-radius: 50px" /></td>
             <td>{{ $data->details }}</td>
             <td>
-<form action="{{URL::TO('/edit/' . $data->id)}}" value="{{$data->email}}">
-                <a href="/userupdate/{{ $data->id }}" type="button" class="btn btn-success">Edit</a>
-            </form>
+
+                <a href="/update/{{ $data->id }}" type="button" class="btn btn-success">Edit</a>
+
             </td>
         <td>
 

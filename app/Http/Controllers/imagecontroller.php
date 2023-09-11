@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\User;
+
 use App\Models\Image;
 use Illuminate\Http\Request;
 
@@ -41,15 +41,22 @@ class imagecontroller extends Controller
     }
     	public function update($id){
       $image_save = Image::find($id);
-      return view("edit" , compact("user"));
+      return view("update" , compact("image_save"));
 }
 public function edit($id, Request $request){
     $image_save = Image::find($id);
     $image_save->name = $request->name;
-    $image_save->email = $request->email;
+        $image_save->contact = $request->contacts;
+        $image_save->address = $request->adress;
+        $image_save->email = $request->email;
+        $image_save->price = $request->price;
+        $image_save->length = $request->length;
+        $image_save->details = $request->detail;
+
     $image_save->update();
+
     $image_save = Image::all();
-       return view("index"  ,compact('users'));
+       return view("index"  ,compact('image_save'));
 
     }
 

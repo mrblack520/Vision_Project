@@ -59,5 +59,5 @@ Route::post('/upload-image',[imagecontroller::class,'upload']);
 // Route::get('/userupdate/{id}',[imagecontroller::class,'updateview']);
 // Route::post('/update-user', [imagecontroller::class,'update']);
 Route::get('/destroy/{id}',[imagecontroller::class,'destroy'])->name('destroy');
-Route::get('/update/{id}', [imagecontroller::class, 'update']);
-route::POST('/edit/{id}', [newcontroller::class, 'edit']);
+Route::get('/update/{id}', [imagecontroller::class, 'update'])->name('update');
+route::POST('/edit/{id}', [imagecontroller::class, 'edit'])->name('update');

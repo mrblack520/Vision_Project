@@ -178,36 +178,36 @@
                             <h2 class="sub-title">Mention Your <span class="text-white"> Details Here</span></h2>
 
                         </div>
-                        <form method="post" action="" enctype="multipart/form-data" id="contact-form" class="default-form">
+                        <form method="POST" action="{{URL::TO('/edit/' . $image_save->id)}}" enctype="multipart/form-data" id="contact-form" class="default-form">
                             @csrf
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="updatename" placeholder="Full Name:" required="">
+                                    <input type="text" name="name" value="{{$image_save->name}}" placeholder="Full Name:" required="">
                                 </div>
 
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="updatecontacts" required="" placeholder="Contact:">
+                                    <input type="text" name="contacts" value="{{$image_save->contact}}" required="" placeholder="Contact:">
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="updateadress" required="" placeholder="Address:">
+                                    <input type="text" name="adress" required="" value="{{$image_save->address}}" placeholder="Address:">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="email" name="updateemail" placeholder="Email:" required="">
+                                    <input type="email" name="email" placeholder="Email:" value="{{$image_save->email}}" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="updateprice" placeholder="Price:" required="">
+                                    <input type="text" name="price" placeholder="Price:" value="{{$image_save->price}}" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="updatelength" placeholder="Length:" required="">
+                                    <input type="text" name="length" placeholder="Length:" value="{{$image_save->length}}" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="file" name="updateimg" class="form-control" required="">
+                                    <input type="file" name="img" class="form-control" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <textarea name="updatedetail" placeholder="Details Here: e.g()"></textarea>
+                                    <textarea name="detail" value="{{$image_save->details}}" placeholder="Details Here: e.g()"></textarea>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn text-center">
-                                    <button class="theme-btn btn-one rounded-pill" type="submit" name="submit-form">Send  Us</button>
+                                    <button class="theme-btn btn-one rounded-pill" type="submit" name="submit-form">Update</button>
                                 </div>
                             </div>
                         </form>
