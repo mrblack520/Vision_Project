@@ -40,12 +40,16 @@
 
               <!-- App brand starts -->
      <div class="app-brand px-3 py-2 d-flex align-items-center">
+        <div class="upper-box clearfix">
+            <figure class="logo-box pull-left"><a href="/"><img class="logo1" src="./assets/images/Perfect logo.png" width="100px" alt=""></a></figure>
 
+        </div>
      </div>
      <!-- App brand ends -->
 
                 <!-- Sidebar menu starts -->
                 <div class="sidebarMenuScroll">
+
                     <ul class="sidebar-menu">
                         <li class="active current-page">
                             <a href="/dash">

@@ -175,7 +175,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 form-column">
                     <div class="form-inner">
                         <div class="sec-title">
-                            <h2 class="sub-title">Mention Your <span class="text-white"> Details Here</span></h2>
+                            <h2 class="sub-title">Update <span class="text-white"> Details Here</span></h2>
 
                         </div>
                         <form method="POST" action="{{URL::TO('/edit/' . $image_save->id)}}" enctype="multipart/form-data" id="contact-form" class="default-form">
@@ -217,7 +217,6 @@
             </div>
         </div>
     </section>
-
 
 
 
