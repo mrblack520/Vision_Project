@@ -178,7 +178,7 @@
                             <h2 class="sub-title">Mention Your <span class="text-white"> Details Here</span></h2>
 
                         </div>
-                        <form method="post" action="/update-user" enctype="multipart/form-data" id="contact-form" class="default-form">
+                        <form method="post" action="" enctype="multipart/form-data" id="contact-form" class="default-form">
                             @csrf
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">

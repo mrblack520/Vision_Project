@@ -39,6 +39,20 @@ class imagecontroller extends Controller
 
 
     }
+    	public function update($id){
+      $image_save = Image::find($id);
+      return view("edit" , compact("user"));
+}
+public function edit($id, Request $request){
+    $image_save = Image::find($id);
+    $image_save->name = $request->name;
+    $image_save->email = $request->email;
+    $image_save->update();
+    $image_save = Image::all();
+       return view("index"  ,compact('users'));
+
+    }
+
 
     // public function updateview($id)
     // {
