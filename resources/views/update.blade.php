@@ -52,8 +52,8 @@
 </head>
 
 <body>
-    <!-- Page wrapper start -->
-    <div class="page-wrapper">
+       <!-- Page wrapper start -->
+       <div class="page-wrapper">
 
         <!-- Main container start -->
         <div class="main-container">
@@ -151,7 +151,6 @@
                     <!-- App header actions end -->
                 </div>
             </div>
-
 
 
 

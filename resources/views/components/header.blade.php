@@ -83,11 +83,11 @@
                         <div class="sidebar-info-contents">
                             <div class="content-inner">
                                 <div class="logo">
-                                    <a href="index.html"><img class="logo1" src="assets/images/Perfect logo.png" width="200px"  alt="" /></a>
+                                    <a href="#"><img class="logo1" src="assets/images/Perfect logo.png" width="200px"  alt="" /></a>
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
-                                    <p>Founded in 2012, Perfect View focusing luxury real estate services focused on the sale and rent in Lahore, Islamabad, Rawalpindi, Karachi, and primarily focused on residential, commercial areas.</p>
+                                    <p>Perfect View focusing on 3D interior designing services in Lahore, Islamabad, Rawalpindi, Karachi, and primarily focused on residential, commercial areas.</p>
                                     <p>  Perfect View is known for its professional expertise and excellent customer support and property consultation by the locality senior most expert.</p>
                                     <a href="/about" class="theme-btn btn-one">About Us</a>
                                 </div>

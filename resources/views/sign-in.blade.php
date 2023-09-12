@@ -27,11 +27,11 @@
 										<div class="section text-center">
 											<h4 class="mb-4 pb-3">Sign In</h4>
 											<div class="form-group">
-												<input type="email" class="form-style" placeholder="Email" name="email">
+												<input type="email" class="form-style" placeholder="Email" name="email" required="">
 												<i class="input-icon uil uil-at"></i>
 											</div>
 											<div class="form-group mt-2">
-												<input type="password" class="form-style" placeholder="Password" name="password">
+												<input type="password" class="form-style" placeholder="Password" name="password" required="">
 												<i class="input-icon uil uil-lock-alt"></i>
 											</div>
 											<button class="btn mt-4">SignIn</button>
