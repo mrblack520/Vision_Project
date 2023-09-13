@@ -6,7 +6,7 @@
     <div class="boxed_wrapper">
         @include('components.loader')
 
-       
+
 
 
         <!-- page-title -->
@@ -32,12 +32,12 @@
                         <div class="content-box">
                             <div class="sec-title">
                                 <span class="sub-title">Who We are</span>
-                                <h2>About the <span>Real Estate <br />Company</span></h2>
+                                <h2>About Our <span>Interior Designing <br />Company</span></h2>
                             </div>
                             <div class="text">
-                                <p>Penatibus turpis vel eget cursus ut et. Lacus velit, venenatis eu morbi egestas amet, nunc. Ut sem libero sed nisl tincidunt tristique egestas non vitae. Pulvinar quis duis leo in quis arcu enim. Vulputate velit mattis
-                                    tincidunt nunc sed mauris, sit amet ullamcorper. Ullamcorper nunc mauris nunc proin sollicitudin mattis viverra purus congue.</p>
-                                <p>Enim auctor est et, amet. Ante ridiculus sed eget felis, aliquam venenatis. Amet dolor feugiat ligula gravida a malesuada eu adipiscing volutpat.</p>
+                                <p>Perfect View focusing on 3D interior designing services in Lahore, Islamabad, Rawalpindi, Karachi, and primarily focused on residential, commercial areas.
+                                    </p>
+                                <p> Perfect View is known for its professional expertise and excellent customer support and property consultation by the locality senior most expert.</p>
                                 <a href="/about" class="theme-btn btn-one">About Info</a>
                             </div>
                         </div>
@@ -100,8 +100,8 @@
                             </a>
                         </div>
                     </div>
-                 
-                
+
+
                 </div>
             </div>
         </section>
@@ -148,17 +148,17 @@
                             </a>
                         </div>
                     </div>
-              
+
                 </div>
             </div>
         </section>
         <!-- service-section end -->
 
 
-     
 
 
-      
+
+
 
 
         <!--Scroll to top-->

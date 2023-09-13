@@ -40,12 +40,16 @@
 
               <!-- App brand starts -->
      <div class="app-brand px-3 py-2 d-flex align-items-center">
+        <div class="upper-box clearfix">
+            <figure class="logo-box pull-left"><a href="/"><img class="logo1" src="./assets/images/Perfect logo.png" width="100px" alt=""></a></figure>
 
+        </div>
      </div>
      <!-- App brand ends -->
 
                 <!-- Sidebar menu starts -->
                 <div class="sidebarMenuScroll">
+
                     <ul class="sidebar-menu">
                         <li class="active current-page">
                             <a href="/dash">
@@ -166,19 +170,19 @@
             <td>{{ $data->details }}</td>
             <td>
 
-                <a href="/userupdate/{{ $data->id }}" type="button" class="btn btn-success">Edit</a>
+                <a href="/update/{{ $data->id }}" type="button" class="btn btn-success">Edit</a>
 
             </td>
         <td>
-<div>
+
     <form action="{{route ('destroy',$data->id )}}" method="POST" type="button" class="btn btn-danger">
 
         @csrf
         @method("DELETE")
 
-        <button type="button" class="btn btn-danger btn-sm">Delete</button>
+        <a href="/destroy/{{$data->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
         </form>
-            </div>
+
         </td>
         </tr>
         @endforeach
