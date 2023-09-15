@@ -47,11 +47,16 @@ Route::controller(usercontroller::class)->group(function(){
     Route::get('/modal19','modal19');
     Route::get('/modal20','modal20');
     Route::get('/modal21','modal21');
+    // Route::get('/leapix','leapix');
     Route::get('/reports','report');
     Route::get('/clients','clients');
     Route::get('/userProfile','userProfile');
     Route::get('/logout','logout')->name('logout');
 
+});
+
+Route::get('/leapix', function () {
+    return view('leapix');
 });
 
 
