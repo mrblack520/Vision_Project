@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\customController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\usercontroller;
 use App\Http\Controllers\imagecontroller;
@@ -55,9 +56,6 @@ Route::controller(usercontroller::class)->group(function(){
 
 });
 
-Route::get('/leapix', function () {
-    return view('leapix');
-});
 
 
 Route::post('/upload-image',[imagecontroller::class,'upload']);
@@ -71,3 +69,7 @@ Route::get('/destroy/{id}',[imagecontroller::class,'destroy'])->name('destroy');
 Route::get('/update/{id}', [imagecontroller::class, 'update'])->name('update');
 route::POST('/edit/{id}', [imagecontroller::class, 'edit'])->name('update');
 
+
+
+Route::get('/lea' , [customController::class,'index']);
+Route::get('/api/v1/disparity', 'YourController@yourMethod');
