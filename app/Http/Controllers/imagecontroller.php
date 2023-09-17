@@ -55,7 +55,10 @@ public function edit($id, Request $request){
     $image_save->update();
 
     $image_save = Image::all();
-       return view("index"  ,compact('image_save'));
+    //    return view("Admin"  ,compact('image_save'));
+
+    return redirect()->intended("/admin");
+
 
     }
 

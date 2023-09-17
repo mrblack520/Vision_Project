@@ -18,16 +18,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
         <!-- Stylesheets -->
         <link href="./assets/css/font-awesome-all.css" rel="stylesheet">
-        <link href="assets/css/flaticon.css" rel="stylesheet">
-        <link href="assets/css/owl.css" rel="stylesheet">
-        <link href="assets/css/bootstrap.css" rel="stylesheet">
-        <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-        <link href="assets/css/animate.css" rel="stylesheet">
-        <link href="assets/css/nice-select.css" rel="stylesheet">
-        <link href="assets/css/color.css" rel="stylesheet">
-        <link href="assets/css/elpath.css" rel="stylesheet">
-        <link href="assets/css/style.css" rel="stylesheet">
-        <link href="assets/css/responsive.css" rel="stylesheet">
+        <link href="/assets/css/flaticon.css" rel="stylesheet">
+        <link href="/assets/css/owl.css" rel="stylesheet">
+        <link href="/assets/css/bootstrap.css" rel="stylesheet">
+        <link href="/assets/css/jquery.fancybox.min.css" rel="stylesheet">
+        <link href="/assets/css/animate.css" rel="stylesheet">
+        <link href="/assets/css/nice-select.css" rel="stylesheet">
+        <link href="/assets/css/color.css" rel="stylesheet">
+        <link href="/assets/css/elpath.css" rel="stylesheet">
+        <link href="/assets/css/style.css" rel="stylesheet">
+        <link href="/assets/css/responsive.css" rel="stylesheet">
 
     <!-- Meta -->
     <meta name="description" content="Marketplace for Bootstrap Admin Dashboards" />
@@ -52,107 +52,6 @@
 </head>
 
 <body>
-       <!-- Page wrapper start -->
-       <div class="page-wrapper">
-
-        <!-- Main container start -->
-        <div class="main-container">
-
-            <!-- Sidebar wrapper start -->
-            <nav id="sidebar" class="sidebar-wrapper">
-        <!-- App brand starts -->
-     <div class="app-brand px-3 py-2 d-flex align-items-center">
-
-     </div>
-     <!-- App brand ends -->
-
-
-                <!-- Sidebar menu starts -->
-                <div class="sidebarMenuScroll">
-                    <ul class="sidebar-menu">
-                        <li class="active current-page">
-                            <a href="/dash">
-									<i class="icon-stacked_line_chart"></i>
-									<span class="menu-text">User Dashboard</span>
-								</a>
-                        </li>
-                        <li>
-                            <a href="/reports">
-									<i class="icon-bar-chart"></i>
-									<span class="menu-text">Reports</span>
-								</a>
-                        </li>
-                        <li>
-                            <a href="/clients">
-									<i class="icon-filter_list"></i>
-									<span class="menu-text">Clients</span>
-								</a>
-                        </li>
-                        <li>
-                            <a href="#">
-									<i class="icon-sentiment_satisfied_alt"></i>
-									<span class="menu-text">Agents</span>
-								</a>
-                        </li>
-
-                        <li>
-                            <a href="agent-profile">
-									<i class="icon-support_agent"></i>
-									<span class="menu-text">Agent Profile</span>
-								</a>
-                        </li>
-
-
-
-
-            </nav>
-             <!-- Sidebar wrapper end -->
-
-            <!-- App container starts -->
-             <div class="app-container">
-
-                <!-- App header starts -->
-                <div class="app-header d-flex align-items-center">
-       <!-- Toggle buttons start -->
-       <div class="d-flex">
-        <button class="btn btn-outline-light toggle-sidebar" id="toggle-sidebar">
-                <i class="icon-menu"></i>
-            </button>
-        <button class="btn btn-outline-light pin-sidebar" id="pin-sidebar">
-                <i class="icon-menu"></i>
-            </button>
-    </div>
-    <!-- Toggle buttons end -->
-
-
-
-                    <!-- App header actions start -->
-                    <div class="header-actions">
-
-
-                        <div class="dropdown ms-2">
-                            <a class="dropdown-toggle d-flex align-items-center user-settings" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-
-                                    <img src="assets/images/user3.png" class="img-3x m-2 me-0 rounded-3" alt="Bootstrap Gallery" />
-
-                                    <span>{{ Auth::user()->name }}</span>
-                                </a>
-                            <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
-                                <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
-                                            class="icon-gitlab fs-4 me-3"></i>User Profile</a>
-
-                                <a class="dropdown-item d-flex align-items-center py-2" href="{{ url('logout') }}"><i
-                                            class="icon-log-out fs-4 me-3"></i>Logout</a>
-                            </div>
-                        </div>
-
-
-                    </div>
-                    <!-- App header actions end -->
-                </div>
-            </div>
-
-
 
 
 
@@ -179,6 +78,7 @@
                         </div>
                         <form method="POST" action="{{URL::TO('/edit/' . $image_save->id)}}" enctype="multipart/form-data" id="contact-form" class="default-form">
                             @csrf
+                            
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <input type="text" name="name" value="{{$image_save->name}}" placeholder="Full Name:" required="">
@@ -200,7 +100,7 @@
                                     <input type="text" name="length" placeholder="Length:" value="{{$image_save->length}}" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="file" name="img" class="form-control" required="">
+                                    <input type="file" name="img" class="form-control" value="{{$image_save->image}}" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <textarea name="detail" value="{{$image_save->details}}" placeholder="Details Here: e.g()"></textarea>

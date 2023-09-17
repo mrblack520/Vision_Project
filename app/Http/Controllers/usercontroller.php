@@ -264,7 +264,7 @@ return redirect()->back();
 
     }
     public function admin_panel(){
-        $row = image::all();
+        $row = Image::all();
         return view('Admin',compact("row"));
 
                 }

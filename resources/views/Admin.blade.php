@@ -145,7 +145,7 @@
             </div>
             <!-- App container ends -->
 <table class="table mt-5" style="background: linear-gradient()">
-    <tr style="padding="10px"; >
+    <tr style="padding:10px;" >
         <th>Name </th>
         <th>Contacts</th>
         <th>Address</th>
