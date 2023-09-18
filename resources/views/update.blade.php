@@ -78,7 +78,7 @@
                         </div>
                         <form method="POST" action="{{URL::TO('/edit/' . $image_save->id)}}" enctype="multipart/form-data" id="contact-form" class="default-form">
                             @csrf
-                            
+                           @method('PUT')
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <input type="text" name="name" value="{{$image_save->name}}" placeholder="Full Name:" required="">
@@ -103,7 +103,7 @@
                                     <input type="file" name="img" class="form-control" value="{{$image_save->image}}" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <textarea name="detail" value="{{$image_save->details}}" placeholder="Details Here: e.g()"></textarea>
+                                    <textarea name="detail" value="{{$image_save->details}}" placeholder="Details Here: e.g()">{{$image_save->details}}</textarea>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn text-center">
                                     <button class="theme-btn btn-one rounded-pill" type="submit" name="submit-form">Update</button>

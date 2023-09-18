@@ -127,7 +127,7 @@
                                     {{-- <span>{{ Auth::user()->name }}</span>   --}}
 								</a>
                             <div class="dropdown-menu dropdown-menu-end dropdown-menu-sm shadow-sm gap-3">
-                                <a class="dropdown-item d-flex align-items-center py-2" href="profile"><i
+                                <a class="dropdown-item d-flex align-items-center py-2" href="/userProfile"><i
 											class="icon-gitlab fs-4 me-3"></i>User Profile</a>
 
                                 <a class="dropdown-item d-flex align-items-center py-2" href="{{ url('logout') }}"><i

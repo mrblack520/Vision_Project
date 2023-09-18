@@ -10,6 +10,14 @@ class imagecontroller extends Controller
 {
     public function upload(Request $request)
     {
+// $request->validate([
+// 'name' =>'req'
+
+
+// ]);
+
+
+
 
         $image = $request->img;
 
@@ -43,6 +51,17 @@ class imagecontroller extends Controller
       return view("update" , compact("image_save"));
 }
 public function edit($id, Request $request){
+
+    $image = $request->img;
+
+    $name = time().$image->getClientOriginalName();
+
+
+
+    $image->move(public_path("images/"), $name);
+
+    $image_save = new Image();
+
     $image_save = Image::find($id);
     $image_save->name = $request->name;
         $image_save->contact = $request->contacts;
@@ -50,6 +69,8 @@ public function edit($id, Request $request){
         $image_save->email = $request->email;
         $image_save->price = $request->price;
         $image_save->length = $request->length;
+        $image_save->image = $name;
+
         $image_save->details = $request->detail;
 
     $image_save->update();
@@ -63,52 +84,6 @@ public function edit($id, Request $request){
     }
 
 
-    // public function updateview($id)
-    // {
-    //     $uuser = Image::find($id);
-    //     return view('edit', compact("uuser"));
-    // }
-
-    // public function update(Request $request)
-    // {
-    //     $user = new User();
-    //     $user->name = $request->name;
-    //     $user->email = $request->name;
-    //     $user->password = $request->name;
-    //     if($user->update()) {
-    //         $image = $request->updateimg;
-
-    //         $name = time().$image->getClientOriginalName();
-
-
-
-    //         $image->move(public_path("images/"), $name);
-
-    //         $image_save = new Image();
-
-    //         $image_save->name = $request->updatename;
-    //         $image_save->contacts = $request->updatecontacts;
-    //         $image_save->address = $request->updateadress;
-    //         $image_save->email = $request->updateemail;
-    //         $image_save->price = $request->updateprice;
-    //         $image_save->length = $request->updatelength;
-    //         $image_save->details = $request->updatedetail;
-
-    //         $image_save->image = $name;
-
-    //         $image_save->update();
-    //         return redirect('/admin');
-    //     }
-
-
-
-
-
-
-
-
-
-    // }
 
     public function destroy(string $id){
 
